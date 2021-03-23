@@ -1,0 +1,6 @@
+Explainability feedback tool for Natural Language Processing
+
+Explainability is one of the hot topics in Artificial Intelligence, where the prevalence of black-box systems raises issues with trust and compliance. For instance, Machine Learning (ML) systems exist that can process medical literature and reports, and identify relations, such as drugs causing adverse effects. These systems allow to automatically process vast amounts of text, and they can make discoveries and breakthroughs that would not otherwise be possible. However, these systems can make mistakes, and produce outputs that are hard to explain for human users. The main reason for the errors lies on the training data that ML systems use to learn, which can be biased or insufficient. Explainability modules provide ways to interpret the outputs of automatic systems by linking the input to the learned knowledge in a user-friendly manner.
+
+In this project we propose to develop a feedback tool for interpretable outputs for Natural Language Processing tasks. The interpretable outputs can be sentences that are aligned at phrase level, where the alignments consist of relations (e.g. "Ambien" is-a-type-of "drug"); and the goal is to design a user interface to provide explainable outputs to the user and collect their feedback about the quality of the decisions made by the ML tool.
+

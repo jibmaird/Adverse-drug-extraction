@@ -1,0 +1,3 @@
+- get_model.pl: download model to test locally.
+- test.pl: run test with trained model.
+- run_dlaas.pl: run train and test in DLaaS

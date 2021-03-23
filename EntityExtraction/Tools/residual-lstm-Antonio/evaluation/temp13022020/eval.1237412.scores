@@ -1,0 +1,3 @@
+processed 15792 tokens with 371 phrases; found: 209 phrases; correct: 138.
+accuracy:  96.97%; 138 371 209 precision:  66.03%; recall:  37.20%; FB1:  47.59
+         Mutation:  138  371  209 precision:  66.03%; recall:  37.20%; FB1:  47.59  209

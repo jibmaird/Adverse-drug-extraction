@@ -1,0 +1,20 @@
+updating: create_pretraining_data.py (deflated 70%)
+updating: extract_features.py (deflated 67%)
+updating: __init__.py (deflated 37%)
+updating: modeling.py (deflated 75%)
+updating: modeling_test.py (deflated 71%)
+updating: optimization.py (deflated 64%)
+updating: optimization_test.py (deflated 50%)
+updating: run_classifier.py (deflated 75%)
+updating: run_ner.py (deflated 76%)
+updating: run_pretraining.py (deflated 71%)
+updating: run_qa.py (deflated 73%)
+updating: run_re.py (deflated 77%)
+updating: tf_metrics.py (deflated 81%)
+updating: tokenization.py (deflated 68%)
+updating: tokenization_test.py (deflated 71%)
+updating: ADE-train.yaml (deflated 59%)
+Starting to train ...
+b7478926-30c9-468a-acc7-53e2f855f4f3 fe80e137-4fb0-4c17-a944-579e52e8140f
+OK
+Model-ID is 'model-ekl7qoyi'

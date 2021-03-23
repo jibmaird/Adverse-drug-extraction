@@ -1,0 +1,2369 @@
+0.2538071065989847
+[[0.678 0.322]]
+Document id: 0
+Sentence: Minor electrocardiographical changes were noted in five out of six patients who were not receiving a cardiac glycoside and four out of six who were receiving ouabain , and none of the 16 who were receiving digoxin .
+
+('Probability(0) =', 0.678)
+True class: 1
+[('who', 0.13797308102921554), ('receiving', 0.11893104207325617), ('were', -0.06788703606623223), ('in', 0.020963704746496937), ('of', 0.01929777819673559), ('not', -0.013300946087517548)]
+
+
+
+Document id: 1
+Sentence: We report a fatal case of acute interstitial pneumonitis in a patient treated with carmustine ( BCNU ) for a brain tumor .
+
+('Probability(0) =', 0.258)
+True class: 0
+[('pneumonitis', 0.0856405860954783), ('in', 0.08141918566758903), ('fatal', 0.05489555075589145), ('acute', 0.05319753545518997), ('interstitial', 0.045157847155133025), ('with', 0.043585988019179886)]
+
+
+
+Document id: 2
+Sentence: Association of zomepirac administration with renal cortical necrosis is not known to have been previously demonstrated .
+
+('Probability(0) =', 0.748)
+True class: 0
+[('administration', 0.12915619293330008), ('not', -0.054374703172130195), ('Association', -0.031550415283101325), ('renal', 0.02629256299801265), ('demonstrated', -0.01896220795825056), ('have', -0.018395054336098594)]
+
+
+
+Document id: 3
+Sentence: Nine delirious patients suffering from lithium intoxication were examined with the Mini - Mental State Exam ( MMS ) to describe the clinical course of the disorder .
+
+('Probability(0) =', 0.734)
+True class: 1
+[('describe', 0.14496958764336984), ('were', -0.08313645403088292), ('lithium', 0.0593777893650497), ('clinical', -0.02396765641811129), ('the', -0.02227877670233974), ('delirious', -0.02192947042526597)]
+
+
+
+Document id: 4
+Sentence: An acute ischaemic event associated with the use of venlafaxine : a case report and proposed pathophysiological mechanisms .
+
+('Probability(0) =', 0.328)
+True class: 1
+[('associated', 0.28627426687348184), ('report', 0.06848475304672974), ('acute', 0.06317336120070996), ('the', -0.05527611740782514), ('case', 0.046341318777543695), ('and', -0.026675037407055756)]
+
+
+
+Document id: 5
+Sentence: This is the first report of a possible association between an acute cardiovascular event and venlafaxine .
+
+('Probability(0) =', 0.59)
+True class: 1
+[('acute', 0.14300194697626376), ('report', 0.07046080378258336), ('first', 0.06128895667008659), ('association', 0.025429096981244844), ('the', -0.02285657021677842), ('of', 0.021617416772225763)]
+
+
+
+Document id: 6
+Sentence: The association of venlafaxine treatment with ischaemic events could be explained by its unique pharmacological and haemodynamic properties .
+
+('Probability(0) =', 0.838)
+True class: 1
+[('by', 0.0841693345053866), ('association', 0.06896228141473491), ('be', -0.0591136339030932), ('The', -0.052760661301980066), ('and', -0.038753996548020135), ('ischaemic', -0.03442981634561198)]
+
+
+
+Document id: 7
+Sentence: Prolonged prostate - specific antigen response in flutamide withdrawal syndrome despite disease progression .
+
+('Probability(0) =', 0.672)
+True class: 1
+[('withdrawal', 0.09070507251363177), ('syndrome', 0.046247223064578694), ('response', 0.038656582694741905), ('Prolonged', -0.038389002802123755), ('progression', -0.03444698928602735), ('prostate', 0.03133984383783)]
+
+
+
+Document id: 8
+Sentence: Flutamide withdrawal syndrome is characterized by a decrease in prostate - specific antigen ( PSA ) after flutamide withdrawal in a subset of patients with progressing metastatic carcinoma of the prostate .
+
+('Probability(0) =', 0.632)
+True class: 1
+[('after', 0.08415369014838216), ('the', -0.0659106909907638), ('with', 0.05452929485734894), ('is', -0.04896167031055794), ('by', 0.04501499107303609), ('syndrome', 0.03378811894609714)]
+
+
+
+Document id: 9
+Sentence: We describe a patient with androgen - independent prostate cancer in whom PSA continued to decrease for a period of 15 months after flutamide withdrawal .
+
+('Probability(0) =', 0.386)
+True class: 1
+[('describe', 0.10315290745950283), ('We', 0.0636766119278679), ('in', 0.05794019353563105), ('after', 0.05524915231955547), ('with', 0.0512143207811736), ('cancer', 0.03898807687461336)]
+
+
+
+Document id: 10
+Sentence: This case illustrates the potential decoupling of PSA response from disease status in flutamide withdrawal .
+
+('Probability(0) =', 0.71)
+True class: 1
+[('the', -0.08427909067732718), ('withdrawal', 0.08289274515223681), ('status', 0.06569865146246726), ('from', 0.03298067626012288), ('response', 0.028783426956560915), ('of', -0.02027879310020003)]
+
+
+
+Document id: 11
+Sentence: BACKGROUND : We report six cases of psychosis in patients with akinetic - rigid syndromes who were treated with risperidone .
+
+('Probability(0) =', 0.448)
+True class: 0
+[('were', -0.09515273723454612), ('report', 0.09052870027524956), ('in', 0.09007677191187245), ('with', 0.07940007177905617), ('We', 0.06901634391908393), ('who', 0.06718736839799581)]
+
+
+
+Document id: 12
+Sentence: One patient required nursing home placement and a feeding gastrostomy as a result of the worsening parkinsonism during risperidone treatment , but was able to return home and have the gastrostomy removed after switching from risperidone to clozapine .
+
+('Probability(0) =', 0.744)
+True class: 0
+[('the', -0.06997128790972316), ('during', 0.058774097404584835), ('risperidone', 0.046602291853120016), ('was', -0.04261198348439029), ('clozapine', 0.037843963556028044), ('after', 0.028259849393914613)]
+
+
+
+Document id: 13
+Sentence: Two of the five patients who worsened motorically also developed encephalopathy during risperidone treatment ; the encephalopathy resolved when the patients were switched to clozapine treatment .
+
+('Probability(0) =', 0.624)
+True class: 0
+[('who', 0.08147131921751086), ('developed', 0.0794029760791914), ('were', -0.07432139196016867), ('during', 0.06613177074885866), ('clozapine', 0.03406957625141639), ('treatment', 0.03404014817208153)]
+
+
+
+Document id: 14
+Sentence: A patient with adenocarcinoma of the prostate with bone metastases experienced dyspnea possibly related to the ingestion of these tablets .
+
+('Probability(0) =', 0.638)
+True class: 0
+[('related', 0.09003828555530435), ('with', 0.06625797506938734), ('these', -0.033559496115913245), ('possibly', 0.03081772350375504), ('the', -0.029013301363045328), ('prostate', 0.024283860067016157)]
+
+
+
+Document id: 15
+Sentence: A 14 - year - old female developed systemic lupus erythematosus ( SLE ) - like symptoms , rash , fever , leukopenia and positive anti - nuclear antibody ( ANA ) two weeks after administration of carbamazepine ( CBZ ; Tegretol ) used against benign Rolandic epilepsy .
+
+('Probability(0) =', 0.378)
+True class: 0
+[('after', 0.11754685558976345), ('developed', 0.08542417227977298), ('old', 0.06974549879323344), ('year', 0.05329391719241776), ('administration', 0.05270647041382178), ('fever', 0.043863642415972556)]
+
+
+
+Document id: 16
+Sentence: Clinical symptoms and leukopenia normalized after discontinuation of CBZ and administration of prednisolone at 40 mg .
+
+('Probability(0) =', 0.74)
+True class: 0
+[('after', 0.07570534784124859), ('administration', 0.0575635126841568), ('symptoms', -0.034585757906181874), ('and', -0.03391653620444729), ('mg', -0.029764058478124574), ('at', -0.016250526772520656)]
+
+
+
+Document id: 17
+Sentence: Management of hypophosphatemia induced by high - flux hemodiafiltration for the treatment of vancomycin toxicity : intravenous phosphorus therapy versus use of a phosphorus - enriched dialysate .
+
+('Probability(0) =', 0.482)
+True class: 1
+[('induced', 0.2952021712837349), ('toxicity', 0.09341790099372482), ('phosphorus', -0.08001584995594367), ('the', -0.07762321436557167), ('of', -0.034470273555740824), ('treatment', -0.026363180071500236)]
+
+
+
+Document id: 18
+Sentence: We describe two patients who developed hypophosphatemia as a consequence of this form of therapy .
+
+('Probability(0) =', 0.464)
+True class: 1
+[('therapy', 0.09911960466671135), ('who', 0.0861616704193677), ('describe', 0.07532650145341177), ('developed', 0.0692123380408841), ('this', -0.053861426897301896), ('We', 0.05300940545458481)]
+
+
+
+Document id: 19
+Sentence: For the second patient , hypophosphatemia was corrected , during hemodiafiltration , with the use of a phosphorus - enriched dialysate .
+
+('Probability(0) =', 0.796)
+True class: 1
+[('during', 0.12268832093433996), ('was', -0.07450551533162968), ('use', 0.06320746602068171), ('with', 0.04115632655539362), ('the', -0.040777804364791496), ('hemodiafiltration', -0.022490962447620992)]
+
+
+
+Document id: 20
+Sentence: This simple method was more efficient than intravenous therapy in ameliorating the hypophosphatemia secondary to aggressive hemodiafiltration treatment .
+
+('Probability(0) =', 0.792)
+True class: 1
+[('secondary', 0.13122654429822853), ('was', -0.08156638224122416), ('therapy', 0.06245222205572898), ('the', -0.04606442324453625), ('than', -0.02589729855894618), ('hemodiafiltration', -0.02255086577113924)]
+
+
+
+Document id: 21
+Sentence: CONCLUSIONS : Symptoms and pathologic changes of colitis are associated with exposure to rofecoxib .
+
+('Probability(0) =', 0.478)
+True class: 0
+[('associated', 0.384546397570764), ('and', -0.05129329524242208), ('are', -0.04243610047939314), ('of', -0.028432535337765203), ('pathologic', -0.0268236503821201), ('colitis', 0.025791289626760656)]
+
+
+
+Document id: 22
+Sentence: In one case , disulfiram was the only potential teratogen exposed to the fetus .
+
+('Probability(0) =', 0.912)
+True class: 0
+[('was', -0.07169633981287334), ('case', 0.04093844736973615), ('to', 0.02363952271923165), ('disulfiram', 0.018176436564847524), ('In', -0.017444597246712653), ('the', -0.00850565877075414)]
+
+
+
+Document id: 23
+Sentence: CASE REPORT : We hereby report a case of radiation recall dermatitis and myositis occurring on gemcitabine monotherapy , five months after completing chemoradiation for locally advanced pancreatic cancer .
+
+('Probability(0) =', 0.334)
+True class: 0
+[('after', 0.14690757018832828), ('case', 0.0860892751889449), ('report', 0.08466414774883453), ('We', 0.04264044792309579), ('occurring', 0.040728107430911445), ('of', 0.03596330486112757)]
+
+
+
+Document id: 24
+Sentence: After forty - eight hours , he developed jaundice and transaminasemia , which subsided by the eighth day .
+
+('Probability(0) =', 0.85)
+True class: 1
+[('by', 0.13051827097475635), ('the', -0.04384200485843851), ('he', -0.018667730229403285), ('jaundice', 0.01677954527064185), ('forty', -0.01566278960529237), ('eighth', -0.010641773367041222)]
+
+
+
+Document id: 25
+Sentence: Only a few reports of overt jaundice are associated with streptokinase .
+
+('Probability(0) =', 0.432)
+True class: 1
+[('associated', 0.4998376926752303), ('are', -0.0530869422201202), ('with', 0.038986694735820296), ('overt', -0.024822963215840717), ('of', -0.021210030978980547), ('reports', -0.01382900145222207)]
+
+
+
+Document id: 26
+Sentence: We report the case histories of identical twin brothers who developed concordant acute lymphoblastic leukemia at the age of 4 years and who later developed leukoencephalopathy and hydrocephalus related to central nervous system prophylaxis by , in the first case intrathecally administered methotrexate and , in the second by intrathecally administered methotrexate and cranial irradiation .
+
+('Probability(0) =', 0.47)
+True class: 0
+[('methotrexate', 0.07232078592777501), ('who', 0.068131027456382), ('by', 0.06335300063108718), ('report', 0.06174321814756076), ('the', -0.05573372814536952), ('and', -0.03994294927887454)]
+
+
+
+Document id: 27
+Sentence: The delayed encephalopathy developed 9 and 22 months respectively after the first dose of intrathecal methotrexate .
+
+('Probability(0) =', 0.498)
+True class: 0
+[('methotrexate', 0.14910112328275035), ('after', 0.07564882546523927), ('intrathecal', 0.07111975180354013), ('The', -0.06276137379756773), ('dose', 0.044896671860473004), ('of', 0.04286179225250343)]
+
+
+
+Document id: 28
+Sentence: The imaging studies have shown that both hydrocephalus and leukoencephalopathy have improved significantly after ventriculoperitoneal shunt insertion .
+
+('Probability(0) =', 0.79)
+True class: 1
+[('after', 0.13714137485737915), ('The', -0.029825925577838037), ('imaging', 0.02288638002764612), ('improved', -0.02130109968150357), ('have', 0.02116341996075404), ('that', 0.017454570413710353)]
+
+
+
+Document id: 29
+Sentence: We also discuss the possible contribution of altered cerebrospinal fluid dynamics in the development of leukoencephalopathy .
+
+('Probability(0) =', 0.722)
+True class: 1
+[('We', 0.09636265169579625), ('in', 0.05566725130706117), ('development', 0.03039000570242265), ('of', 0.02947187363772001), ('possible', 0.02297982681438763), ('also', -0.020865603794574535)]
+
+
+
+Document id: 30
+Sentence: After five months of initiation of treatment , while receiving RHE , he developed painful bilateral gynaecomastia .
+
+('Probability(0) =', 0.68)
+True class: 0
+[('while', 0.14134643264840907), ('receiving', 0.06425073728386707), ('months', -0.05992950568643659), ('he', -0.043185706143167496), ('treatment', 0.02495761365689678), ('of', 0.02265198062126029)]
+
+
+
+Document id: 31
+Sentence: A toxic encephalopathy characterized by depressed level of consciousness , marked irritability , and ataxia developed in seven children , 5 years of age and younger , following administration of an antiemetic combination of pentobarbital and pyrilamine maleate .
+
+('Probability(0) =', 0.534)
+True class: 0
+[('following', 0.1733113032956074), ('and', -0.07295312976639261), ('administration', 0.06112232312054932), ('pentobarbital', -0.03197788295236073), ('younger', -0.026848485673768623), ('developed', 0.02224650756119354)]
+
+
+
+Document id: 32
+Sentence: A patient who had been treated with large doses of thyroid hormone for several years developed features of secondary hypothyroidism after thyroid hormone withdrawal .
+
+('Probability(0) =', 0.336)
+True class: 1
+[('after', 0.11559591328429072), ('developed', 0.10617467120737152), ('who', 0.10166006691956167), ('had', -0.054735723344887736), ('secondary', 0.05243128622882069), ('with', 0.04706577850314157)]
+
+
+
+Document id: 33
+Sentence: When retested 3 months later , at which time the serum T4 was 5 . 5 micrograms / dl , the patient was somewhat less hypothyroid and there was an exaggerated TSH response to exogenous TRH , indicating recovery of pituitary TSH reserve .
+
+('Probability(0) =', 0.93)
+True class: 0
+[('was', -0.01132240214235409), ('indicating', 0.009429766909140406), ('patient', 0.006977716969336128), ('less', 0.00623913217356456), ('exogenous', 0.0057272571863370356), ('which', 0.004399285473466205)]
+
+
+
+Document id: 34
+Sentence: Transient left homonymous hemianopsia and encephalopathy following treatment of testicular carcinoma with cisplatinum , vinblastine , and bleomycin .
+
+('Probability(0) =', 0.42)
+True class: 0
+[('following', 0.35533781529686376), ('and', -0.07778180200229184), ('Transient', 0.03570026764689046), ('encephalopathy', 0.029506456228303984), ('carcinoma', 0.024739471969888318), ('of', -0.022870840848824417)]
+
+
+
+Document id: 35
+Sentence: A 36 - year - old man being treated with cisplatinum , vinblastine , and bleomycin for testicular carcinoma developed a dense left homonymous hemianopsia , encephalopathy , and a partial nondominant parietal lobe syndrome .
+
+('Probability(0) =', 0.536)
+True class: 0
+[('developed', 0.14131406458291), ('syndrome', 0.04525783894339328), ('encephalopathy', 0.03758980826770232), ('man', 0.031141162489577597), ('being', 0.02497599043785505), ('with', 0.023966041852550156)]
+
+
+
+Document id: 36
+Sentence: The leukoencephalopathy , documented clinically and by CT and EEG , cleared after 2350 mg of leucovorin ( citrovorum factor , folinic acid ) was given in addition to the 135 mg given as part of the therapy .
+
+('Probability(0) =', 0.776)
+True class: 0
+[('after', 0.0932503075139474), ('was', -0.05522239110153816), ('The', -0.027534886316703734), ('by', 0.02594431132834873), ('therapy', 0.024166970648682617), ('mg', -0.02394957621770329)]
+
+
+
+Document id: 37
+Sentence: A review of the literature suggests that leukoencephalopathy may be prevented by high doses of leucovorin and can be treated by high doses , if lower doses were used initially .
+
+('Probability(0) =', 0.784)
+True class: 0
+[('by', 0.08620999942404795), ('were', -0.058439796700112026), ('of', 0.022169443892064107), ('high', 0.02106353629385298), ('treated', 0.019753803861545256), ('be', -0.019455455980630122)]
+
+
+
+Document id: 38
+Sentence: When high dose leucovorin was not used , residual neurological damage is not unusual .
+
+('Probability(0) =', 0.898)
+True class: 0
+[('damage', 0.045135275629417985), ('was', -0.041070174313574424), ('unusual', 0.036400308784207906), ('used', -0.030314612952873327), ('high', 0.028984124582586607), ('not', -0.022974649432047158)]
+
+
+
+Document id: 39
+Sentence: Telescoped digits of the hands and feet developed in a 69 - year - old male with severe chronic tophaceous gout during allopurinol treatment .
+
+('Probability(0) =', 0.388)
+True class: 0
+[('during', 0.1498813995284816), ('developed', 0.11424835196847956), ('with', 0.0803726724947432), ('in', 0.05842502574048582), ('treatment', 0.05334604443762026), ('old', 0.05065437288247892)]
+
+
+
+Document id: 40
+Sentence: The results clearly demonstrate that CPH82 was associated with suppression of the endogeneous production of ACTH and cortisol with a concomitant paradoxical picture of clinical hypercortisolism .
+
+('Probability(0) =', 0.652)
+True class: 1
+[('associated', 0.2703669800962291), ('was', -0.10566844833055954), ('The', -0.04975942758248942), ('clinical', -0.021240829662896636), ('production', 0.017179144612650875), ('and', -0.016096938961480452)]
+
+
+
+Document id: 41
+Sentence: Hypocalcemia after therapeutic use of magnesium sulfate .
+
+('Probability(0) =', 0.546)
+True class: 0
+[('after', 0.22047091388333764), ('use', 0.12942527450547792), ('sulfate', 0.029166260329945997), ('therapeutic', 0.019218103300897474), ('magnesium', 0.007422486806700123), ('Hypocalcemia', -0.005088368472514088)]
+
+
+
+Document id: 42
+Sentence: A case is reported in which severe hypocalcemia , with a low plasma parathyroid hormone ( PTH ) concentration , resulted from the therapeutic use of magnesium sulfate for toxemia of pregnancy .
+
+('Probability(0) =', 0.582)
+True class: 0
+[('case', 0.10161789800252127), ('with', 0.05509815224947333), ('low', 0.041519217278036466), ('the', -0.0398053001573466), ('reported', 0.03833702560249897), ('severe', 0.03684053835648787)]
+
+
+
+Document id: 43
+Sentence: Ticlopidine - induced aplastic anemia ( TIAA ) is considered very uncommon .
+
+('Probability(0) =', 0.37)
+True class: 1
+[('induced', 0.5613134011397604), ('is', -0.14634415868994172), ('anemia', 0.061960547949047186), ('aplastic', 0.04764253635661795), ('Ticlopidine', 0.0076427939648082924), ('very', 0.006871929141512328)]
+
+
+
+Document id: 44
+Sentence: The first case concerns a 70 - year - old man who developed severe aplastic anemia 7 weeks after treatment with 500 mg of ticlopidine daily .
+
+('Probability(0) =', 0.242)
+True class: 0
+[('after', 0.12802885657046145), ('developed', 0.11455257238209202), ('case', 0.0803503680806432), ('man', 0.05925171720193197), ('who', 0.05824661719827184), ('with', 0.05822930115772236)]
+
+
+
+Document id: 45
+Sentence: When the data of the 57 patients are evaluated , a reversible direct cytotoxic effect of ticlopidine on the pluripotent / bipotent hematopoietic progenitor stem cell is proposed .
+
+('Probability(0) =', 0.834)
+True class: 1
+[('reversible', 0.0595198153737388), ('stem', 0.028410884864776106), ('evaluated', 0.026068316239879527), ('is', -0.018744844402077767), ('progenitor', -0.016631000239824025), ('data', -0.016421074775636875)]
+
+
+
+Document id: 46
+Sentence: The HIV protease inhibitor indinavir may cause nephrolithiasis and interstitial nephritis .
+
+('Probability(0) =', 0.802)
+True class: 0
+[('interstitial', 0.09707550317793551), ('The', -0.06257090636331444), ('cause', 0.05334982937497149), ('nephritis', 0.048879376426218785), ('protease', -0.028260725410233833), ('and', 0.02251362620228303)]
+
+
+
+Document id: 47
+Sentence: An asymptomatic HIV - infected woman experienced right - sided renal colicky pain during treatment with indinavir .
+
+('Probability(0) =', 0.532)
+True class: 0
+[('during', 0.1661397110576099), ('with', 0.059336555953317834), ('woman', 0.05929744469950634), ('treatment', 0.05178196436350324), ('sided', -0.033897707119339426), ('colicky', -0.03370151728613134)]
+
+
+
+Document id: 48
+Sentence: Indinavir - associated nephrolithiasis and chronic interstitial nephritis were the only possible causes identified in this patient .
+
+('Probability(0) =', 0.646)
+True class: 0
+[('associated', 0.27227597126389086), ('were', -0.1271880695263132), ('this', -0.07119248146881765), ('interstitial', 0.06138150868132976), ('the', -0.042719639604494486), ('nephritis', 0.03218749829553527)]
+
+
+
+Document id: 49
+Sentence: Hepatotoxicity in rheumatoid arthritis is well described following a variety of anti - inflammatory preparations but is now a rare complication of gold therapy and the literature on the subject is reviewed .
+
+('Probability(0) =', 0.55)
+True class: 0
+[('following', 0.14397027529227194), ('the', -0.06723237482230619), ('is', -0.051374585725029585), ('and', -0.04733361098462491), ('complication', 0.04017624390651598), ('gold', 0.03022934457487971)]
+
+
+
+Document id: 50
+Sentence: Multiple syncopal episodes started to occur during thalidomide treatment , and a Holter electrocardiogram showed multiple abnormalities , with an episode of sustained ventricular tachycardia .
+
+('Probability(0) =', 0.698)
+True class: 1
+[('showed', -0.11890682673475028), ('during', 0.11659756789497051), ('with', 0.050400741336290494), ('tachycardia', 0.04032290730827691), ('Holter', -0.03617508220609102), ('thalidomide', -0.03285750050755884)]
+
+
+
+Document id: 51
+Sentence: Case report : lack of control of diabetes and weight gain in a patient on initiation and rechallenge of therapy with olanzapine .
+
+('Probability(0) =', 0.408)
+True class: 1
+[('therapy', 0.11377315521472509), ('report', 0.09229437793459253), ('with', 0.08894192665329927), ('in', 0.07684560364063472), ('patient', 0.0542505279316967), ('and', -0.04556503245917912)]
+
+
+
+Document id: 52
+Sentence: The following is a case report analysis intended to draw attention to the need for better care coordination by describing the observed relationship of olanzapine to metabolic changes manifested as uncontrolled diabetes mellitus and weight gain .
+
+('Probability(0) =', 0.514)
+True class: 0
+[('following', 0.16436251294249077), ('report', 0.1291818650189311), ('case', 0.07086840100664715), ('the', -0.061932060651209625), ('The', -0.03704965103299912), ('and', -0.032070027355316395)]
+
+
+
+Document id: 53
+Sentence: The patient was enrolled in a weight - loss clinic , and his diabetes medications were adjusted . Subsequently , olanzapine was discontinued because of weight gain and uncontrolled diabetes .
+
+('Probability(0) =', 0.898)
+True class: 1
+[('was', -0.049674956626240135), ('in', 0.03149433111922576), ('loss', 0.02403692650397857), ('patient', 0.02344160790396294), ('The', -0.019554277923348563), ('diabetes', 0.014642937943601612)]
+
+
+
+Document id: 54
+Sentence: These cases were considered unusual in light of the short delay of their onset after initiation of immunosuppressive therapy and their fulminant course : 3 of these patients died of PCP occurring during the first month of treatment with prednisone .
+
+('Probability(0) =', 0.684)
+True class: 0
+[('were', -0.07423311831224735), ('after', 0.05545762175056156), ('the', -0.05489521630796256), ('occurring', 0.04922441462304668), ('during', 0.042329332819258596), ('their', -0.0388709075226831)]
+
+
+
+Document id: 55
+Sentence: Delayed bowel injury is an infrequently observed complication of chromic phosphate administration .
+
+('Probability(0) =', 0.606)
+True class: 0
+[('administration', 0.1588419175454257), ('complication', 0.1483975219052496), ('is', -0.07334567914490345), ('injury', 0.02145057862863567), ('infrequently', -0.015826962496216568), ('bowel', -0.013999726833448398)]
+
+
+
+Document id: 56
+Sentence: All patients had taken phenytoin for variable time periods ( range 16 - 80 days ; mean : 40 ) and were on the medication when the skin lesions first appeared .
+
+('Probability(0) =', 0.866)
+True class: 1
+[('first', 0.04716178372578911), ('were', -0.0421496863149679), ('phenytoin', 0.0339231831814126), ('had', -0.0230773874531655), ('40', 0.022320506737726366), ('All', -0.013062684576690423)]
+
+
+
+Document id: 57
+Sentence: None of the patients demonstrated the requisite features of the ' Dilantin hypersensitivity syndrome ' .
+
+('Probability(0) =', 0.67)
+True class: 0
+[('hypersensitivity', 0.27134311903515435), ('the', -0.08304401709293949), ('syndrome', 0.06035342309599047), ('of', -0.03645270224964004), ('Dilantin', -0.0339818405127956), ('demonstrated', -0.03246788707696773)]
+
+
+
+Document id: 58
+Sentence: Cardiopulmonary compromise after use of topical and submucosal alpha - agonists : possible added complication by the use of beta - blocker therapy .
+
+('Probability(0) =', 0.602)
+True class: 0
+[('after', 0.11634715287359762), ('and', -0.07179061642364509), ('the', -0.0665419229593439), ('by', 0.058581639737827755), ('complication', 0.04947666921411549), ('therapy', 0.027437673239800682)]
+
+
+
+Document id: 59
+Sentence: Ten of these 12 patients also developed severe pulmonary edema .
+
+('Probability(0) =', 0.794)
+True class: 1
+[('pulmonary', 0.08700812341540583), ('of', 0.05057784801824032), ('also', -0.03358427012055512), ('developed', 0.03353791280818983), ('edema', 0.028199873768500385), ('these', -0.026031900165906955)]
+
+
+
+Document id: 60
+Sentence: We propose a common mechanism : the vasoconstrictors caused systemic hypertension , increased left ventricular afterload , decreased left ventricular compliance , and decreased cardiac output .
+
+('Probability(0) =', 0.686)
+True class: 0
+[('caused', 0.12486276897460788), ('We', 0.06518445418644991), ('ventricular', 0.05603224541464968), ('left', -0.03554865388844198), ('the', -0.027600900133286897), ('decreased', -0.02567860971067495)]
+
+
+
+Document id: 61
+Sentence: Finally a renal biopsy was performed and it showed a pauci - immunologic glomerulonephritis and the bronchioloalveolar lavage confirmed the diffuse alveolar hemorrhage .
+
+('Probability(0) =', 0.934)
+True class: 1
+[('renal', 0.02820283385498891), ('showed', -0.02198726016470702), ('hemorrhage', 0.019075490018676967), ('was', -0.017669403675251393), ('bronchioloalveolar', -0.014251795863298595), ('the', 0.014023480098215956)]
+
+
+
+Document id: 62
+Sentence: In conclusion , the diagnosis of leflunomide - pulmonary - renal syndrome was rendered .
+
+('Probability(0) =', 0.79)
+True class: 0
+[('was', -0.08406560752215322), ('pulmonary', 0.07999693478265714), ('syndrome', 0.06291055910329842), ('renal', 0.039028683702892385), ('In', -0.027172669241464147), ('of', 0.016322129187715577)]
+
+
+
+Document id: 63
+Sentence: Withdrawal of Depakote resulted in resolution of the effusion .
+
+('Probability(0) =', 0.956)
+True class: 1
+[('in', 0.055518502859330965), ('the', -0.029537107781120103), ('Depakote', -0.017965442729333748), ('Withdrawal', -0.012191821802018006), ('effusion', 0.006713212714512007), ('resolution', -0.003411547782553611)]
+
+
+
+Document id: 64
+Sentence: Carbamazepine toxicity induced by clarithromycin coadministration in psychiatric patients .
+
+('Probability(0) =', 0.208)
+True class: 1
+[('induced', 0.29061615944573893), ('toxicity', 0.1342917728068875), ('patients', -0.0768907827135552), ('clarithromycin', 0.05730108525943171), ('Carbamazepine', 0.0512750329569547), ('in', -0.0408816232785172)]
+
+
+
+Document id: 65
+Sentence: During clarithromycin coadministration , four out of the seven patients developed moderate - to - severe toxic symptoms of carbamazepine , such as drowsiness , dizziness , and ataxia , which resolved within 5 days after clarithromycin discontinuation .
+
+('Probability(0) =', 0.504)
+True class: 1
+[('dizziness', 0.0927920733556357), ('after', 0.08826713930090839), ('clarithromycin', 0.06917607441406867), ('of', 0.05118599436810758), ('the', -0.029281652056672148), ('developed', 0.02816122540868058)]
+
+
+
+Document id: 66
+Sentence: The present report suggests that clarithromycin coadministration induces increased plasma carbamazepine concentrations , which may result in carbamazepine toxicity .
+
+('Probability(0) =', 0.532)
+True class: 1
+[('toxicity', 0.1495823628706186), ('The', -0.04171982855576816), ('induces', 0.03962082809529113), ('clarithromycin', 0.03297096872477904), ('may', -0.027671196021731695), ('report', 0.01694987086539285)]
+
+
+
+Document id: 67
+Sentence: Co - trimoxazole red cell aplasia in leukaemia .
+
+('Probability(0) =', 0.81)
+True class: 1
+[('red', 0.04505200420225878), ('aplasia', 0.043945154857699516), ('leukaemia', 0.04346193401348542), ('in', 0.03398290994674292), ('cell', 0.024860554879401957), ('Co', -0.012589819869351636)]
+
+
+
+Document id: 68
+Sentence: A 4 year old boy with acute lymphoblastic leukaemia developed a pure red cell aplasia 13 months after entering remission and while on maintenance chemotherapy .
+
+('Probability(0) =', 0.36)
+True class: 0
+[('developed', 0.10392643411164079), ('after', 0.08383630537315057), ('while', 0.08114063922514732), ('acute', 0.0502273042096516), ('old', 0.05009652534638172), ('with', 0.04259874536880338)]
+
+
+
+Document id: 69
+Sentence: The patient ' s asthma improved , and he remained asymptomatic ; but routine study evaluations 9 to 12 months into therapy showed microhematuria , proteinuria , glucosuria , anemia , and renal insufficiency .
+
+('Probability(0) =', 0.822)
+True class: 0
+[('therapy', 0.06609556696085819), ('The', -0.060236322146021315), ('asthma', 0.05146759971109255), ('showed', -0.04921071203162945), ('and', -0.03573794918322313), ('renal', 0.02331105401753262)]
+
+
+
+Document id: 70
+Sentence: Renal biopsy demonstrated changes classic for acute allergic tubulointerstitial nephritis ( ATIN ) , with mixed interstitial inflammatory infiltrate including eosinophils .
+
+('Probability(0) =', 0.68)
+True class: 1
+[('acute', 0.08549409655865899), ('allergic', 0.07222448643387328), ('biopsy', -0.046859540036340845), ('interstitial', 0.04437750494274185), ('demonstrated', -0.02935995131403995), ('infiltrate', -0.026419219576342967)]
+
+
+
+Document id: 71
+Sentence: The case demonstrates that hypersensitivity reaction to pranlukast and resultant ATIN is possible , and that periodic urine testing in patients receiving pranlukast should be considered .
+
+('Probability(0) =', 0.67)
+True class: 1
+[('hypersensitivity', 0.11456927639815981), ('receiving', 0.09941140690738473), ('and', -0.0451434616993738), ('be', -0.034001078241973674), ('case', 0.03393432241043781), ('The', -0.031730373491582274)]
+
+
+
+Document id: 72
+Sentence: Olanzapine - induced hyperglycaemic coma and neuroleptic malignant syndrome : case report and review of literature .
+
+('Probability(0) =', 0.34)
+True class: 1
+[('induced', 0.35063126104352127), ('neuroleptic', 0.04803183887032038), ('Olanzapine', 0.038035006866527346), ('case', 0.03501894858663994), ('report', 0.030400200046453843), ('malignant', 0.02854788315871741)]
+
+
+
+Document id: 73
+Sentence: We report a case of a 35 - year old female who developed new onset type II diabetes mellitus with hyperosmolar hyperglycaemic coma and acute renal failure following treatment with a SGA for a first manic episode .
+
+('Probability(0) =', 0.24)
+True class: 0
+[('following', 0.10655718592041094), ('developed', 0.0688067088769779), ('report', 0.046828038984838886), ('acute', 0.0452818294835965), ('treatment', 0.04475316890557087), ('case', 0.04197162778806662)]
+
+
+
+Document id: 74
+Sentence: All patients who developed diarrhea after undergoing the cancer chemotherapy were examined to determine whether or not they were complicated by C difficile colitis .
+
+('Probability(0) =', 0.698)
+True class: 1
+[('were', -0.08783706582312924), ('who', 0.06526413002880543), ('after', 0.049990641119093696), ('developed', 0.049275640830030366), ('by', 0.04818791678054621), ('not', -0.043516586850536776)]
+
+
+
+Document id: 75
+Sentence: Severe C . difficile colitis occurred in 2 patients ( 6 . 1 % ) after receiving cisplatin - based combination chemotherapy for ovarian malignancies .
+
+('Probability(0) =', 0.376)
+True class: 0
+[('Severe', 0.14954922519282074), ('receiving', 0.07482792166342231), ('after', 0.05358798633550669), ('in', 0.04654704528200421), ('colitis', 0.03916869313782008), ('chemotherapy', -0.03331061387391875)]
+
+
+
+Document id: 76
+Sentence: Both patients were then treated with a carboplatin alternative to cisplatin in the following courses , which resulted in neither a relapse of the colitis nor a recurrence of the malignancies up to this time .
+
+('Probability(0) =', 0.714)
+True class: 1
+[('following', 0.16716338832889518), ('were', -0.08797310064967115), ('the', -0.05988867085760496), ('this', -0.03702199911328724), ('in', 0.030005004485132734), ('with', 0.017414329131330564)]
+
+
+
+Document id: 77
+Sentence: Cardiac arrest after esmolol administration : a review of acute beta - blocker toxicity .
+
+('Probability(0) =', 0.44)
+True class: 1
+[('toxicity', 0.18151885841078697), ('acute', 0.0883815627180328), ('administration', 0.059413775866299354), ('of', -0.04038114048239939), ('after', -0.020268554688672002), ('arrest', 0.009808798415968328)]
+
+
+
+Document id: 78
+Sentence: After induction of general anesthesia and administration of a standard dose of intravenous esmolol hydrochloride , her cardiac rhythm progressed to asystole .
+
+('Probability(0) =', 0.744)
+True class: 1
+[('administration', 0.07669944005450907), ('and', -0.053905699442334934), ('asystole', -0.031342572544496676), ('intravenous', 0.02527335847756459), ('general', -0.02015594502519333), ('cardiac', 0.01600275461210555)]
+
+
+
+Document id: 79
+Sentence: Well - differentiated endometrial adenocarcinoma of the secretory type ( FIGO Grade 1 ) with minimal myometrial invasion occurred in a postmenopausal patient on tamoxifen therapy 5 years after mastectomy for breast carcinoma .
+
+('Probability(0) =', 0.566)
+True class: 1
+[('after', 0.1190455807432955), ('the', -0.11236389330592321), ('therapy', 0.0986542244113397), ('in', 0.06024694363182906), ('with', 0.05132710589865497), ('patient', 0.03406763894943295)]
+
+
+
+Document id: 80
+Sentence: This unusual pattern of low - grade endometrial carcinoma adds to the spectrum of uterine neoplasia associated with tamoxifen therapy .
+
+('Probability(0) =', 0.456)
+True class: 1
+[('associated', 0.27344874266238256), ('therapy', 0.08739639972355823), ('the', -0.08239251489212632), ('This', -0.03633325184736409), ('of', -0.03418878018102552), ('to', -0.030849863699210542)]
+
+
+
+Document id: 81
+Sentence: Lithium treatment was terminated in 1975 because of lithium intoxication with a diabetes insipidus - like syndrome .
+
+('Probability(0) =', 0.59)
+True class: 1
+[('was', -0.15930804098625), ('with', 0.10472468055863232), ('like', 0.07883390004136881), ('lithium', 0.05853762767097474), ('syndrome', 0.04551559677442993), ('in', 0.037532346736528714)]
+
+
+
+Document id: 82
+Sentence: Early overanticoagulation with acenocoumarol due to a genetic polymorphism of cytochrome P450 CYP2C9 .
+
+('Probability(0) =', 0.758)
+True class: 1
+[('due', 0.29316663563624024), ('overanticoagulation', -0.07837474588766502), ('polymorphism', -0.060049762336584565), ('P450', -0.05403938138237874), ('acenocoumarol', -0.049704684998455276), ('Early', -0.04713451560417762)]
+
+
+
+Document id: 83
+Sentence: We report the case of a young healthy woman who presented an early overanticoagulation when receiving acenocoumarol for a first thromboembolic episode .
+
+('Probability(0) =', 0.39)
+True class: 1
+[('report', 0.07616499763246316), ('case', 0.07508017701201448), ('We', 0.06418698833269741), ('young', 0.057805988611522245), ('who', 0.05521219564279541), ('of', 0.052978950041864356)]
+
+
+
+Document id: 84
+Sentence: We describe longitudinal diffusion - weighted MRI findings of sub - acute leukoencephalopathy following methotrexate therapy in a 24 - year - old man diagnosed with pre - B - cell acute lymphoblastic leukemia ( ALL ) , presenting with right - sided paralysis and aphasia after second consolidation with intrathecal triple - drug therapy given intrathecally .
+
+('Probability(0) =', 0.322)
+True class: 0
+[('after', 0.06862259032285367), ('therapy', 0.0660570513849486), ('following', 0.0657649175413631), ('describe', 0.039454689137931404), ('with', 0.03569850355374473), ('acute', 0.027703505816031995)]
+
+
+
+Document id: 85
+Sentence: Ritonavir should be added to the list of drugs that can induce adverse cutaneous reactions in HIV patients .
+
+('Probability(0) =', 0.826)
+True class: 1
+[('be', -0.03919493680590783), ('drugs', -0.03688347788035271), ('cutaneous', 0.03178872172685276), ('Ritonavir', -0.030450618830074147), ('reactions', 0.02542319951034568), ('the', -0.02219936795048127)]
+
+
+
+Document id: 86
+Sentence: METHODS : Two patients with exudative age - related macular degeneration were treated sequentially with an intravitreal injection of bevacizumab and developed signs of severe but painless infectious endophthalmitis 2 days later .
+
+('Probability(0) =', 0.57)
+True class: 0
+[('were', -0.10044695834324655), ('developed', 0.07948246655808988), ('injection', 0.07562050796616666), ('intravitreal', 0.059407040838815636), ('with', 0.04526909334078231), ('related', 0.044402883748480435)]
+
+
+
+Document id: 87
+Sentence: INTRODUCTION - The aim of this case report is to present a 15 - year follow - up of a patient with phenytoin ( PHT ) intoxication with unilateral gingival hyperplasia ( GH ) .
+
+('Probability(0) =', 0.44)
+True class: 1
+[('report', 0.13230167391191514), ('case', 0.1200653682258514), ('of', 0.05825978502273511), ('with', 0.05285948475912575), ('this', -0.035845998695580986), ('present', 0.03490132209486663)]
+
+
+
+Document id: 88
+Sentence: CONCLUSION - It is possible to prevent GH from PHT treatment by intensive dental care , correct mouth hygiene and by change of treatment of carbamazepine .
+
+('Probability(0) =', 0.774)
+True class: 1
+[('by', 0.1233726424370422), ('and', -0.06103205996610539), ('is', -0.04515091640417921), ('It', -0.0326691337009706), ('from', 0.02091207501976447), ('carbamazepine', 0.015677599809728774)]
+
+
+
+Document id: 89
+Sentence: BACKGROUND : Cyanamide , an aversive agent widely used in Japan , is known to induce various degrees of hepatic lesion with ground - glass inclusion bodies .
+
+('Probability(0) =', 0.88)
+True class: 1
+[('used', -0.046792643207975396), ('is', -0.04008789435366979), ('hepatic', 0.034933159704618695), ('induce', 0.031637170194420854), ('glass', -0.019816403671028965), ('in', 0.01853748357734201)]
+
+
+
+Document id: 90
+Sentence: When cyanamide - treated alcoholics relapse into drinking , more severe inflammation develops in the liver .
+
+('Probability(0) =', 0.746)
+True class: 1
+[('treated', 0.14046467796084294), ('in', 0.0763865017929086), ('the', -0.07257672307229603), ('drinking', -0.03390880164691655), ('liver', 0.03085909173529689), ('develops', -0.016677475223034657)]
+
+
+
+Document id: 91
+Sentence: However , it is controversial whether progressive hepatic lesions develop in complete abstainers as a result of long - term cyanamide treatment .
+
+('Probability(0) =', 0.712)
+True class: 0
+[('hepatic', 0.04369913113604849), ('long', 0.038822502363214176), ('is', -0.03568934456842901), ('term', 0.03379481016579068), ('treatment', 0.023686973927860427), ('whether', 0.02061742321011873)]
+
+
+
+Document id: 92
+Sentence: Case 3 : A 29 - year - old female alcoholic complained of general fatigue and a slight fever after 1 . 5 years of abstinence with cyanamide treatment .
+
+('Probability(0) =', 0.476)
+True class: 0
+[('after', 0.221605478054374), ('fever', 0.07533862295512793), ('old', 0.049221144022734545), ('with', 0.04033300435420076), ('and', -0.03097104432560721), ('year', 0.024921644894231182)]
+
+
+
+Document id: 93
+Sentence: CONCLUSION : In some abstainers who take cyanamide for several years , thin septum - like liver fibrosis progresses along with the emergence of ground - glass hepatocytes .
+
+('Probability(0) =', 0.674)
+True class: 0
+[('like', 0.10881897489343437), ('who', 0.0986701979217605), ('In', -0.04157459911709432), ('fibrosis', 0.03820274706527505), ('thin', -0.02992452116013563), ('with', 0.02850931100522409)]
+
+
+
+Document id: 94
+Sentence: In June 2002 , the patient was admitted to the Outpatient Clinic of the Rheumatology Unit for arthralgia affecting the small joints , non - pruritic crops of purple skin lesions and malar rash in the face .
+
+('Probability(0) =', 0.89)
+True class: 0
+[('rash', 0.036509352102265955), ('and', -0.02847536195136729), ('was', -0.0220957650516022), ('in', 0.019460314780067302), ('patient', 0.015031655517571105), ('Outpatient', -0.014432364890447458)]
+
+
+
+Document id: 95
+Sentence: Treatment with infliximab is known to produce an increase of autoantibodies ( antinuclear antibodies , anti - double - stranded DNA ) , but not clinical disease .
+
+('Probability(0) =', 0.828)
+True class: 1
+[('infliximab', 0.06955819081055252), ('with', 0.04020786155945698), ('is', -0.03251207655298994), ('not', -0.030781323198818666), ('stranded', -0.02073478257418208), ('clinical', -0.02055757369661952)]
+
+
+
+Document id: 96
+Sentence: Side effects such as acute renal failure , hyperkalemia , gastritis , gastrointestinal bleeding , and asthmatic exacerbation , although rare , have been previously reported .
+
+('Probability(0) =', 0.794)
+True class: 1
+[('acute', 0.10239238812350607), ('Side', -0.06301788560281503), ('failure', 0.050807036081244414), ('asthmatic', -0.0447803838265716), ('gastritis', -0.04404932699287124), ('such', -0.03625813488880564)]
+
+
+
+Document id: 97
+Sentence: We postulate that the patient ' s hearing loss was the result of ketoralac ' s direct and indirect ototoxic effects that were potentiated as a result of her underlying illness and medications .
+
+('Probability(0) =', 0.742)
+True class: 0
+[('We', 0.09786917157228542), ('that', 0.0389076622441115), ('was', -0.027095032953815476), ('loss', 0.022372597188438835), ('of', 0.018850209329450356), ('were', -0.018391040095424874)]
+
+
+
+Document id: 98
+Sentence: Recent reports have shown that Decadron ( dexamethasone ; Merck Sharp & Dohme , West Point , Pa ) has a significant antiemetic effect on cisplatin - induced vomiting .
+
+('Probability(0) =', 0.506)
+True class: 0
+[('induced', 0.43618129343482603), ('has', -0.03489984806676635), ('significant', -0.029621555860383477), ('Sharp', -0.028728238071022122), ('Merck', -0.028219934589404794), ('West', -0.026909177258192755)]
+
+
+
+Document id: 99
+Sentence: A young diamond dealer developed visual impairment attributed to bilateral posterior subcapsular cataracts following only four courses of intermittent Decadron used as part of a five - drug antiemetic regimen for cisplatin - associated nausea .
+
+('Probability(0) =', 0.432)
+True class: 0
+[('associated', 0.15873379638612417), ('following', 0.12747849485682683), ('used', -0.07103622403106298), ('cataracts', -0.017357989351573237), ('intermittent', -0.01717555069913672), ('cisplatin', 0.015220431291588517)]
+
+
+
+Document id: 100
+Sentence: Mycophenolate mofetil substitution for cyclosporine - dependent myasthenia gravis and nephrotoxicity .
+
+('Probability(0) =', 0.676)
+True class: 0
+[('nephrotoxicity', 0.13676880144695167), ('cyclosporine', 0.08457537473653788), ('dependent', 0.05860022563236232), ('and', -0.041002229192959934), ('Mycophenolate', -0.02243652415513575), ('substitution', -0.0138375141496557)]
+
+
+
+Document id: 101
+Sentence: However , cyclosporine dependency is associated with the risk of nephrotoxicity .
+
+('Probability(0) =', 0.576)
+True class: 0
+[('associated', 0.3071187634590256), ('is', -0.09333496897758913), ('the', -0.07213720041685016), ('cyclosporine', 0.0529332604773559), ('nephrotoxicity', 0.05289126584974158), ('risk', -0.03936931035276921)]
+
+
+
+Document id: 102
+Sentence: Mycophenolate mofetil is a non - nephrotoxic alternative which should be considered to rescue cyclosporine - dependent , severe myasthenia gravis sufferers with renal impairment from progression to end - stage renal failure .
+
+('Probability(0) =', 0.75)
+True class: 0
+[('is', -0.0446645648002562), ('be', -0.03628322358981342), ('impairment', 0.0262270857252282), ('end', -0.02580743986496243), ('dependent', 0.025708448872246954), ('failure', 0.023637216914969103)]
+
+
+
+Document id: 103
+Sentence: Interstitial pneumonitis , induced by hormone treatment given for prostate cancer , is a reversible condition and a quick diagnosis followed by prompt , proper treatment is important to ensure a successful recovery .
+
+('Probability(0) =', 0.528)
+True class: 0
+[('induced', 0.26020735029571657), ('is', -0.10785995139861063), ('and', -0.0689899903416625), ('by', 0.04710396367133447), ('pneumonitis', 0.04509250050216757), ('hormone', -0.03564586797097433)]
+
+
+
+Document id: 104
+Sentence: Clofazimine enteropathy caused by crystal deposition can be life - threatening .
+
+('Probability(0) =', 0.52)
+True class: 0
+[('by', 0.20968422720788132), ('caused', 0.18576458893234052), ('be', -0.13582753231214684), ('threatening', 0.03768363374273512), ('life', 0.02858037072434281), ('Clofazimine', 0.005214648017826742)]
+
+
+
+Document id: 105
+Sentence: One previous study of four transplant patients whose immediate post - transplantation immunosuppression utilized corticosteroids , cyclosporine , MMF , and anti - T - lymphocyte globulin noted anemia in 13 % of them .
+
+('Probability(0) =', 0.78)
+True class: 0
+[('utilized', -0.028214633142465355), ('anemia', 0.0262750915320078), ('whose', 0.024219883180999584), ('MMF', -0.02244799474468961), ('cyclosporine', 0.021455750997392487), ('post', -0.02034919579899116)]
+
+
+
+Document id: 106
+Sentence: Pulmonary eosinophilia or granulomas , classically seen in previously reported cases of methotrexate pneumonitis , were not observed .
+
+('Probability(0) =', 0.648)
+True class: 0
+[('methotrexate', 0.10510232658694436), ('pneumonitis', 0.1006978290026098), ('were', -0.07885497942561004), ('not', -0.06661171489396912), ('eosinophilia', 0.028114067810605686), ('Pulmonary', 0.02513111036252772)]
+
+
+
+Document id: 107
+Sentence: Conversely , diffuse interstitial pulmonary fibrosis should be considered in the differential diagnosis of patients receiving methotrexate who develop bilateral pulmonary infiltrates seen on chest roentgenograms .
+
+('Probability(0) =', 0.432)
+True class: 1
+[('methotrexate', 0.08443209476004734), ('receiving', 0.07548446963171165), ('pulmonary', 0.05547357212299637), ('who', 0.043934368826896414), ('fibrosis', 0.04048856540113341), ('interstitial', 0.03802797035422249)]
+
+
+
+Document id: 108
+Sentence: We present the management of agranulocytosis and neutropenic sepsis secondary to carbimazole with recombinant human granulocyte colony stimulating factor ( G - CSF ) .
+
+('Probability(0) =', 0.542)
+True class: 1
+[('secondary', 0.1251710068715312), ('We', 0.06404160197101463), ('agranulocytosis', 0.056772036154175455), ('the', -0.04024063191745761), ('present', 0.03849289661758131), ('with', 0.037664841447254516)]
+
+
+
+Document id: 109
+Sentence: A 72 - year - old woman with a history of thyrotoxicosis presented with sore throat and fever two weeks after starting carbimazole .
+
+('Probability(0) =', 0.354)
+True class: 0
+[('after', 0.1868501199411758), ('woman', 0.07577759158696998), ('starting', 0.06499718556064826), ('fever', 0.04795129802049891), ('with', 0.04632944393380164), ('old', 0.02960841472436653)]
+
+
+
+Document id: 110
+Sentence: Investigations confirmed a leucopenia and neutropenia .
+
+('Probability(0) =', 0.786)
+True class: 1
+[('neutropenia', 0.15144287245006394), ('and', 0.03785860149008282), ('leucopenia', 0.030828749884145242), ('confirmed', -0.0023234697034728636), ('Investigations', -0.0020262987518440173), ('a', -0.0015154205017462415)]
+
+
+
+Document id: 111
+Sentence: Diphenhydramine - induced wide complex dysrhythmia responds to treatment with sodium bicarbonate .
+
+('Probability(0) =', 0.298)
+True class: 0
+[('induced', 0.5195442717974244), ('sodium', 0.031017468688478447), ('to', -0.030579638544418815), ('with', 0.019303693634569186), ('responds', -0.016861309742862363), ('Diphenhydramine', -0.016115383967743053)]
+
+
+
+Document id: 112
+Sentence: We report the syndrome of inappropriate antidiuresis as a much earlier side - effect of carbamazepine administration in a 29 - year Nigerian female patient with generalized tonic - elonic seizures .
+
+('Probability(0) =', 0.386)
+True class: 0
+[('administration', 0.09625909438085063), ('report', 0.09529741887576751), ('We', 0.08598546098631309), ('in', 0.06690715678541384), ('of', 0.04182420017476131), ('with', 0.03119506333315514)]
+
+
+
+Document id: 113
+Sentence: Sweet ' s syndrome is an acute febrile neutrophilic dermatosis that is a known complication of the administration of filgrastim , a drug that causes increased neutrophil proliferation and differentiation .
+
+('Probability(0) =', 0.718)
+True class: 1
+[('administration', 0.07591420688949056), ('complication', 0.06406337972169097), ('acute', 0.06232282733243245), ('and', -0.0454256349039881), ('Sweet', -0.042445238736707094), ('is', -0.031111604434800266)]
+
+
+
+Document id: 114
+Sentence: OBJECTIVE : To report a case of calcineurin - induced pain syndrome ( CIPS ) in a child undergoing his second hematopoietic stem cell transplant ( HSCT ) .
+
+('Probability(0) =', 0.218)
+True class: 0
+[('induced', 0.2644076642682379), ('report', 0.0484880214708604), ('To', 0.0373885563154544), ('OBJECTIVE', 0.03718249871527639), ('child', 0.036838270903941504), ('case', 0.03552524412903108)]
+
+
+
+Document id: 115
+Sentence: DISCUSSION : CIPS is hypothesized to result from calcineurin - induced vascular changes that disturb bone perfusion and permeability , leading to intraosseous vasoconstriction and bone marrow edema .
+
+('Probability(0) =', 0.586)
+True class: 0
+[('induced', 0.3525129201152638), ('is', -0.06020351408697837), ('and', -0.03982529480630437), ('that', -0.023358846460358972), ('perfusion', -0.02278169146236948), ('DISCUSSION', -0.02019664921858619)]
+
+
+
+Document id: 116
+Sentence: Gelatinous transformation of the marrow ( GTBM ) has been associated with various conditions .
+
+('Probability(0) =', 0.578)
+True class: 1
+[('associated', 0.4005547260004958), ('has', -0.07665561020411514), ('the', -0.06887404513467593), ('been', -0.04788029865493498), ('with', 0.01837093888252518), ('various', 0.006602883457327267)]
+
+
+
+Document id: 117
+Sentence: Growth and adrenal suppression in asthmatic children treated with high - dose fluticasone propionate .
+
+('Probability(0) =', 0.672)
+True class: 0
+[('treated', 0.10488046572458974), ('in', 0.08749785466905644), ('with', 0.08135864967662881), ('and', -0.05766529233178178), ('fluticasone', -0.034635727752137434), ('asthmatic', -0.03153675700089984)]
+
+
+
+Document id: 118
+Sentence: Assessment of cortisol response was by insulin - induced hypoglycaemia in three cases , by short tetracosactrin test in two , and by low - dose tetracosactrin and 24 - hour urinary cortisol / creatinine ratio in one .
+
+('Probability(0) =', 0.5)
+True class: 1
+[('induced', 0.27440825284353687), ('was', -0.08198374928111316), ('by', 0.07439248130920063), ('and', -0.062163564703766785), ('hypoglycaemia', 0.02242123989283464), ('one', -0.018281315662556388)]
+
+
+
+Document id: 119
+Sentence: INTERPRETATION : When high doses of fluticasone propionate are used , growth may be retarded and adrenal suppression may occur .
+
+('Probability(0) =', 0.882)
+True class: 1
+[('doses', 0.053205365483091835), ('used', -0.020494073721658804), ('suppression', 0.0196026900000954), ('of', 0.01841158166551466), ('fluticasone', -0.017490946099682277), ('be', -0.016164512621234514)]
+
+
+
+Document id: 120
+Sentence: The nephrotic syndrome responded again to withdrawal of lithium and institution of steroid therapy .
+
+('Probability(0) =', 0.694)
+True class: 0
+[('and', -0.09905099521890005), ('syndrome', 0.058160562837744505), ('lithium', 0.056080455574832745), ('withdrawal', 0.035520583990230906), ('therapy', 0.03326045449520342), ('The', -0.02827731328420942)]
+
+
+
+Document id: 121
+Sentence: Lithium is known to cause acute renal failure and tubulo - interstitial disease , but the recently described association with proteinuria or nephrotic syndrome is little recognized .
+
+('Probability(0) =', 0.68)
+True class: 1
+[('acute', 0.0504056081363288), ('tubulo', -0.04721407366146384), ('with', 0.03911573130109506), ('failure', 0.03476044081615201), ('is', -0.03397341375965649), ('Lithium', -0.03184477929746528)]
+
+
+
+Document id: 122
+Sentence: Severe rhabdomyolysis following massive ingestion of oolong tea : caffeine intoxication with coexisting hyponatremia .
+
+('Probability(0) =', 0.24)
+True class: 0
+[('following', 0.3052908344277146), ('Severe', 0.1445869086113353), ('rhabdomyolysis', 0.04703526509173993), ('of', -0.037800870303279735), ('with', 0.021384601958694724), ('hyponatremia', 0.011939882049341913)]
+
+
+
+Document id: 123
+Sentence: A 36 - y - o patient with schizophrenia , who had consumed gradually increasing quantities of oolong tea that eventually reached 15 L each day , became delirious and was admitted to a psychiatric hospital .
+
+('Probability(0) =', 0.784)
+True class: 0
+[('who', 0.13580413342526224), ('was', -0.07559742710468764), ('had', -0.02390093833837445), ('patient', 0.021078110505323447), ('that', 0.01786754957069763), ('with', 0.01757312321834384)]
+
+
+
+Document id: 124
+Sentence: After abstinence from oolong tea his delirium resolved .
+
+('Probability(0) =', 0.794)
+True class: 1
+[('from', 0.1490523963119403), ('delirium', 0.02359689385334962), ('resolved', 0.020461421609442382), ('After', 0.014932372925684613), ('his', -0.014669447523771466), ('abstinence', -0.008891765219880663)]
+
+
+
+Document id: 125
+Sentence: He was transferred to our hospital when he was discovered to have acute renal failure with hyponatremia ( 118 mEq / L ) and severe rhabdomyolysis ( creatine phosphokinase , 227 , 200 IU / L ) .
+
+('Probability(0) =', 0.802)
+True class: 1
+[('acute', 0.045895953800100905), ('rhabdomyolysis', 0.045069425278162524), ('was', -0.04277124045143368), ('He', -0.04051561602494502), ('118', -0.036968900691407285), ('hospital', -0.028675672878808865)]
+
+
+
+Document id: 126
+Sentence: On admission rhabdomyolysis had begun to improve despite a worsening of the hyponatremia ( 113 mEq / L ) .
+
+('Probability(0) =', 0.836)
+True class: 1
+[('rhabdomyolysis', 0.10511741577982184), ('the', -0.04687161564451498), ('had', -0.04476570009633741), ('hyponatremia', 0.026699642816535578), ('to', 0.01848682112273816), ('worsening', 0.00854633691884111)]
+
+
+
+Document id: 127
+Sentence: The clinical course suggests that caffeine , which is present in oolong tea , was mainly responsible for the rhabdomyolysis as well as the delirium , although severe hyponatremia has been reported to cause rhabdomyolysis on rare occasions .
+
+('Probability(0) =', 0.758)
+True class: 0
+[('rhabdomyolysis', 0.037056044494048826), ('present', 0.022246769007264005), ('in', 0.01727768544013767), ('responsible', 0.015221299178702647), ('reported', 0.01409371793678282), ('suggests', 0.013633798304679626)]
+
+
+
+Document id: 128
+Sentence: We hypothesize that caffeine toxicity injured the muscle cells , which were fragile due to the potassium depletion induced by the coexisting hyponatremia , to result in unusually severe rhabdomyolysis .
+
+('Probability(0) =', 0.5)
+True class: 1
+[('induced', 0.1829737685589485), ('were', -0.10553242541939571), ('the', -0.07161201012385761), ('toxicity', 0.07073067344690337), ('due', 0.05003483013746743), ('to', -0.01898066456390243)]
+
+
+
+Document id: 129
+Sentence: The possibility of severe rhabdomyolysis should be considered in a patient with water intoxication due to massive ingestion of caffeine - containing beverages .
+
+('Probability(0) =', 0.65)
+True class: 1
+[('due', 0.12372932305532328), ('The', -0.0752798142243187), ('be', -0.07341273036462974), ('rhabdomyolysis', 0.0496885435500102), ('in', 0.043113579679818534), ('patient', 0.02297636649530712)]
+
+
+
+Document id: 130
+Sentence: Biperiden was transiently effective in the acute akathisia , while the more persistent akathisia was alleviated by mianserin .
+
+('Probability(0) =', 0.852)
+True class: 1
+[('was', -0.11747308644924945), ('while', 0.09423741331385674), ('the', -0.07953414249886008), ('akathisia', -0.06738424411422128), ('acute', 0.05259515461351051), ('by', 0.04015052936335147)]
+
+
+
+Document id: 131
+Sentence: Seizures and extrapyramidal symptoms in a patient with Tourette ' s syndrome , Asperger ' s syndrome , and multiple sclerosis treated with interferon beta - 1a and clomipramine .
+
+('Probability(0) =', 0.416)
+True class: 0
+[('interferon', 0.1209560798264444), ('with', 0.11037706815898832), ('in', 0.10814181872444968), ('and', -0.08243078948844783), ('sclerosis', 0.06800135586978538), ('treated', 0.052201300263513634)]
+
+
+
+Document id: 132
+Sentence: Spontaneous bacterial peritonitis induced by intraarterial vasopressin therapy .
+
+('Probability(0) =', 0.276)
+True class: 0
+[('induced', 0.33546843880276883), ('by', 0.14205745592351218), ('peritonitis', -0.02453482226232549), ('vasopressin', 0.01661370034070153), ('Spontaneous', 0.014847553501222258), ('intraarterial', 0.012655675703132951)]
+
+
+
+Document id: 133
+Sentence: Two patients developed spontaneous bacterial peritonitis after infusions of vasopressin into the superior mesenteric or gastroduodenal arteries for upper gastrointestinal hemorrhage .
+
+('Probability(0) =', 0.59)
+True class: 0
+[('after', 0.17097518567534115), ('developed', 0.10015932329247747), ('the', -0.07197860368736159), ('for', 0.053849967873888356), ('of', 0.04569291399391477), ('hemorrhage', 0.03047435733908212)]
+
+
+
+Document id: 134
+Sentence: While the introduction of carmustine wafers ( Gliadel wafers ) into the tumor resection cavity has been shown to be a beneficial therapy for malignant glioma , it is recognized that clinically significant cerebral edema is a potential adverse effect .
+
+('Probability(0) =', 0.86)
+True class: 1
+[('therapy', 0.06764621837564823), ('carmustine', -0.03669765586431895), ('cavity', -0.031168674530276125), ('beneficial', -0.028000758983030765), ('resection', -0.02676717726747645), ('glioma', -0.026121363519297367)]
+
+
+
+Document id: 135
+Sentence: Following are two clinical case reports demonstrating profound cerebral edema associated with implantation of Gliadel wafers .
+
+('Probability(0) =', 0.406)
+True class: 0
+[('associated', 0.3697620189683005), ('with', 0.05711631065783905), ('are', -0.039115524637332), ('case', 0.03829827728581509), ('clinical', -0.033764942244878755), ('reports', -0.01950134196010902)]
+
+
+
+Document id: 136
+Sentence: CASE SUMMARY : A 15 - year - old boy of Turkish origin , diagnosed as having FMF at the age of 14 years , was treated with colchicine 1 . 5 mg / d .
+
+('Probability(0) =', 0.832)
+True class: 0
+[('was', -0.08048912931206278), ('colchicine', 0.04272136836916028), ('old', 0.026186244124676752), ('of', 0.02176106703464135), ('year', 0.020664896385660297), ('with', 0.019435410360552546)]
+
+
+
+Document id: 137
+Sentence: CONCLUSIONS : Colchicine - induced myopathy should be excluded in patients with FMF who present with generalized muscle weakness .
+
+('Probability(0) =', 0.44)
+True class: 0
+[('induced', 0.28493477392286176), ('be', -0.12872768138230592), ('with', 0.04887232200861967), ('should', -0.045801458864298636), ('who', 0.030298523723385457), ('generalized', 0.029706411380074023)]
+
+
+
+Document id: 138
+Sentence: Acute myopathy with selective degeneration of myosin filaments following status asthmaticus treated with methylprednisolone and vecuronium .
+
+('Probability(0) =', 0.376)
+True class: 0
+[('following', 0.28907509763706674), ('Acute', 0.13555134688843015), ('and', -0.06910701932991677), ('status', 0.02035070519838525), ('with', 0.017781119256148753), ('treated', 0.012064943843547836)]
+
+
+
+Document id: 139
+Sentence: We report two cases of severe , acute myopathy with selective degeneration of myosin filaments in asthmatics who developed respiratory failure with hypercapnia and acidosis requiring endotracheal intubation , administration of vecuronium and prolonged ventilatory support .
+
+('Probability(0) =', 0.25)
+True class: 0
+[('report', 0.09957825474200795), ('who', 0.07676669648819236), ('We', 0.073191582006013), ('administration', 0.06999327756124248), ('with', 0.06534020425135346), ('acute', 0.05913296561821305)]
+
+
+
+Document id: 140
+Sentence: This entity is probably related to a combination of high doses of corticosteroids , vecuronium administration and metabolic abnormalities associated with respiratory failure .
+
+('Probability(0) =', 0.606)
+True class: 1
+[('associated', 0.12457266557495927), ('is', -0.07398466659211901), ('vecuronium', -0.04631108096900758), ('entity', -0.04334819280185276), ('with', -0.04215751298972747), ('failure', 0.03845877625381395)]
+
+
+
+Document id: 141
+Sentence: In conclusion , pulmonary fibrosis can develop early and progress rapidly after the administration of high - dose BCNU .
+
+('Probability(0) =', 0.64)
+True class: 0
+[('after', 0.09952706232318657), ('fibrosis', 0.06974966843751962), ('the', -0.04891989850601926), ('and', -0.04711447959011209), ('administration', 0.04348847765515024), ('In', -0.0324341393343701)]
+
+
+
+Document id: 142
+Sentence: The markedly increased expression of fibrogenic factors PDGF - B and IGF - 1 on hyperplastic alveolar macrophages and hyperplastic type II pneumocytes may play an important role in the fibrogenesis of this disease .
+
+('Probability(0) =', 0.85)
+True class: 1
+[('role', 0.04091940428170924), ('this', -0.021645627157165708), ('fibrogenesis', -0.01822884247005067), ('in', 0.01774247271265965), ('IGF', -0.016472379293916095), ('of', 0.014597730945927033)]
+
+
+
+Document id: 143
+Sentence: Goiter and hypothyroidism during re - treatment with amiodarone in a patient who previously experienced amiodarone - induced thyrotoxicosis .
+
+('Probability(0) =', 0.27)
+True class: 1
+[('induced', 0.21258279044339123), ('during', 0.05805926198198992), ('amiodarone', 0.05490356455756327), ('in', 0.0492113720111027), ('with', 0.04836694812600732), ('who', 0.029706434287475384)]
+
+
+
+Document id: 144
+Sentence: A 55 - year - old woman who had been receiving treatment with amiodarone for recurrent supraventricular tachyarrhythmias became thyrotoxic after 30 months of treatment .
+
+('Probability(0) =', 0.38)
+True class: 0
+[('after', 0.1661523557960322), ('amiodarone', 0.059144463348467284), ('receiving', 0.057865790931012046), ('who', 0.04876187786838191), ('woman', 0.047484014077316034), ('had', -0.04683414927441391)]
+
+
+
+Document id: 145
+Sentence: Amiodarone was discontinued , and thyrotoxicosis gradually abated .
+
+('Probability(0) =', 0.888)
+True class: 1
+[('thyrotoxicosis', 0.06203592905582279), ('was', -0.04407509373204235), ('Amiodarone', 0.03703924842567552), ('and', -0.010857740912468982), ('gradually', 0.0051115271003656735), ('discontinued', 0.004062783257047181)]
+
+
+
+Document id: 146
+Sentence: Six months later , amiodarone treatment was reinstated due to life - threatening tachyarrhythmia ; however , the patient remained euthyroid .
+
+('Probability(0) =', 0.806)
+True class: 0
+[('due', 0.10242078807178119), ('was', -0.08109763816302298), ('amiodarone', 0.07146410039831573), ('the', -0.05215313593596619), ('tachyarrhythmia', -0.040144261682359336), ('reinstated', -0.03529041329713737)]
+
+
+
+Document id: 147
+Sentence: The possible mechanisms by which iodine - containing drugs induce thyroid disfunction are reviewed , suggesting this case was caused by an alteration in the sensitivity of the intrinsic autoregulation of the thyroid gland to iodine .
+
+('Probability(0) =', 0.642)
+True class: 0
+[('by', 0.11583939104422424), ('case', 0.07661420510121984), ('caused', 0.06827083248275792), ('the', -0.04702249214250958), ('drugs', -0.027780145093202122), ('was', -0.02618609860592151)]
+
+
+
+Document id: 148
+Sentence: A sixty - year - old woman with advanced breast cancer , previously treated with cisplatin , developed an irreversible lethal renal failure with anuria , the day after 5 g / m2 bolus ifosfamide .
+
+('Probability(0) =', 0.346)
+True class: 0
+[('after', 0.13035891175236483), ('developed', 0.10029972482662311), ('with', 0.07901066090830684), ('woman', 0.04703474681255877), ('old', 0.0434591389693042), ('the', -0.035805179119612805)]
+
+
+
+Document id: 149
+Sentence: Acute dystonia with thalamic and brainstem lesions after initial penicillamine treatment in Wilson ' s disease .
+
+('Probability(0) =', 0.428)
+True class: 0
+[('Acute', 0.14019715364370214), ('after', 0.11377006768015584), ('with', 0.10768784917406754), ('and', -0.071265340841381), ('in', 0.05601697441293128), ('penicillamine', 0.042248228197740136)]
+
+
+
+Document id: 150
+Sentence: A drug interaction between zafirlukast and theophylline .
+
+('Probability(0) =', 0.786)
+True class: 1
+[('interaction', 0.07249183777867213), ('theophylline', 0.07034934727557815), ('drug', 0.04581196537116219), ('and', -0.027001458496272595), ('between', 0.01197288882283076), ('zafirlukast', 0.005029899234665003)]
+
+
+
+Document id: 151
+Sentence: We present the first case ( to our knowledge ) of a potentially serious drug - drug interaction between zafirlukast and theophylline .
+
+('Probability(0) =', 0.612)
+True class: 1
+[('first', 0.056661393005206055), ('knowledge', 0.05356910618603783), ('theophylline', 0.031443457689295636), ('present', 0.031212309407767983), ('and', -0.026158613323063296), ('to', 0.021329018966064196)]
+
+
+
+Document id: 152
+Sentence: Recently , her serum theophylline levels had increased to the toxic range ( 133 . 2 micromol / L [ 24 microg / mL ] ) shortly after the addition of zafirlukast ( Accolate , Zeneca Pharmaceuticals , Wilmington , Del ) to her regimen .
+
+('Probability(0) =', 0.802)
+True class: 1
+[('the', -0.06665043760061037), ('after', 0.041134005453101155), ('theophylline', 0.03721742704441197), ('had', -0.021303941239862074), ('her', -0.019965974981961128), ('toxic', 0.01651177710961199)]
+
+
+
+Document id: 153
+Sentence: Attempts were made to stop and then restart the theophylline therapy at progressively lower doses ; however , with each attempt , the patient ' s reaction to the drug became more toxic , with serum theophylline levels ranging between 99 . 9 and 149 . 9 micromol / L ( 18 and 27 microg / mL ) .
+
+('Probability(0) =', 0.864)
+True class: 1
+[('were', -0.05872341071484137), ('and', -0.04289176818142803), ('with', 0.0424701162561389), ('therapy', 0.034006742089618555), ('the', -0.027762030431673985), ('99', -0.015051439971914077)]
+
+
+
+Document id: 154
+Sentence: One explanation for the noted increase in the theophylline level is that metabolism occurs mainly by cytochrome P450 ( CYP 1A2 ) , an enzyme that is known to be inhibited with high concentrations of zafirlukast .
+
+('Probability(0) =', 0.85)
+True class: 1
+[('is', -0.03884413178181288), ('theophylline', 0.027616939021569014), ('that', 0.027285855210036153), ('CYP', -0.025382979268312695), ('inhibited', -0.02515001613673606), ('with', 0.021822944782282618)]
+
+
+
+Document id: 155
+Sentence: Management of cryptococcosis and toxic epidermal necrolysis in a dog .
+
+('Probability(0) =', 0.764)
+True class: 1
+[('toxic', 0.11273864102988305), ('in', 0.05864560752727406), ('and', -0.04603766733360876), ('dog', 0.03502880386375646), ('necrolysis', 0.027595506591369653), ('of', -0.022406778907676464)]
+
+
+
+Document id: 156
+Sentence: He developed fever , nausea , diarrhea , and malaise and stopped taking on the third day after commencing Pentasa .
+
+('Probability(0) =', 0.674)
+True class: 1
+[('taking', 0.09694485334486926), ('after', 0.07736462367672028), ('fever', 0.058612458017911276), ('the', -0.04597254643652384), ('He', -0.04006427787868567), ('developed', 0.02501356344530411)]
+
+
+
+Document id: 157
+Sentence: RESULTS : Despite treatment with various neuroleptics , the psychosis resolved only when the interferon / ribavirin were discontinued .
+
+('Probability(0) =', 0.65)
+True class: 0
+[('interferon', 0.17509990926286242), ('were', -0.08850148640644434), ('ribavirin', 0.055804755088712174), ('with', 0.03570241342405662), ('treatment', 0.028864178419270494), ('psychosis', 0.01351163843194318)]
+
+
+
+Document id: 158
+Sentence: We document the abrupt development of an extensive choroidal detachment after initiation of dorzolamide therapy in a surgically untreated eye with primary open - angle glaucoma .
+
+('Probability(0) =', 0.484)
+True class: 0
+[('after', 0.15720392637375402), ('We', 0.10516927252661908), ('with', 0.07115164669822677), ('the', -0.07105699280813398), ('therapy', 0.05355288864585538), ('document', -0.0286891784574996)]
+
+
+
+Document id: 159
+Sentence: Hepatotoxicity seen with erlotinib , a small molecule tyrosine kinase inhibitor to EGFR , is usually transient with mild elevation of transaminases .
+
+('Probability(0) =', 0.65)
+True class: 0
+[('with', 0.11232055166371151), ('transient', 0.056737834414466094), ('Hepatotoxicity', 0.056189531774108493), ('is', -0.02691785400714853), ('molecule', -0.0154588862146051), ('elevation', 0.0132924114627961)]
+
+
+
+Document id: 160
+Sentence: After 582 allogeneic bone marrow transplants , we have encountered four patients ( 0 . 7 % ) who developed transient unilateral or bilateral sixth nerve palsies .
+
+('Probability(0) =', 0.586)
+True class: 0
+[('who', 0.13188675587119966), ('developed', 0.08056230057911523), ('transient', 0.06028078434304342), ('bone', 0.017846244473799816), ('bilateral', 0.014900985984094775), ('nerve', 0.014069187756827478)]
+
+
+
+Document id: 161
+Sentence: One patient had MRI T2 abnormalities compatible with cyclosporin neurotoxicity .
+
+('Probability(0) =', 0.696)
+True class: 1
+[('neurotoxicity', 0.19619902885444884), ('had', -0.08099816997520473), ('abnormalities', 0.054718711326292614), ('with', 0.039898911422785024), ('patient', -0.02088149626969127), ('compatible', -0.0035254772958547274)]
+
+
+
+Document id: 162
+Sentence: We postulate that cyclosporin , possibly together with ganciclovir , can produce transient brain stem or neuromuscular dysfunction with eye movement abnormality in occasional patients .
+
+('Probability(0) =', 0.592)
+True class: 0
+[('with', 0.13030679218873892), ('We', 0.05827104842791386), ('transient', 0.044841673764107005), ('dysfunction', 0.04316231057749807), ('or', -0.019152480823079944), ('occasional', -0.016334420582349827)]
+
+
+
+Document id: 163
+Sentence: Reversible nonthrombocytopenic palpable purpura associated with metoclopramide .
+
+('Probability(0) =', 0.166)
+True class: 0
+[('associated', 0.5996874520212695), ('with', 0.09954629400107794), ('Reversible', 0.03464668492073062), ('purpura', 0.015800954212286934), ('metoclopramide', 0.014387461318315206), ('nonthrombocytopenic', 0.01172505992423604)]
+
+
+
+Document id: 164
+Sentence: DISCUSSION : According to the literature , reversible nonthrombocytopenic palpable purpura has not been previously reported with metoclopramide .
+
+('Probability(0) =', 0.778)
+True class: 0
+[('reversible', 0.05592304940009823), ('not', -0.027586813360654695), ('with', 0.026459268955910675), ('to', 0.01891178315653815), ('palpable', -0.018740544405366967), ('reported', 0.018456462608146484)]
+
+
+
+Document id: 165
+Sentence: Flecainide overdose can rapidly result in profound cardiovascular collapse , and is associated with a relatively high mortality .
+
+('Probability(0) =', 0.644)
+True class: 0
+[('associated', 0.30298591044557016), ('is', -0.11268704846536867), ('Flecainide', -0.0426704528832901), ('relatively', -0.039949889306598), ('mortality', -0.03787767554292651), ('and', -0.03693912888311623)]
+
+
+
+Document id: 166
+Sentence: Sodium bicarbonate should be given early in the resuscitation , and re - administered as frequently as required , targeting an alkaline pH and improved cardiac output , while accepting hypernatraemia .
+
+('Probability(0) =', 0.88)
+True class: 0
+[('while', 0.11163166979744304), ('the', -0.02503913648930448), ('hypernatraemia', -0.01761347427292119), ('targeting', -0.017500004730514242), ('be', -0.014974875574054424), ('alkaline', -0.014906018564954764)]
+
+
+
+Document id: 167
+Sentence: Veno - occlusive disease - like hepatotoxicity in two children receiving chemotherapy for Wilms ' tumor and clear cell sarcoma of kidney .
+
+('Probability(0) =', 0.502)
+True class: 1
+[('receiving', 0.09957314157387297), ('hepatotoxicity', 0.09416969440277773), ('in', 0.05856595667071348), ('like', 0.05672091960196104), ('and', -0.04402035341260175), ('sarcoma', 0.028996116494580226)]
+
+
+
+Document id: 168
+Sentence: We report two pediatric cases who developed veno - occlusive disease - like hepatotoxicity while receiving chemotherapy for Wilms ' tumor and clear cell sarcoma of kidney .
+
+('Probability(0) =', 0.322)
+True class: 1
+[('while', 0.07640202685246396), ('who', 0.07574324907152419), ('hepatotoxicity', 0.06299820949754181), ('developed', 0.05760272441466607), ('report', 0.04931412341808391), ('receiving', 0.045471422539681665)]
+
+
+
+Document id: 169
+Sentence: Other possible causes of hepatotoxicity were excluded .
+
+('Probability(0) =', 0.822)
+True class: 1
+[('hepatotoxicity', 0.15940137004437974), ('were', -0.0659082725891583), ('possible', 0.03608671168938897), ('of', 0.005216595031012557), ('causes', 0.003034228980096614), ('Other', 0.0020648748683090475)]
+
+
+
+Document id: 170
+Sentence: A complex pattern of melanonychia and onycholysis after treatment with pemetrexed for lung cancer .
+
+('Probability(0) =', 0.512)
+True class: 0
+[('after', 0.16293674699715197), ('and', -0.07080087274829376), ('with', 0.06605004929331926), ('cancer', 0.059527475336872436), ('lung', 0.04984791636207761), ('for', 0.028075934181764416)]
+
+
+
+Document id: 171
+Sentence: Along with normal results of a hepatorenal panel and normal serum vitamin B12 and folate levels , no metabolic or endocrinologic alterations were present to explain the nail pigmentation and dystrophic changes .
+
+('Probability(0) =', 0.898)
+True class: 0
+[('were', -0.032613689215512706), ('present', 0.029518611167170278), ('with', 0.01988964151239853), ('nail', 0.01724882636294037), ('normal', -0.012685503322885988), ('Along', -0.008746142715465014)]
+
+
+
+Document id: 172
+Sentence: When questioned , he denied taking any other drugs including other alternative medicine approaches or vitamin supplements , particularly retinoids , well known for causing severe nail dystrophy .
+
+('Probability(0) =', 0.856)
+True class: 0
+[('taking', 0.07839616679367654), ('drugs', -0.03710702102008821), ('other', -0.019356074676073264), ('nail', 0.018503668098232676), ('denied', -0.015391533683835642), ('severe', 0.011572766782437356)]
+
+
+
+Document id: 173
+Sentence: Interstitial pneumonitis and alveolar hemorrhage complicating use of rituximab : case report and review of the literature .
+
+('Probability(0) =', 0.444)
+True class: 0
+[('pneumonitis', 0.12147907539342925), ('report', 0.08485123784883551), ('complicating', 0.07729569159675247), ('the', -0.05094887433548966), ('Interstitial', 0.04891135683396424), ('use', 0.03851444879003991)]
+
+
+
+Document id: 174
+Sentence: The use of rituximab has been uncommonly associated with delayed pulmonary toxicity .
+
+('Probability(0) =', 0.462)
+True class: 0
+[('associated', 0.20763850851607193), ('The', -0.12850632941647852), ('toxicity', 0.12778761184342205), ('has', -0.06998363516606207), ('pulmonary', 0.03465438718796976), ('been', -0.03347153773404886)]
+
+
+
+Document id: 175
+Sentence: A 68 - year - old man suddenly developed extensive bleeding due to severe thrombocytopenia .
+
+('Probability(0) =', 0.518)
+True class: 1
+[('due', 0.14975940115679315), ('thrombocytopenia', 0.10090261222221646), ('man', 0.027128933787521264), ('old', -0.022805144803554923), ('severe', -0.021734315717792163), ('to', 0.017998593434806857)]
+
+
+
+Document id: 176
+Sentence: Drug - induced thrombocytopenia was also considered , and he was told to stop all of his medicines .
+
+('Probability(0) =', 0.616)
+True class: 1
+[('induced', 0.3032932437498445), ('was', -0.13210772088725845), ('thrombocytopenia', 0.12785063559895882), ('also', -0.07356132341052225), ('Drug', -0.04806886200193351), ('and', 0.019770864349714)]
+
+
+
+Document id: 177
+Sentence: Only after three subsequent episodes of severe , symptomatic thrombocytopenia over the next four weeks did he say , upon repeat questioning , that he had continued to take quinine for night leg cramps .
+
+('Probability(0) =', 0.652)
+True class: 0
+[('thrombocytopenia', 0.11538260427476549), ('after', 0.09107677611528625), ('the', -0.029359645659174993), ('quinine', 0.028551010694308158), ('did', -0.01772997982160187), ('leg', 0.017222740369648968)]
+
+
+
+Document id: 178
+Sentence: Even after a strict warning , he took another quinine tablet that evening , which triggered his fifth episode of severe thrombocytopenia , and confirmed the etiology of quinine - induced thrombocytopenia .
+
+('Probability(0) =', 0.36)
+True class: 0
+[('induced', 0.27779554010453483), ('thrombocytopenia', 0.09945766696387329), ('after', 0.04660160812738658), ('quinine', 0.04373598702443547), ('the', -0.039354135027830105), ('confirmed', -0.016830937234354814)]
+
+
+
+Document id: 179
+Sentence: The diagnosis thrombocytopenia caused by common drugs can be difficult , requiring persistent , explicit questions .
+
+('Probability(0) =', 0.658)
+True class: 1
+[('caused', 0.14319849541065763), ('thrombocytopenia', 0.10837935471473403), ('by', 0.1049655073282758), ('The', -0.08895968068251513), ('drugs', -0.07434792904316119), ('be', -0.06514362951739792)]
+
+
+
+Document id: 180
+Sentence: 6 - Thioguanine is being increasingly used in the treatment of inflammatory bowel disease but has not been reported to cause liver injury in this context .
+
+('Probability(0) =', 0.842)
+True class: 0
+[('reported', 0.030389107316219487), ('used', -0.029941805588934688), ('context', -0.028865901205106608), ('in', 0.028568982648510467), ('increasingly', -0.02440182721904738), ('injury', 0.020934305565710472)]
+
+
+
+Document id: 181
+Sentence: We believe the temporal association of the abnormal liver enzymes in this patient , in the absence of other offending agents , argues strongly in favor of 6 - TG as a cause of liver enzyme abnormalities .
+
+('Probability(0) =', 0.714)
+True class: 1
+[('We', 0.05748711000132398), ('patient', 0.04129496202182666), ('of', 0.03714471196868389), ('liver', 0.034854642083734934), ('this', -0.03133395495705792), ('the', -0.02984737380507276)]
+
+
+
+Document id: 182
+Sentence: Severe respiratory syncytial virus pulmonary infection in a patient treated with fludarabine for chronic lymphocytic leukemia .
+
+('Probability(0) =', 0.216)
+True class: 1
+[('Severe', 0.16225791104554557), ('in', 0.12171392013675918), ('treated', 0.1011325299187335), ('with', 0.061756253037049756), ('pulmonary', 0.0520128525008329), ('chronic', 0.036929308507156255)]
+
+
+
+Document id: 183
+Sentence: CD4 T - lymphocyte depletion , myelosuppression , and subsequent severe infections are the major side effects of fludarabine phosphate therapy .
+
+('Probability(0) =', 0.684)
+True class: 1
+[('therapy', 0.1377183602209448), ('side', 0.048591675154855456), ('the', -0.04853352093593815), ('fludarabine', 0.03329138397293443), ('severe', 0.02751304831403111), ('and', -0.019764897579524068)]
+
+
+
+Document id: 184
+Sentence: We report here on a heretofore undescribed respiratory syncytial virus ( RSV ) infection in a patient with a long - standing history of refractory CLL that was treated with fludarabine phosphate .
+
+('Probability(0) =', 0.462)
+True class: 1
+[('report', 0.11893693461641468), ('We', 0.0865074313990881), ('in', 0.08226953422193978), ('with', 0.0762923627437048), ('was', -0.06736867569733904), ('patient', 0.038283109517210076)]
+
+
+
+Document id: 185
+Sentence: Localized panniculitis and subsequent lipoatrophy with subcutaneous glatiramer acetate ( Copaxone ) injection for the treatment of multiple sclerosis .
+
+('Probability(0) =', 0.734)
+True class: 1
+[('injection', 0.09738567594082859), ('sclerosis', 0.07137659400411571), ('the', -0.07068163028935243), ('and', -0.05613555832977512), ('acetate', 0.029539693214676917), ('panniculitis', -0.024039135131915714)]
+
+
+
+Document id: 186
+Sentence: In this article , we describe another case of subcutaneous changes following repeated glatiramer acetate injection , presented as localized panniculitis in the area around the injection sites , in a 46 - year - old female patient who was treated with glatiramer acetate for 18 months .
+
+('Probability(0) =', 0.434)
+True class: 0
+[('following', 0.12735507133717489), ('describe', 0.09129019383884468), ('who', 0.059911323399511614), ('the', -0.054862560443592064), ('injection', 0.051808590000786234), ('case', 0.04474202283870784)]
+
+
+
+Document id: 187
+Sentence: Treatment with protease inhibitors in some persons infected with HIV - 1 is associated with a syndrome of lipodystrophy manifesting as peripheral lipoatrophy , relative central adiposity , insulin resistance , and serum lipid abnormalities .
+
+('Probability(0) =', 0.622)
+True class: 0
+[('associated', 0.22214253907398893), ('is', -0.07105931060012906), ('and', -0.0468498109024038), ('with', 0.03979165425936577), ('serum', -0.034163565692347075), ('persons', -0.02646887600300952)]
+
+
+
+Document id: 188
+Sentence: We report 3 cases of HIV - 1 infected patients who experienced symptomatic angiolipomas shortly after starting antiretroviral therapy including the protease inhibitor indinavir .
+
+('Probability(0) =', 0.264)
+True class: 0
+[('report', 0.1432966916519754), ('after', 0.12757001923731423), ('We', 0.10161463473320616), ('who', 0.0937579408993393), ('therapy', 0.07238476283096838), ('the', -0.049555119921641494)]
+
+
+
+Document id: 189
+Sentence: Because psoralens sensitize skin to ultraviolet A light , phototoxic reactions are the most frequent adverse effect of this treatment .
+
+('Probability(0) =', 0.902)
+True class: 1
+[('this', -0.062389275703161155), ('reactions', 0.0423885918684611), ('the', -0.03629878529081727), ('ultraviolet', -0.03046959772863727), ('psoralens', -0.022738656850461128), ('to', 0.019512558567076736)]
+
+
+
+Document id: 190
+Sentence: Sunburn may sometimes be a major injury in psoralen users because high doses or inappropriate use of the drug may render the skin extremely sensitive .
+
+('Probability(0) =', 0.824)
+True class: 1
+[('doses', 0.0420980827489578), ('be', -0.03052129367561106), ('injury', 0.025393765189628822), ('use', 0.02312209684549386), ('psoralen', -0.019305982058846306), ('sometimes', -0.013550744887247808)]
+
+
+
+Document id: 191
+Sentence: In this article , we present the case of a vitiligo patient who was admitted to our facility with an intense burn after the topical use of 8 - methoxypsoralen solution as a suntanning agent .
+
+('Probability(0) =', 0.54)
+True class: 1
+[('after', 0.10757240475740563), ('who', 0.07647880012800078), ('case', 0.06764166635823612), ('was', -0.06484533515306264), ('present', 0.04510203489593605), ('use', 0.043142034806982046)]
+
+
+
+Document id: 192
+Sentence: Disseminated intravascular coagulation associated with acute hemoglobinemia or hemoglobinuria following Rh ( 0 ) ( D ) immune globulin intravenous administration for immune thrombocytopenic purpura .
+
+('Probability(0) =', 0.274)
+True class: 0
+[('following', 0.19270075641436948), ('associated', 0.1602426610687731), ('or', -0.04451024467811901), ('with', -0.035997700070035346), ('immune', -0.03332226179964761), ('administration', 0.031379916169413435)]
+
+
+
+Document id: 193
+Sentence: A previous review described data on 15 patients who experienced acute hemoglobinemia or hemoglobinuria following anti - D IGIV administration for ITP or secondary thrombocytopenia .
+
+('Probability(0) =', 0.382)
+True class: 0
+[('following', 0.18495503563772245), ('administration', 0.04126074950393233), ('secondary', 0.04103810889180327), ('or', -0.03366291360944519), ('thrombocytopenia', 0.03185343538666128), ('patients', -0.029438572288498)]
+
+
+
+Document id: 194
+Sentence: That review suggested that patients receiving anti - D IGIV be monitored for those and other potential complications of hemoglobinemia , particularly disseminated intravascular coagulation ( DIC ) .
+
+('Probability(0) =', 0.788)
+True class: 1
+[('receiving', 0.1127932982883453), ('and', 0.03090460116491529), ('be', -0.020062688223357727), ('review', 0.014416496929014042), ('DIC', -0.014165637579169459), ('suggested', 0.012068938819583416)]
+
+
+
+Document id: 195
+Sentence: Through November 30 , 2004 , the FDA received 6 reports of DIC associated with " acute hemolysis " ( or similar terms ) , 5 of which involved fatalities .
+
+('Probability(0) =', 0.564)
+True class: 0
+[('associated', 0.3478761211904979), ('acute', 0.03796444570301871), ('of', -0.03637464334535211), ('the', -0.03231244607746607), ('or', -0.030350316539123352), ('DIC', -0.029578162325699778)]
+
+
+
+Document id: 196
+Sentence: The attending or consulting physicians assessed that acute hemolysis or DIC caused or contributed to each death .
+
+('Probability(0) =', 0.77)
+True class: 1
+[('caused', 0.15715939072636206), ('The', -0.07210892644780961), ('acute', 0.07156796657537333), ('or', -0.06039142497784147), ('DIC', -0.033154332277008085), ('consulting', -0.032990107518579025)]
+
+
+
+Document id: 197
+Sentence: This review presents the first case series of DIC associated with acute hemoglobinemia or hemoglobinuria following anti - D IGIV administration for ITP .
+
+('Probability(0) =', 0.294)
+True class: 0
+[('associated', 0.16040341251692677), ('following', 0.1262468371004777), ('administration', 0.05559759766086918), ('case', 0.05200622158208712), ('the', -0.046200089580117426), ('or', -0.036397488758283796)]
+
+
+
+Document id: 198
+Sentence: The purpose of this review is to increase awareness among physicians and other health care professionals that DIC may be a rare but potentially severe complication of anti - D IGIV treatment .
+
+('Probability(0) =', 0.822)
+True class: 1
+[('complication', 0.0578186687790804), ('The', -0.029407587138903766), ('of', 0.02357952640633376), ('this', -0.02316064207060294), ('severe', 0.018066779626679307), ('and', -0.017392702754013424)]
+
+
+
+Document id: 199
+Sentence: Increased awareness of DIC as a diagnostic possibility may enable prompt recognition and medical intervention in affected patients .
+
+('Probability(0) =', 0.894)
+True class: 1
+[('possibility', 0.029196003923950397), ('recognition', 0.024959670082603393), ('DIC', -0.015340422718652998), ('enable', -0.015242138691563505), ('of', 0.012778312756456245), ('and', -0.011890480367717267)]
+
+
+
+Document id: 200
+Sentence: PURPOSE : To report a case of traumatic flap dehiscence and Enterobacter keratitis 34 months after LASIK .
+
+('Probability(0) =', 0.342)
+True class: 1
+[('after', 0.15501136726073267), ('case', 0.13059382120713617), ('report', 0.10432292646269441), ('To', 0.09390494293786725), ('of', 0.06263618575271848), ('PURPOSE', 0.05441451045299568)]
+
+
+
+Document id: 201
+Sentence: METHODS : A 36 - year - old man sustained a flap dehiscence following traumatic right eye gouging by a seagull claw .
+
+('Probability(0) =', 0.476)
+True class: 0
+[('following', 0.3425949279793284), ('by', 0.09066121459041013), ('year', -0.06740212076697841), ('old', -0.03930935320367374), ('36', -0.02400389409976702), ('flap', -0.017561210693394287)]
+
+
+
+Document id: 202
+Sentence: Periodic alternating nystagmus in phenytoin intoxication .
+
+('Probability(0) =', 0.68)
+True class: 0
+[('intoxication', 0.17763214866874624), ('in', 0.15207718271939086), ('phenytoin', 0.09861260538576871), ('Periodic', -0.03477120618351534), ('alternating', -0.0326130685467429), ('nystagmus', 0.013060681626142231)]
+
+
+
+Document id: 203
+Sentence: These findings are consistent with an immune - complex form of glomerulopathy in which gold is neither the antigen nor a hapten in the glomerular deposits , and they suggest the hypothesis that antibodies to tubular epithelial antigens induced by gold therapy may be a causative factor in the renal disease associated with gold therapy in rheumatoid arthritis .
+
+('Probability(0) =', 0.556)
+True class: 0
+[('induced', 0.10254256711268771), ('associated', 0.0776024671641241), ('the', -0.07298518819329979), ('therapy', 0.06199210075844736), ('These', -0.03798541380393437), ('is', -0.035749954485172576)]
+
+
+
+Document id: 204
+Sentence: Liver transplantation for fulminant hepatitis related to nevirapine therapy .
+
+('Probability(0) =', 0.346)
+True class: 0
+[('therapy', 0.126185549093365), ('hepatitis', 0.11993790793866507), ('related', 0.09043672863511606), ('for', 0.030773981600473656), ('fulminant', 0.020006901826282293), ('to', 0.01540785609487194)]
+
+
+
+Document id: 205
+Sentence: Drug - induced hepatotoxicity is an important cause of hepatocellular injury .
+
+('Probability(0) =', 0.436)
+True class: 1
+[('induced', 0.29276011154589515), ('hepatotoxicity', 0.10794338216559049), ('is', -0.08012139393519753), ('Drug', -0.07077809749003947), ('injury', 0.05278504455105508), ('hepatocellular', 0.04751051907819554)]
+
+
+
+Document id: 206
+Sentence: Superior sagittal sinus thrombosis was demonstrated by cerebral angiogram .
+
+('Probability(0) =', 0.768)
+True class: 1
+[('by', 0.20634026152185084), ('was', -0.13772074107657695), ('thrombosis', 0.05094687011337658), ('cerebral', 0.015536389454014893), ('sinus', 0.0064569721343363745), ('sagittal', 0.005163773231141494)]
+
+
+
+Document id: 207
+Sentence: We suggest that the sagittal sinus thrombosis in this patient was caused by acquired , transient free protein S deficiency .
+
+('Probability(0) =', 0.626)
+True class: 1
+[('caused', 0.14502072700002325), ('by', 0.0789926664051239), ('was', -0.06270140593626713), ('this', -0.04789043926833495), ('in', 0.03473202165291664), ('We', 0.03084325138358379)]
+
+
+
+Document id: 208
+Sentence: There are isolated case reports of stroke secondary to the use of triptans , however , this is the first case of spinal cord infarction reported following the use of this group of drugs .
+
+('Probability(0) =', 0.614)
+True class: 0
+[('following', 0.1409614779094546), ('this', -0.07495362550486295), ('the', -0.06359480838302753), ('case', 0.05631969603943972), ('secondary', 0.05241526974346055), ('drugs', -0.05191087198927113)]
+
+
+
+Document id: 209
+Sentence: Lithium therapy was discontinued because of poor compliance to the medication and intolerable polyuria .
+
+('Probability(0) =', 0.916)
+True class: 1
+[('was', -0.061638341962715615), ('therapy', 0.0518580675864445), ('to', 0.017618269166408414), ('and', -0.01307040720364777), ('compliance', -0.01001095446290317), ('Lithium', -0.008638786465593818)]
+
+
+
+Document id: 210
+Sentence: The exophthalmos improved dramatically within 72 hours of the withdrawal of lithium .
+
+('Probability(0) =', 0.744)
+True class: 1
+[('lithium', 0.14271054636216018), ('withdrawal', 0.09729069705716621), ('The', -0.04395651891129107), ('the', -0.040182830330744136), ('of', 0.02546129327904435), ('within', -0.01134741668622966)]
+
+
+
+Document id: 211
+Sentence: RESULTS : Both patients experienced a previously unreported side effect - - falling backward - - associated with bupropion use .
+
+('Probability(0) =', 0.466)
+True class: 1
+[('associated', 0.4622709972565542), ('patients', -0.05865801598344542), ('with', 0.051390596575083616), ('use', 0.0393582305933101), ('falling', -0.03463765414894788), ('side', -0.03202898244556279)]
+
+
+
+Document id: 212
+Sentence: Hemolytic uremic syndrome appeared , while no evidence of residual tumor was found .
+
+('Probability(0) =', 0.778)
+True class: 1
+[('while', 0.17805795685000278), ('was', -0.08723471238431987), ('syndrome', 0.054890442033575376), ('no', -0.022259645208567765), ('residual', -0.021027548264481326), ('Hemolytic', -0.018140492486752847)]
+
+
+
+Document id: 213
+Sentence: Infusion of fresh frozen plasma together with aspirin and dipyridamole resulted in recovery of microangiopathic hemolytic anemia and thrombocytopenia .
+
+('Probability(0) =', 0.678)
+True class: 0
+[('thrombocytopenia', 0.11845358196337506), ('with', 0.06239823347333824), ('and', -0.05303048565492498), ('microangiopathic', -0.03744798075551597), ('anemia', 0.03608368170692787), ('fresh', -0.033544267303200405)]
+
+
+
+Document id: 214
+Sentence: Primary ovarian large B - cell lymphoma in patient with juvenile rheumatoid arthritis treated with low dose Methotrexate .
+
+('Probability(0) =', 0.292)
+True class: 0
+[('in', 0.11496613060017352), ('with', 0.09106075175754787), ('patient', 0.08736984811473013), ('arthritis', 0.05569974039036791), ('treated', 0.054629878746112956), ('Methotrexate', 0.051835555424806425)]
+
+
+
+Document id: 215
+Sentence: Patients receiving combination therapy with colchicine and simvastatin , particularly in the presence of renal insufficiency , should be monitored for the development of myopathy , including rhabdomyolysis .
+
+('Probability(0) =', 0.614)
+True class: 0
+[('receiving', 0.07971565614379841), ('therapy', 0.06213658806418258), ('the', -0.05601277454003042), ('be', -0.053533540693267545), ('with', 0.040436910804279455), ('rhabdomyolysis', 0.03593059950277911)]
+
+
+
+Document id: 216
+Sentence: Thalidomide was withdrawn from world markets in 1961 following recognition of its teratogenic effects .
+
+('Probability(0) =', 0.62)
+True class: 0
+[('following', 0.35847498192675964), ('was', -0.20650950159529258), ('from', 0.024265973756820682), ('of', -0.01769219613130572), ('effects', -0.010672707686660794), ('recognition', 0.010648149441532102)]
+
+
+
+Document id: 217
+Sentence: We report four cases of sensorimotor axonal neuropathy in children aged 10 - 15 years , treated with thalidomide for myxopapillary ependymoma , Crohn ' s disease and recurrent giant aphthous ulceration .
+
+('Probability(0) =', 0.55)
+True class: 0
+[('report', 0.09284294452145089), ('We', 0.07033781215227901), ('in', 0.039686921809279296), ('axonal', -0.03345952309591534), ('giant', -0.03283157055169481), ('thalidomide', -0.030596756905676512)]
+
+
+
+Document id: 218
+Sentence: Thalidomide neuropathy is often associated with proximal weakness and may progress even after discontinuation of treatment , in the phenomenon of ' coasting ' .
+
+('Probability(0) =', 0.528)
+True class: 1
+[('associated', 0.22604201895700338), ('is', -0.09057558918308228), ('after', 0.058087901656186235), ('the', -0.05341307713933156), ('neuropathy', 0.04705414437981507), ('Thalidomide', -0.035034965353257064)]
+
+
+
+Document id: 219
+Sentence: Here we report a patient with newly diagnosed acute promyelocytic leukemia who developed acute focal myositis , synovitis , and possible vasculitis , after receiving all - trans retinoic acid therapy .
+
+('Probability(0) =', 0.258)
+True class: 0
+[('after', 0.10536568195894609), ('report', 0.0770118532462157), ('therapy', 0.07307332097731621), ('receiving', 0.06234777357597624), ('who', 0.0618069087636069), ('acute', 0.05227394486073125)]
+
+
+
+Document id: 220
+Sentence: We review the existing literature on this rare clinical entity , all - trans retinoic acid - induced myositis .
+
+('Probability(0) =', 0.586)
+True class: 0
+[('induced', 0.3141923101188977), ('this', -0.05042236056286333), ('the', -0.03488543034050619), ('acid', 0.028546930799024435), ('We', -0.025436194085935622), ('literature', -0.011648950693455772)]
+
+
+
+Document id: 221
+Sentence: Mediastinal extravasation of doxorubicin .
+
+('Probability(0) =', 0.912)
+True class: 0
+[('doxorubicin', 0.05084110043247982), ('of', 0.02426014154141612), ('extravasation', 0.004488575100227698), ('Mediastinal', -0.00043822694360562625)]
+
+
+
+Document id: 222
+Sentence: While doxorubicin was administered , the patient presented thoracic pain and breathing distress due to superior vena cava perforation by the central catheter and subsequent extravasation of the drug into the mediastinum .
+
+('Probability(0) =', 0.842)
+True class: 0
+[('due', 0.07144663892685423), ('the', -0.059632745794468124), ('was', -0.052236301162051295), ('extravasation', -0.022425631615276827), ('mediastinum', -0.02168399977573853), ('cava', -0.019651137697126272)]
+
+
+
+Document id: 223
+Sentence: OBJECTIVE : To report the finding of squamous metaplasia within endometrial glands occurring as a result of progestin therapy of hyperplasia .
+
+('Probability(0) =', 0.436)
+True class: 1
+[('report', 0.09662784244277758), ('occurring', 0.08721808741680381), ('therapy', 0.07947842776116136), ('OBJECTIVE', 0.06121263463065868), ('To', 0.059224227951842796), ('the', -0.03864604771315388)]
+
+
+
+Document id: 224
+Sentence: CONCLUSION : Squamous metaplasia in these cases appears to be a consequence of progestin therapy .
+
+('Probability(0) =', 0.716)
+True class: 1
+[('therapy', 0.11794769559327942), ('be', -0.04189593489404217), ('cases', 0.03710703052730495), ('to', 0.03269438436963952), ('these', -0.030237620149127314), ('CONCLUSION', 0.02199141075406494)]
+
+
+
+Document id: 225
+Sentence: Quinine - induced hearing loss .
+
+('Probability(0) =', 0.088)
+True class: 0
+[('induced', 0.7105873244369303), ('Quinine', 0.08646786369477492), ('loss', 0.052347558532668884), ('hearing', 0.04862112035597642)]
+
+
+
+Document id: 226
+Sentence: The case of a 29 - year - old man suffering from falciparum malaria disease who got a reversible hearing loss from quinine therapy is presented .
+
+('Probability(0) =', 0.446)
+True class: 0
+[('case', 0.10395757101331887), ('therapy', 0.08689449021015046), ('man', 0.04861831059647434), ('from', 0.042285391992537016), ('reversible', 0.0369505940102542), ('who', 0.030008458131966852)]
+
+
+
+Document id: 227
+Sentence: Acute myeloid leukemia and lung cancer occurring in a chronic lymphocytic leukemia patient treated with fludarabine and autologous peripheral blood stem - cell transplantation .
+
+('Probability(0) =', 0.584)
+True class: 1
+[('in', 0.08628262944339729), ('and', -0.08236506785435808), ('Acute', 0.07249580889526121), ('blood', -0.05708682507356176), ('autologous', -0.05522566501565518), ('treated', 0.05491230175690101)]
+
+
+
+Document id: 228
+Sentence: Unique behavioral change with cinepazide in parkinsonism .
+
+('Probability(0) =', 0.654)
+True class: 1
+[('with', 0.15987702003485907), ('in', 0.07196492244561015), ('parkinsonism', 0.04980806777267403), ('change', 0.02120153590410827), ('Unique', -0.0041110953808470175), ('cinepazide', 0.001598065950080717)]
+
+
+
+Document id: 229
+Sentence: In two patients with mycosis fungoides , a squamous cell carcinoma developed during therapy with psoralens plus long - wave ultraviolet radiation ( PUVA ) .
+
+('Probability(0) =', 0.514)
+True class: 1
+[('during', 0.11821243895869504), ('with', 0.11312295478081041), ('therapy', 0.10474161955971426), ('In', -0.0550679651397192), ('developed', 0.04401044746566427), ('fungoides', -0.029853599657437193)]
+
+
+
+Document id: 230
+Sentence: The authors note that catatonia is a clinical syndrome associated with multiple medical conditions as well as psychiatric disorders .
+
+('Probability(0) =', 0.666)
+True class: 1
+[('associated', 0.2425364159183592), ('is', -0.09162601062052113), ('The', -0.07877659647925347), ('catatonia', -0.041546065201034106), ('well', -0.04112733543206311), ('syndrome', 0.04042129749949397)]
+
+
+
+Document id: 231
+Sentence: Bisphosphonate - related osteonecrosis of the jaw ( BRONJ ) is reported in up to 18 . 6 % of patients treated with intravenous bisphosphonates and can result in significant morbidity .
+
+('Probability(0) =', 0.688)
+True class: 0
+[('related', 0.090538477581654), ('in', 0.059971705361225904), ('treated', 0.0581970285807091), ('bisphosphonates', -0.03601818255125588), ('Bisphosphonate', -0.030378732379565912), ('the', -0.030354420075960634)]
+
+
+
+Document id: 232
+Sentence: Two weeks later , anemia , thrombocytopenia and progressive increase in BUN , creatinine and LDH were observed .
+
+('Probability(0) =', 0.816)
+True class: 1
+[('thrombocytopenia', 0.10325590501185712), ('were', -0.07974337639666011), ('anemia', 0.03749473211568528), ('in', 0.03061384800156568), ('later', -0.02246970959175091), ('LDH', -0.02161410155701172)]
+
+
+
+Document id: 233
+Sentence: Thrombocytopenia with or without microangiopathy following quinine is often referred to as quinine " hypersensitivity . " When schistocytes are present it is frequently termed " quinine - associated TTP / HUS . " A severe deficiency of the vWF - cleaving protease , ADAMTS13 , is associated with idiopathic TTP .
+
+('Probability(0) =', 0.54)
+True class: 0
+[('associated', 0.18845384721896563), ('is', -0.12714076004216096), ('following', 0.09007236546975571), ('hypersensitivity', 0.05212327254143542), ('TTP', -0.03372750492152798), ('the', -0.03193307187361513)]
+
+
+
+Document id: 234
+Sentence: A previous study of patients with " quinine - associated TTP / HUS " found that ADAMTS13 activities were not abnormal in 12 / 12 patients .
+
+('Probability(0) =', 0.704)
+True class: 0
+[('associated', 0.25029678887967616), ('were', -0.1497441731486031), ('not', -0.07472608325103204), ('in', 0.05620600532480208), ('patients', -0.04277201488580991), ('12', -0.03515248238384596)]
+
+
+
+Document id: 235
+Sentence: We conclude that while thrombocytopenia and schistocytosis can be seen in quinine - associated TTP / HUS , the pathophysiology seems to be distinct from that seen in most cases of idiopathic TTP ( i . e . , severely decreased ADAMTS13 with an inhibitor ) .
+
+('Probability(0) =', 0.554)
+True class: 0
+[('associated', 0.16434555982083388), ('be', -0.08526499599830105), ('TTP', -0.06929716704684472), ('thrombocytopenia', 0.059031294444808965), ('while', 0.03661877159328559), ('seen', -0.024659622881990695)]
+
+
+
+Document id: 236
+Sentence: We recommend that a TMA in association with quinine be consistently referred to as quinine - associated thrombotic microangiopathy ( quinine - TMA ) to better distinguish this entity from idiopathic TTP .
+
+('Probability(0) =', 0.668)
+True class: 0
+[('associated', 0.20704021776004772), ('TMA', -0.043100482490773105), ('this', -0.031977269051985634), ('be', -0.027079248574829143), ('microangiopathy', -0.025487465594086878), ('association', 0.02209577433427967)]
+
+
+
+Document id: 237
+Sentence: Proconvulsive tendency of imipenem / cilastatin is one of its well - known side effects .
+
+('Probability(0) =', 0.902)
+True class: 1
+[('of', 0.05209180614597095), ('known', 0.016405473938712587), ('side', 0.013339945699831584), ('imipenem', -0.011927926862032973), ('is', 0.008398809420285211), ('effects', 0.007000068042815201)]
+
+
+
+Document id: 238
+Sentence: Camptocormia occurred concomitantly with an increase of the plasma valproate level from about 330 mumol / l up to 530 mumol / l .
+
+('Probability(0) =', 0.876)
+True class: 0
+[('mumol', -0.11609654187004897), ('valproate', 0.08907507584249821), ('the', -0.029059629970712306), ('Camptocormia', -0.028617156873497175), ('concomitantly', -0.02261282957295187), ('with', 0.01912354551420229)]
+
+
+
+Document id: 239
+Sentence: Four months later reversible camptocormia was manifested again concomitantly with about the same plasma valproate levels as above .
+
+('Probability(0) =', 0.836)
+True class: 0
+[('valproate', 0.0784213428711512), ('was', -0.06958130281623436), ('reversible', 0.035864269303315786), ('manifested', 0.03199854470536568), ('months', -0.0271003603935711), ('camptocormia', -0.017788456826687525)]
+
+
+
+Document id: 240
+Sentence: BACKGROUND : The risk / benefit ratio of warfarin therapy changes in the over 75s , when haemorrhagic side - effects become more common .
+
+('Probability(0) =', 0.71)
+True class: 1
+[('therapy', 0.11017038956699211), ('The', -0.05292583341140436), ('warfarin', 0.03540753873871796), ('side', 0.03286716664353556), ('the', -0.029455523092001668), ('when', 0.029030246412859426)]
+
+
+
+Document id: 241
+Sentence: The first patient showed a good response to olanzapine , but the RLS symptoms associated with olanzapine resulted in poor long - term compliance , eventually leading to frequent relapse of psychotic symptoms .
+
+('Probability(0) =', 0.63)
+True class: 0
+[('associated', 0.21905822846209985), ('showed', -0.08324345837654835), ('The', -0.04608899537496861), ('first', 0.04518659240871036), ('the', -0.023361458530642955), ('in', 0.02136718661739802)]
+
+
+
+Document id: 242
+Sentence: The second patient exhibited sudden PLMS following olanzapine injection .
+
+('Probability(0) =', 0.578)
+True class: 0
+[('following', 0.3249910786082793), ('The', -0.1645080109188133), ('patient', -0.07174233965842573), ('injection', 0.05038715540147139), ('olanzapine', 0.046343585530441066), ('sudden', 0.015006715545610491)]
+
+
+
+Document id: 243
+Sentence: The fifth patient exhibited paraesthesia and agitation caused by olanzapine that was misdiagnosed as psychotic agitation .
+
+('Probability(0) =', 0.824)
+True class: 0
+[('caused', 0.1542036273524224), ('was', -0.10009366505613569), ('agitation', -0.08362076968424603), ('by', 0.07311324712485984), ('The', -0.07216808452980497), ('paraesthesia', -0.030798482949816092)]
+
+
+
+Document id: 244
+Sentence: There are several factors which might promote a peripheral ischemic response to vasopressin in the bleeding cirrhotic patient , including altered resting hemodynamics , increased resting sympathetic tone , impaired vasodilation as a compensatory response to vasopressin , and reduced hepatic drug clearance .
+
+('Probability(0) =', 0.88)
+True class: 0
+[('resting', -0.03874111682940598), ('the', -0.026945785689674928), ('response', 0.025897542999258456), ('and', -0.0245873510669616), ('hepatic', 0.016752183385733324), ('to', 0.014304189108136516)]
+
+
+
+Document id: 245
+Sentence: Idiosyncratic factors involving vasopressin receptor affinity and distribution , vasopressin - associated vasodilation in some vascular beds , and the effect of vasopressin on the renin - angiotensin system may further contribute to impaired tissue perfusion .
+
+('Probability(0) =', 0.8)
+True class: 0
+[('associated', 0.2519334107704759), ('vasopressin', -0.11005278736741338), ('beds', -0.03626838832474231), ('perfusion', -0.03445063981261525), ('affinity', -0.03434551743259497), ('system', -0.03153162974249449)]
+
+
+
+Document id: 246
+Sentence: The acronym SILENT ( Syndrome of Irreversible Lithium - Effectuated Neurotoxicity ) has been coined recently to denote these sequelae .
+
+('Probability(0) =', 0.922)
+True class: 0
+[('Neurotoxicity', 0.049213182647973176), ('The', -0.03526350947243917), ('these', -0.032151402555695284), ('to', 0.025765188763563745), ('SILENT', -0.019975334478602984), ('Lithium', -0.018434863780845964)]
+
+
+
+Document id: 247
+Sentence: We describe a unique case of disseminated cryptococcosis presenting as colitis that mimicked an exacerbation of Crohn ' s disease in a TNF - alpha inhibitor recipient .
+
+('Probability(0) =', 0.41)
+True class: 0
+[('describe', 0.1375840252722077), ('case', 0.07932124903458208), ('We', 0.06295307125205919), ('of', 0.03519234719747664), ('Crohn', 0.0323043925389105), ('colitis', 0.024019874628541174)]
+
+
+
+Document id: 248
+Sentence: Two patients who were receiving Tolazoline by infusion developed duodenal ulceration and subsequent intestinal perforation .
+
+('Probability(0) =', 0.594)
+True class: 0
+[('were', -0.12350525672221298), ('who', 0.0915167983071449), ('receiving', 0.07071975800238216), ('infusion', 0.058463888496695406), ('by', 0.04981406735179198), ('ulceration', 0.028289291005730785)]
+
+
+
+Document id: 249
+Sentence: Loss of vision and renal function in a patient with miliary tuberculosis .
+
+('Probability(0) =', 0.624)
+True class: 1
+[('in', 0.13285241926547808), ('with', 0.0893867629974197), ('renal', 0.07621535465798586), ('patient', 0.052963525180077006), ('and', -0.05270371390497051), ('vision', 0.017196421767897038)]
+
+
+
+Document id: 250
+Sentence: Anti - tuberculous drugs , including ethambutol , were initiated at our clinic because the period between the ethambutol therapy and visual loss was too short and the dose of ethambutol was not very high .
+
+('Probability(0) =', 0.852)
+True class: 0
+[('was', -0.05418371279581052), ('ethambutol', 0.0427555799712808), ('therapy', 0.027723996022840036), ('loss', 0.02078537777236199), ('were', -0.016428029080752266), ('drugs', -0.011847706040320644)]
+
+
+
+Document id: 251
+Sentence: Bortezomib - induced paralytic ileus is a potential gastrointestinal side effect of this first - in - class anticancer proteasome inhibitor .
+
+('Probability(0) =', 0.472)
+True class: 0
+[('induced', 0.3836799560838202), ('this', -0.07014800405321843), ('is', -0.05100897653483105), ('first', 0.03538265728128267), ('potential', 0.027801094579775604), ('in', 0.02646391735341141)]
+
+
+
+Document id: 252
+Sentence: We report a myeloma patient who developed severe paralytic ileus during bortezomib therapy , which presented in the context of progressive constipation without other known causes and which regressed promptly with medical management after drug cessation , suggesting a direct causal relationship .
+
+('Probability(0) =', 0.282)
+True class: 0
+[('report', 0.09589254070674114), ('developed', 0.07891915352725015), ('who', 0.07881643950034901), ('after', 0.07111071019025145), ('We', 0.05796575565970386), ('with', 0.054204081750042626)]
+
+
+
+Document id: 253
+Sentence: A reversible toxic liver damage was observed in a non - alcoholic woman treated with disulfiram .
+
+('Probability(0) =', 0.56)
+True class: 0
+[('was', -0.19312902198401083), ('in', 0.12402707392230881), ('woman', 0.08355526706383083), ('treated', 0.06611083697821522), ('toxic', 0.04878477247914346), ('with', 0.04159670810323063)]
+
+
+
+Document id: 254
+Sentence: Administration of excessive insulin induced hypoglycemia within 4 to 8 hours , followed by rebound hyperglycemia .
+
+('Probability(0) =', 0.322)
+True class: 1
+[('induced', 0.40443953982141717), ('by', 0.047106009741356626), ('within', -0.033914472768013924), ('followed', -0.032519917318180755), ('of', -0.02876126245876521), ('to', -0.02797527012186384)]
+
+
+
+Document id: 255
+Sentence: Rebound hyperglycemia was observed with both intermediate ( neutral protamine hagedorn ) and long - acting ( protamine zinc iletin ) insulins , and the range of insulin doses at which the disorder developed overlapped previously determined therapeutic doses for these insulins in the cat .
+
+('Probability(0) =', 0.696)
+True class: 1
+[('developed', 0.10889195543883207), ('with', 0.03946816116823645), ('doses', 0.03757802014497377), ('of', 0.023579374229317954), ('in', 0.019988143589152234), ('intermediate', 0.01923583023410867)]
+
+
+
+Document id: 256
+Sentence: Toxoplasmosis retinochoroiditis after photodynamic therapy and intravitreal triamcinolone for a supposed choroidal neovascularization : a case report .
+
+('Probability(0) =', 0.266)
+True class: 0
+[('after', 0.18792436267584464), ('therapy', 0.1698302974250485), ('intravitreal', 0.10261979923242315), ('case', 0.08204215711504576), ('report', 0.07111124708793806), ('neovascularization', 0.039184235080819654)]
+
+
+
+Document id: 257
+Sentence: Intravitreal triamcinolone may have had an influence on the exacerbation of retinochoroiditis in the posterior pole of the patient .
+
+('Probability(0) =', 0.832)
+True class: 1
+[('in', 0.08509061063518267), ('had', -0.04524557087338482), ('patient', 0.04243751575027431), ('the', -0.038204811805991765), ('an', 0.037751167995923686), ('Intravitreal', -0.020614512142386906)]
+
+
+
+Document id: 258
+Sentence: Severe loss of vision after removal of cataract caused by intravitreal triamcinolone in combination with photodynamic therapy for exudative age - related macular degeneration .
+
+('Probability(0) =', 0.41)
+True class: 1
+[('Severe', 0.07714157736707176), ('after', 0.05536899447847131), ('of', -0.04653467429978647), ('caused', 0.0433198492248692), ('therapy', 0.042728794791929765), ('exudative', -0.037963700326276204)]
+
+
+
+Document id: 259
+Sentence: One of the side - effects of intravitreal triamcinolone is the development of cataract , and it is known that cataract extraction can exacerbate macular degeneration .
+
+('Probability(0) =', 0.788)
+True class: 0
+[('intravitreal', 0.1071357871916901), ('is', -0.03712214901831225), ('the', -0.020616288778890532), ('and', 0.01845162480476575), ('side', 0.01749271899515255), ('of', 0.016352378088965964)]
+
+
+
+Document id: 260
+Sentence: A case is presented where combined intravitreal triamcinolone and photodynamic therapy stopped the progression of the exudative macular degeneration .
+
+('Probability(0) =', 0.626)
+True class: 1
+[('case', 0.155092544192951), ('therapy', 0.08964451713357816), ('intravitreal', 0.0873300655065418), ('the', -0.07265035492708043), ('and', -0.03487143104890636), ('presented', 0.020865816466615245)]
+
+
+
+Document id: 261
+Sentence: Acute pancreatitis is a rare but known complication of inflammatory bowel disease in adults .
+
+('Probability(0) =', 0.502)
+True class: 1
+[('Acute', 0.20851684723791), ('complication', 0.12488806206173142), ('pancreatitis', 0.09642273960070594), ('in', -0.05009531422104757), ('is', -0.04395972066238694), ('of', 0.03053253582477553)]
+
+
+
+Document id: 262
+Sentence: Postoperatively , the first two patients treated with 1 to 2 cc of thrombin were slow to awaken ; one had evidence of vasospasm by transcranial Doppler ultrasound studies and multiple infarcts on cranial computerized tomography , while the other had a moderate - sized frontal hematoma with intracranial hypertension .
+
+('Probability(0) =', 0.822)
+True class: 1
+[('were', -0.06180431842837489), ('had', -0.06070271726293808), ('while', 0.04399074890003818), ('the', -0.0356779366394995), ('with', 0.03359518781975345), ('first', 0.03136507776186906)]
+
+
+

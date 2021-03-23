@@ -1,0 +1,2218 @@
+Error in 32:
+Comments:
+
+	Similar sentence 0: 7379406.6.txt Score: 0.9985352007544933
+	Sentence: After ruling out a hydrotelluric source of fluorine, the patient's fluorosis was linked to chronic use of niflumic acid, following the publication in 1978 of the 2 previously reported cases affected by this drug.
+	Gold labels: fluorosis
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 12187348.4.txt Score: 0.9985306274766352
+	Sentence: A 25-year-old woman with rheumatoid arthritis for the past 5 years started to develop gradual enlargement of her breasts 15 months before presentation.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 16167682.1.txt Score: 0.998489104196017
+	Sentence: We describe a case of a female who developed haemosiderosis, in the course of treatment for very severe unstable aplastic anaemia for fourteen years.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 11712064.3.txt Score: 0.9984844614411049
+	Sentence: We describe a patient who had a systemic allergic contact dermatitis to 8-MOP develop during her second course of PUVA treatment for psoriasis.
+	Gold labels: systemic allergic contact dermatitis
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 19875411.4.txt Score: 0.9984739414652593
+	Sentence: In severe cardiogenic shock, the patient required an extracorporeal membrane-oxygenation system for 8 days until cardiac recovery.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 11868077.2.txt Score: 0.9984539338840785
+	Sentence: After surgical resection and extrabeam radiation therapy the patient is alive without evidence of recurrence five years after PEI.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 672731.1.txt Score: 0.9984529690945648
+	Sentence: A 53-year-old female was admitted to hospital one hour after taking an overdose of 60 g of paracetamol and 960 mg of codeine.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 11476690.3.txt Score: 0.9984483757444153
+	Sentence: RESULTS: A 9-year-old male who underwent orthokeratology treatment for 6 months suffered from a corneal ulcer.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 9279731.4.txt Score: 0.9983801113612463
+	Sentence: When the disease recurred conventional amphotericin B was used again, but had to be stopped because of severe side effects.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 12680486.2.txt Score: 0.9983719187869544
+	Sentence: She had a history of schizophrenia and was treated with olanzapine 5 mg/day and lithium carbonate 300 mg 3 times/day.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 127:
+Comments:
+
+	Similar sentence 0: 16355099.7.txt Score: 0.9976371374913194
+	Sentence: The patient was positive for antibody against complexes of heparin and platelet factor 4, and was diagnosed as heparin-induced thrombocytopenia with thrombosis syndrome (HITTS).
+	Gold labels: thrombocytopenia	thrombosis syndrome
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 9205466.5.txt Score: 0.9975058426350228
+	Sentence: CONCLUSIONS: The value of multihormonal therapy in breast carcinoma is not established, and the addition of progestogens to tamoxifen may not reduce of developing endometrial lesions, including carcinoma.
+	Gold labels: carcinoma	endometrial lesions
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 15235919.6.txt Score: 0.9973532951703594
+	Sentence: The autopsy findings and a detailed medical history supported the conclusion that clozapine-induced hypersensitivity myocarditis was the most likely cause of death.
+	Gold labels: hypersensitivity myocarditis
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 11001600.3.txt Score: 0.9972763516921875
+	Sentence: The cases are important in documenting that drug-induced dystonias do occur in patients with dementia, that risperidone appears to have contributed to dystonia among elderly patients, and that the categorization of dystonic reactions needs further clarification.
+	Gold labels: dystonia
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 10682234.8.txt Score: 0.9971789475868953
+	Sentence: The present report illustrates a rare case of refractory akathisia after interferon-alpha treatment and also that levodopa treatment would be theoretically and practically useful in reducing the neurotoxicity associated with interferon-alpha.
+	Gold labels: akathisia	neurotoxicity
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 14530108.8.txt Score: 0.9970357485933207
+	Sentence: RTA is one type of nephrotoxicity induced by FK506, and it is reversible in mild cases when appropriately treated.
+	Gold labels: RTA	nephrotoxicity
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 10225085.3.txt Score: 0.996948406807922
+	Sentence: Although the two local anesthetics usually do not cause methemoglobinemia, we suspect that the displacement of lidocaine from protein binding by bupivacaine, in combination with metabolic acidosis and treatment with other oxidants, was the reason for the development of methemoglobinemia.
+	Gold labels: methemoglobinemia
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 10555917.1.txt Score: 0.9969216973740962
+	Sentence: A 66-year-old Japanese woman with severe scleroderma developed anemia and thrombocytopenia due to D-penicillamine (D-Pen) treatment, although the leukopenia was not markedly severe.
+	Gold labels: anemia	thrombocytopenia
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 1743388.3.txt Score: 0.9968210808583233
+	Sentence: This is a report of a renal transplant patient with Pneumocystis pneumonia who developed chemical cellulitis and ulceration following the extravasation of intravenous pentamidine into the soft tissues of the left hand and forearm.
+	Gold labels: chemical cellulitis	ulceration
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 15162903.8.txt Score: 0.9965744590505017
+	Sentence: Clinicians should be aware of the signs and symptoms of neurotoxicity during treatment, as well as predisposing factors that put patients receiving methotrexate at risk for neurotoxic effects.
+	Gold labels: neurotoxicity
+	Manual labels:
+	Comments:
+
+Error in 90:
+Comments:
+
+	Similar sentence 0: 16092915.6.txt Score: 0.9919033532932949
+	Sentence: CONCLUSIONS: This observation of "on-off" risperidone treatment suggests that risperidone may have worsened both psychiatric and physical manifestations of the mitochondrial disorder in this adolescent.
+	Gold labels: psychiatric and physical manifestations
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 3797173.6.txt Score: 0.9917912751966157
+	Sentence: Rapid heart rates with QRS complexes that are different from the sinus complexes are likely to be ventricular tachycardia.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 15489872.8.txt Score: 0.9916346059623836
+	Sentence: The patient's high CMV-DNA viral load became undetectable on leflunomide and foscarnet, but the patient, who had severe graft-versus-host disease (GVHD) of the liver, expired with progressive liver failure and other complications.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 868978.4.txt Score: 0.9910261871040391
+	Sentence: The ocular motor disturbances are probably an expression of regional 5-FU neurotoxicity primarily affecting the brain stem.
+	Gold labels: neurotoxicity	ocular motor disturbances
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 464813.9.txt Score: 0.9908793656511915
+	Sentence: The calculated index (posterior tibial/arm pressure) increased from a mean of 0.22 to 0.74 during the eight-month period following discontinuance of methysergide therapy with no recurrence of migraine headaches.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 9847899.2.txt Score: 0.9907822992137754
+	Sentence: As this relapse coincided with development of a strong delayed-type hypersensitivity response to tuberculin and improved after treatment with the anti-inflammatory agent oxpentifylline, it was probably caused by restoration of pathogen-specific cellular immunity.
+	Gold labels: hypersensitivity response
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 2016556.2.txt Score: 0.9907305662869441
+	Sentence: Decreased clearance of the compound has been observed in patients with renal insufficiency, and this has been associated with an increase in the ratio of morphine-6-glucuronide to morphine.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 11247558.6.txt Score: 0.990627591020192
+	Sentence: We suggest that meloxicam might have intestinal toxic effects when taken in high doses, because of reduced COX-2 selectivity.
+	Gold labels: intestinal toxic effects
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 1849334.4.txt Score: 0.9904170409151658
+	Sentence: The most progressive neurological deficits like severe tetraspastic paresis, were seen only in the nondialytic renal insufficient group (3 patients), while the others had a more benign course of the disease.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 2816647.1.txt Score: 0.989863660146976
+	Sentence: MR of the brain was performed in eight patients (mean age, 14.9 years) with osteogenic sarcoma during or after IV treatment with high-dose methotrexate.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 71:We describe two patients who developed hypophosphatemia as a consequence of this form of therapy .
+Prediction: hypophosphatemia#O
+Comments:
+
+	Similar sentence 0: 17381671.3.txt Score: 0.9978704601804119
+	Sentence: Based on the Naranjo probability scale, serotonin syndrome was a probable adverse reaction associated with co-administration of citalopram and fentanyl.
+	Gold labels: serotonin syndrome
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 12452753.6.txt Score: 0.9978301214633191
+	Sentence: Capecitabine was discontinued and the allergic reactions resolved after the woman took diphenhydramine for 1 week.
+	Gold labels: allergic reactions
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 984862.2.txt Score: 0.997775433911848
+	Sentence: A second patient with a similar glucose tolerance test result showed postprandial hyperglycemia when treated similarly with betamethasone valerate cream 0.1%.
+	Gold labels: postprandial hyperglycemia
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 11215836.8.txt Score: 0.9977715405630758
+	Sentence: He was diagnosed with possible serotonin syndrome; his symptoms resolved after clomipramine was stopped but before clozapine was restarted eight days later.
+	Gold labels: serotonin syndrome
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 1868481.2.txt Score: 0.9977515427686453
+	Sentence: Neurological manifestations in patient 1 could be due to hypertension secondary to IVPMP, while the pathogenesis of such manifestations remained difficult to clarify in patient 2.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 4095247.7.txt Score: 0.9977457143083718
+	Sentence: Two other patients who did not receive prochlorperazine, developed retinal problems which later improved, one after only 15 g of desferrioxamine.
+	Gold labels: retinal problems
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 7235792.3.txt Score: 0.9977388851365516
+	Sentence: In the first patient, two episodes of ventricular tachycardia requiring cardioversion occurred in close temporal sequence with administering bretylium.
+	Gold labels: ventricular tachycardia
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 11573852.2.txt Score: 0.9976334137319157
+	Sentence: CASE SUMMARY: A 46-year-old African-American man experienced recurrent grand mal seizures during intravenous infusion of amphotericin B, then petit mal seizures as the infusion was stopped and the drug concentrations decreased with time.
+	Gold labels: grand mal seizures
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 7937287.8.txt Score: 0.9976286592056257
+	Sentence: The diagnosis was supported by the temporal course of renal deterioration during exposure to cefuroxime and improvement on its discontinuation; the pattern repeated with rechallenge.
+	Gold labels: renal deterioration
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 9403220.1.txt Score: 0.9975796076618689
+	Sentence: A 35-year-old nephrotic man developed acute renal failure with serum creatinine to 1543 micromol/l after a month of therapy with enalapril.
+	Gold labels: acute renal failure
+	Manual labels:
+	Comments:
+
+Error in 206:The patient was enrolled in a weight - loss clinic , and his diabetes medications were adjusted . Subsequently , olanzapine was discontinued because of weight gain and uncontrolled diabetes .
+Prediction: weight#O gain#O uncontrolled#O diabetes#O
+Comments:
+
+	Similar sentence 0: 3824704.2.txt Score: 0.9955865117287166
+	Sentence: Stricture formation at the level of the calyceal infundibula occurred, as well as retroperitoneal and ureteric fibrosis.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 14996269.2.txt Score: 0.9951063597436096
+	Sentence: Serum potassium values higher than 7 mmol x l-1 are associated with cardiac arrhythmias and an increased incidence of intraventricular haemorrhage and periventricular leucomalacia.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 17163271.5.txt Score: 0.9947933627865418
+	Sentence: Latero-lateral anastomosis between the common bile duct and duodenum was performed during explorative laparotomy and ursodeoxycholic acid treatment was introduced.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 8949576.4.txt Score: 0.9944551724285584
+	Sentence: Histopathologically, a degenerative, inflammatory thyroiditis was evident.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 3513544.1.txt Score: 0.9943213747603739
+	Sentence: Herpes simplex esophagitis is a rare disease occurring mostly in immunocompromised and cancer patients.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 6197014.2.txt Score: 0.9942825285092816
+	Sentence: The striking chemical abnormality was an elevation of serum glutamic oxalacetic transaminase (SGOT) [aspartate aminotransferase (AST)].
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 12460237.1.txt Score: 0.9942045171233926
+	Sentence: Palmar-plantar erythrodysaesthesia (PPE) is an uncommon cutaneous complication of cytotoxic chemotherapy which generally presents as a painful erythema involving the palms and soles.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 11452688.0.txt Score: 0.9941598099392511
+	Sentence: Avascular necrosis of bone: the hidden risk of glucocorticoids used as antiemetics in cancer chemotherapy.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 9058350.12.txt Score: 0.9939867310574705
+	Sentence: Steroid hormone deprivation potentially contributed to neovascularization and bowel involvement. 
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 7117795.5.txt Score: 0.9939224209580757
+	Sentence: Ileal biopsy revealed an erosive enteritis with mucosal inflammatory infiltrate and disruption of the surface epithelium.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 118:
+Comments:
+
+	Similar sentence 0: 7730124.1.txt Score: 0.9988444730340865
+	Sentence: In 3 dogs scheduled for surgical removal of cataracts, systemic and topical treatment with antibiotics and topical ocular treatment with prednisolone, atropine, flurbiprofen, and phenylephrine were used to achieve maximal mydriasis, with minimal risk of pupillary constriction in response to surgery.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 17009081.5.txt Score: 0.9988343086956307
+	Sentence: As nephrotic-range proteinuria, hypoalbuminemia, and general edema were worsening even 2 weeks after cessation of the drug, oral corticosteroid therapy (prednisolone 40 mg/day) was started.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 15866658.10.txt Score: 0.9988225144345809
+	Sentence: Granulocyte colony stimulating factor (GCSF) was administered to one patient and in another a bone marrow biopsy was performed due to persistent anemia, leukopenia, and thrombocytopenia.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 18682542.6.txt Score: 0.9986473791532785
+	Sentence: Sputum cultures were positive for methicillin-resistant Staphylococcus aureus, and intravenous vancomycin 1 g every 8 hours was added to the treatment regimen on hospital day 7.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 7379406.8.txt Score: 0.9986432185275134
+	Sentence: Long-term clinical and pharmacokinetic studies will be required to determine whether or not niflumic acid can be employed in the prevention or treatment of both of apparently idiopathic osteoporosis or corticosteroid-induced osteoporosis.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 3763264.3.txt Score: 0.9985515490031399
+	Sentence: Findings from biopsy specimens of skin and jejunum suggested a cell-mediated pathogenesis, and lymphoproliferative studies of the patient's mononuclear cells revealed a positive response to phenobarbital.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 7655130.4.txt Score: 0.9985463669241452
+	Sentence: DISCUSSION: Two patients with hypothyroidism had remained euthyroid and stable while receiving 1 levothyroxine product, but became symptomatic with dramatically increased serum TSH concentrations while receiving what were thought to be comparable dosages of another levothyroxine product.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 11984077.4.txt Score: 0.9985266730323891
+	Sentence: Radiotherapy is the mainstay of treatment for early nasopharyngeal cancer, but combination chemoradiotherapy is becoming more common for patients with advanced disease since the Intergroup trial 0099 demonstrated improved progression-free survival and overall survival for chemoradiotherapy.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 9362107.4.txt Score: 0.998517766893217
+	Sentence: Immune thrombocytopenic purpura (ITP) was diagnosed, and she was treated with 40 mg of methylprednisolone per day for 19 days.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 3797173.5.txt Score: 0.9985036991378108
+	Sentence: The QT interval must be measured on the ECG in patients with unexplained seizures; "supraventricular tachycardia with aberration" is uncommon in children.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 102:
+Comments:
+
+	Similar sentence 0: 10530201.8.txt Score: 0.996490218366603
+	Sentence: Emphasis is given to the differentiation of diphenylhydantoin induced gingival hyperplasia from the angiomatous enlargement of the gingiva before any treatment is planned.
+	Gold labels: gingival hyperplasia
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 19707032.11.txt Score: 0.9961868703328386
+	Sentence: Acute ocular ischemic change may be associated with intravitreal injection of bevacizumab in patients with vascular compromised diabetic retinopathy and/or underlying stenosis of the carotid artery. 
+	Gold labels: Acute ocular ischemic change
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 7526455.1.txt Score: 0.9960949470510816
+	Sentence: A 73 year-old patient with Wolff-Parkinson-White syndrome and paroxysmic supraventricular tachycardia developed an acute reversible encephalopathy within 15 days of initiation of flecainide.
+	Gold labels: acute reversible encephalopathy
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 15013892.8.txt Score: 0.9960606532013759
+	Sentence: CONCLUSIONS: Low dosages of quinacrine used for malaria prophylaxis can be associated with a delayed, severe maculopathy indistinguishable from chloroquine maculopathy in certain patients. 
+	Gold labels: maculopathy	severe maculopathy
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 8467620.2.txt Score: 0.9960399489517696
+	Sentence: The mild immunosuppression that occurs with methotrexate therapy probably places patients with rheumatoid arthritis at added risk of developing lymphoproliferative diseases, but coincidence cannot be excluded.
+	Gold labels: lymphoproliferative diseases
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 11111942.2.txt Score: 0.9958954395060985
+	Sentence: Cholestyramine was utilized to interrupt the enterohepatic recycling of warfarin and for its antidiarrheal effects to prevent gastrointestinal vitamin K wasting.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 228648.1.txt Score: 0.9958000518787287
+	Sentence: Prenatal cytomegalovirus (CMV) infection associated with severe brain damage was detected in an infant whose mother had been treated with prednisolone and azathioprine for systemic lupus erythematosus (SLE).
+	Gold labels: brain damage
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 17952482.6.txt Score: 0.9957930474412554
+	Sentence: This case illustrates that the hemophagocytic syndrome associated with reactivation of EBV can occur as part of drug hypersensitivity reactions in RA patients taking sulfasalazine.
+	Gold labels: hemophagocytic syndrome
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 11642488.7.txt Score: 0.9957449207456722
+	Sentence: CONCLUSIONS: Cicatrization in the substantia propria of the conjunctiva by excessive lymphocytic infiltration after topically administered antiglaucoma drugs including dipivefrin is a possible mechanism of action for entropion. 
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 10707759.3.txt Score: 0.9956154979926007
+	Sentence: We describe a case of interstitial hypoxaemiant pneumonitis probably related to flecainide in a patient with the LEOPARD syndrome, a rare congenital disorder.
+	Gold labels: interstitial hypoxaemiant pneumonitis
+	Manual labels:
+	Comments:
+
+Error in 16:
+Comments:
+
+	Similar sentence 0: 2219619.1.txt Score: 0.9968526331484471
+	Sentence: An encephalopathy and cardiomyopathy developed in a seventeen-year-old girl with chemotherapy-induced renal failure while receiving an intravesical aluminum infusion for hemorrhagic cystitis.
+	Gold labels: cardiomyopathy	encephalopathy
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 15779196.3.txt Score: 0.9962774742639058
+	Sentence: Four days after intravenous Zoledronic acid, the patient presented to emergency room with complaints of carpopedal spasm and bronchospasm.
+	Gold labels: carpopedal spasm
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 19499966.0.txt Score: 0.9962711445053702
+	Sentence: Onset of male gynaecomastia in a patient treated with sunitinib for metastatic renal cell carcinoma.
+	Gold labels: gynaecomastia
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 17952482.1.txt Score: 0.9962679802928242
+	Sentence: A 58-year-old woman with rheumatoid arthritis (RA) developed fever, skin eruptions, leukocytopenia, and thrombocytopenia, 3 weeks after treatment with sulfasalazine.
+	Gold labels: fever	leukocytopenia	skin eruptions	thrombocytopenia
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 3941210.0.txt Score: 0.9962635507604791
+	Sentence: Atrioventricular block complicating amiodarone-induced hypothyroidism in a patient with pre-excitation and rate-dependent bilateral bundle branch block.
+	Gold labels: Atrioventricular block	hypothyroidism
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 11788010.4.txt Score: 0.9958837482360963
+	Sentence: Gallstones and bile sludge are common side effects of octreotide therapy but rarely become symptomatic or require treatment.
+	Gold labels: Gallstones	bile sludge
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 6221046.1.txt Score: 0.9956603225119609
+	Sentence: An association of granulocytopenia, eosinophilia, skin reaction and hepatitis during propylthiouracil (PTU) therapy for thyrotoxicosis in a 47 year old black female is reported.
+	Gold labels: eosinophilia	granulocytopenia	hepatitis	skin reaction
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 15331204.1.txt Score: 0.9955979040236022
+	Sentence: OBJECTIVE: To study therapy with indapamide impairing carbohydrate metabolism in essential hypertension patients and achieve earlier prevention, diagnoses and treatment of diabetes induced by indapamide.
+	Gold labels: diabetes	impairing carbohydrate metabolism
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 19390192.0.txt Score: 0.9955333048475958
+	Sentence: Leukopenia due to parvovirus B19 in a Crohn's disease patient using azathioprine.
+	Gold labels: Leukopenia
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 7105508.0.txt Score: 0.9953959142129201
+	Sentence: Verapamil in effort-induced angina pectoris in patients with normal coronary arteries.
+	Gold labels: angina pectoris
+	Manual labels:
+	Comments:
+
+Error in 55:
+Comments:
+
+	Similar sentence 0: 11568758.1.txt Score: 0.9964784738890348
+	Sentence: Cutaneous lichenoid eruptions can arise as a result of exogenous compound exposures.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 2554727.4.txt Score: 0.9957406981337668
+	Sentence: Peripheral nerve dysfunction is a potentially serious complication of high-dose cytosine arabinoside.
+	Gold labels: Peripheral nerve dysfunction
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 11077455.1.txt Score: 0.9955672437819603
+	Sentence: PURPOSE: Symptomatic visual field constriction thought to be associated with vigabatrin has been reported.
+	Gold labels: visual field constriction
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 6344831.1.txt Score: 0.9954269558665164
+	Sentence: In a patient with severe renovascular hypertension, nonoliguric acute renal failure developed after she received captopril treatment.
+	Gold labels: nonoliguric acute renal failure
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 16411025.1.txt Score: 0.9953031919677748
+	Sentence: OBJECTIVES: A delayed stroke-like leukoencephalopathy has been observed in patients receiving methotrexate (MTX) for childhood leukemia.
+	Gold labels: stroke-like leukoencephalopathy
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 10688731.0.txt Score: 0.9952741575857578
+	Sentence: Scleroderma-like reaction induced by uracil-tegafur (UFT), a second-generation anticancer agent.
+	Gold labels: Scleroderma-like reaction
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 18379937.6.txt Score: 0.9951555922701633
+	Sentence: Upon rechallenge with clomiphene 3 months later, she again developed bilateral anterior uveitis.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 19018868.0.txt Score: 0.9951374585911463
+	Sentence: A case of severe aplastic anemia secondary to treatment with lenalidomide for multiple myeloma.
+	Gold labels: severe aplastic anemia
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 3609047.1.txt Score: 0.994990949330035
+	Sentence: Torsade de pointes represents a potential complication of chronic amiodarone therapy.
+	Gold labels: Torsade de pointes
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 14522628.3.txt Score: 0.9949612750234421
+	Sentence: Generalised cutaneous rash associated with ganciclovir therapy has rarely been reported in literature.
+	Gold labels: Generalised cutaneous rash
+	Manual labels:
+	Comments:
+
+Error in 84:
+Comments:
+
+	Similar sentence 0: 17260498.3.txt Score: 0.9974172041760766
+	Sentence: The case is presented of a 72-year-old man with hormone-refractory prostate cancer and weekly administration of 30 mg/m2 docetaxel who developed subacute interstitial pneumonitis-related pulmonary fibrosis after seven doses and died despite mechanical ventilation and high-dose corticosteroid treatment.
+	Gold labels: subacute interstitial pneumonitis-related pulmonary fibrosis
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 12399645.1.txt Score: 0.9972429931516957
+	Sentence: We describe a 74-year-old man with rheumatoid arthritis (RA) who developed syndrome of inappropriate secretion of antidiuretic hormone (SIADH) 1.5 months after commencement of mizoribin prescription when his arthritis was improved.
+	Gold labels: SIADH	syndrome of inappropriate secretion of antidiuretic hormone
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 369675.2.txt Score: 0.9971702435746215
+	Sentence: Five and one-half years after the diagnosis of myeloma, while in remission on cyclophosphamide therapy, the patient experienced severe abdominal right lower quadrant pain due to a large cecal lymphoma.
+	Gold labels: abdominal right lower quadrant pain
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 8667442.4.txt Score: 0.9970057458866611
+	Sentence: This article presents a patient with hypoparathyroidism who was treated with calcium carbonate and calcitriol resulting in two admissions to the hospital for milk-alkali syndrome.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 15588385.2.txt Score: 0.9966159562007695
+	Sentence: We present a 20-year-old woman with Basedow-Graves' disease who developed PTU-induced fulminant hepatitis, which progressed to acute hepatic failure with grade III hepatic encephalopathy.
+	Gold labels: fulminant hepatitis
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 16249064.3.txt Score: 0.9965904063642282
+	Sentence: We describe a case of infection with Mycobacterium abscessus in a 67-year-old woman receiving infliximab as a component of her therapy for RA.
+	Gold labels: Mycobacterium abscessus
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 1680596.1.txt Score: 0.9965658976338799
+	Sentence: Presented is a case story of a woman with classical rheumatoid arthritis, who during introduction of sulphasalazine (SASP) therapy developed a severe and lasting psoriasis-like skin reaction.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 3417739.3.txt Score: 0.9964304508946308
+	Sentence: We describe a 63 year old woman with a suppurative mediastinitis, treated with continuous PI irrigation who developed an acute oliguric renal failure.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 19034138.1.txt Score: 0.9964257317534414
+	Sentence: PURPOSE: To describe bilateral corneal endothelial dysfunction in a patient with Parkinson disease who was treated with long-term amantadine.
+	Gold labels: bilateral corneal endothelial dysfunction
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 9533061.2.txt Score: 0.996269946812503
+	Sentence: CASE SUMMARY: A 25-year-old postpartum white woman developed multiple watery stools and abdominal cramping on day 6 of therapy with clindamycin vaginal cream for bacterial vaginosis.
+	Gold labels: abdominal cramping	multiple watery stools
+	Manual labels:
+	Comments:
+
+Error in 233:None of the patients demonstrated the requisite features of the ' Dilantin hypersensitivity syndrome ' .
+Prediction: hypersensitivity#B syndrome#I
+Comments:
+
+	Similar sentence 0: 9920368.2.txt Score: 0.9958407505973736
+	Sentence: Among 12 thyrotoxic patients, a patient with arrhythmogenic right ventricular dysplasia, who had been taking amiodarone for 4 years, developed thyrotoxicosis with subacute onset, accompanied by transiently positive thyrotropin (TSH) receptor antibody (TRAb), or thyrotropin-binding inhibiting immunoglobulin (TBII).
+	Gold labels: thyrotoxicosis	thyrotropin-binding inhibiting immunoglobulin
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 15760792.1.txt Score: 0.9955817486448026
+	Sentence: OBJECTIVE: To report the case of a young woman with Graves' disease in whom ototoxicity developed because of propylthiouracil (PTU)-induced antineutrophil cytoplasmic antibody (ANCA)-associated vasculitis.
+	Gold labels: ototoxicity
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 12439602.3.txt Score: 0.995459654467799
+	Sentence: Hypersensitivity to carboplatin is a rare but real complication of therapy and should be considered in patients presenting with hyperacute changes on ECG whilst receiving carboplatin therapy.
+	Gold labels: Hypersensitivity	hyperacute changes on ECG
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 15013892.8.txt Score: 0.9954524217471294
+	Sentence: CONCLUSIONS: Low dosages of quinacrine used for malaria prophylaxis can be associated with a delayed, severe maculopathy indistinguishable from chloroquine maculopathy in certain patients. 
+	Gold labels: maculopathy	severe maculopathy
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 16001348.7.txt Score: 0.9952510530617166
+	Sentence: Collagenous colitis as a subtype of microscopic colitis is a rare cause of chronic diarrhea with unknown pathogenesis.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 8467620.2.txt Score: 0.9951868989072435
+	Sentence: The mild immunosuppression that occurs with methotrexate therapy probably places patients with rheumatoid arthritis at added risk of developing lymphoproliferative diseases, but coincidence cannot be excluded.
+	Gold labels: lymphoproliferative diseases
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 3753891.2.txt Score: 0.9950915278441563
+	Sentence: In addition to the recognized arrhythmic complications, the authors emphasize myocardial necrosis as a possible further manifestation of amsacrine-related cardiotoxicity.
+	Gold labels: myocardial necrosis
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 7071645.1.txt Score: 0.9950553114993103
+	Sentence: We have described a man with classic rheumatoid arthritis who had membranous nephropathy associated with nephrotic syndrome not related to gold or penicillamine therapy.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 2378415.1.txt Score: 0.994737691013611
+	Sentence: A patient with intracranial osteosarcoma that arose 16 years after radiation therapy for hereditary retinoblastoma developed fatal cerebral edema and brainstem herniation after she received a single dose of intravenous methotrexate.
+	Gold labels: brainstem herniation	fatal cerebral edema
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 11109149.2.txt Score: 0.9946962283830476
+	Sentence: We describe a 57-year-old man with acral erythrocyanosis progressing to acute digital ischemia and gangrene that developed after combined chemotherapy (bleomycin and methotrexate) used to treat a metastatic squamous cell carcinoma of the hypopharynx.
+	Gold labels: acute digital ischemia	gangrene
+	Manual labels:
+	Comments:
+
+Error in 57:
+Comments:
+
+	Similar sentence 0: 2669373.1.txt Score: 0.9968305868274158
+	Sentence: Thrombotic microangiopathy (TMA) is a serious toxicity associated with a small number of antineoplastic agents.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 11876387.2.txt Score: 0.9967774847859584
+	Sentence: Since tamoxifen therapy can induce endometrial disorders, surveillance schemes of women taking tamoxifen have been recommended.
+	Gold labels: endometrial disorders
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 14723711.1.txt Score: 0.996761795781285
+	Sentence: Pigmentary disorders are recognized adverse effects of the semi-synthetic tetracycline derivative antibiotic, minocycline.
+	Gold labels: Pigmentary disorders
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 3513544.3.txt Score: 0.9965700755115935
+	Sentence: With the increasing use of Cyclosporine A in transplant patients, the incidence of herpes esophagitis may increase.
+	Gold labels: herpes esophagitis
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 8825747.1.txt Score: 0.9965296560854898
+	Sentence: A retrospective study was conducted of 40 loperamide poisoning cases recorded at the Centre National d'Informations Toxicologiques Veterinaires.
+	Gold labels: loperamide poisoning
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 1359782.4.txt Score: 0.996381046921916
+	Sentence: Sulfasalazine-induced lung disorder is an extremely rare entity which must be considered in all ulcerative colitis patients while on sulfasalazine therapy, despite the absence of pulmonary symptomatology.
+	Gold labels: lung disorder	ulcerative colitis
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 7781845.9.txt Score: 0.9963500173770611
+	Sentence: Clinicians who manage cachectic patients, particularly those with protracted diarrhoea and/or receiving anti-malarial drugs including mefloquine, should be aware of the risk of severe hypoglycaemia.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 18067642.1.txt Score: 0.9963448649674258
+	Sentence: Amiodarone is well recognized as an anti-arrhythmic drug containing a high dose of iodine with considerable potential to cause thyroid dysfunction.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 15162903.8.txt Score: 0.9963429481391985
+	Sentence: Clinicians should be aware of the signs and symptoms of neurotoxicity during treatment, as well as predisposing factors that put patients receiving methotrexate at risk for neurotoxic effects.
+	Gold labels: neurotoxicity
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 672731.4.txt Score: 0.9963356891639795
+	Sentence: Charcoal haemoperfusion and cysteamine therapy led to the rapid removal of the paracetamol from the body and consequently prevented the development of severe hepatic necrosis.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 194:
+Comments:
+
+	Similar sentence 0: 8678015.8.txt Score: 0.9986578852395238
+	Sentence: Pathogenic mechanisms for the development of pseudomembranous colitis and the epidemiology of this condition in patients with AIDS are discussed.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 18431096.7.txt Score: 0.9986573391009512
+	Sentence: These cases indicate the potential for development of acral cyanosis, livedo reticularis, or Raynaud symptoms with these medications and their potential contribution to a vasculopathy.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 2257522.6.txt Score: 0.9986187784861007
+	Sentence: Although hypophosphatemia induced by aluminum-containing antacids is rare, treatment of peptic ulcer disease with a combination of two aluminum-containing agents may increase the risk of clinically significant hypophosphatemia.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 14514135.5.txt Score: 0.9985788035510075
+	Sentence: NEH must be considered in lupus patients receiving cytotoxic agents to avoid inappropriate use of corticosteroids or antibiotics in this self-limited condition.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 18277922.4.txt Score: 0.9985720289799338
+	Sentence: Detection of VZV DNA in blood may be useful for early diagnosis in immunocompromised hosts who present with zoster without skin lesions.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 19336028.4.txt Score: 0.998570107486193
+	Sentence: Namely, that recalcitrant psoriatic skin lesions may have good clearing on one biologic, such as efalizumab, and arthritic symptoms can be well-controlled with etanercept, leading patients to be on two different biologics concurrently to control symptoms.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 12100953.6.txt Score: 0.9985096285347937
+	Sentence: Prospective randomized combination trials similar to the Intergroup Rhabdomyosarcoma Study in the pediatric population are necessary to better understand and manage these potentially curable sarcomas.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 12921505.11.txt Score: 0.9985022183389294
+	Sentence: Argatroban is hepatically cleared and may be the preferred direct thrombin inhibitor in the presence of significant renal impairment, but conversely has prolonged effects in hepatic failure.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 16025424.2.txt Score: 0.9984900705081651
+	Sentence: Recently, atypical antipsychotics have been more widely used in the treatment of behavioral and psychological symptoms with dementia (BPSD) than conventional neuroleptics because of a reduced tendency for movement disorders and psychomotor retardation.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 19217693.4.txt Score: 0.9984726797894063
+	Sentence: Thus, it is important for dermatologists treating patients with diabetes and antitumor necrosis factor-alpha agents for psoriasis to be aware of potential hypoglycemia and to adjust antidiabetes therapy accordingly.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 259:
+Comments:
+
+	Similar sentence 0: 15760792.1.txt Score: 0.995246268703825
+	Sentence: OBJECTIVE: To report the case of a young woman with Graves' disease in whom ototoxicity developed because of propylthiouracil (PTU)-induced antineutrophil cytoplasmic antibody (ANCA)-associated vasculitis.
+	Gold labels: ototoxicity
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 15013892.8.txt Score: 0.9947355342761869
+	Sentence: CONCLUSIONS: Low dosages of quinacrine used for malaria prophylaxis can be associated with a delayed, severe maculopathy indistinguishable from chloroquine maculopathy in certain patients. 
+	Gold labels: maculopathy	severe maculopathy
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 19567656.20.txt Score: 0.9946954933056547
+	Sentence: Furthermore, rechallenge with sertraline caused CK and myoglobin to again increase, which was reversed following a discontinuation of sertraline.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 8467620.2.txt Score: 0.9944933623399671
+	Sentence: The mild immunosuppression that occurs with methotrexate therapy probably places patients with rheumatoid arthritis at added risk of developing lymphoproliferative diseases, but coincidence cannot be excluded.
+	Gold labels: lymphoproliferative diseases
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 11788010.4.txt Score: 0.9943300635905725
+	Sentence: Gallstones and bile sludge are common side effects of octreotide therapy but rarely become symptomatic or require treatment.
+	Gold labels: Gallstones	bile sludge
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 3753891.2.txt Score: 0.994308027496406
+	Sentence: In addition to the recognized arrhythmic complications, the authors emphasize myocardial necrosis as a possible further manifestation of amsacrine-related cardiotoxicity.
+	Gold labels: myocardial necrosis
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 19034138.7.txt Score: 0.9942713884225555
+	Sentence: CONCLUSIONS: Amantadine can cause reversible corneal edema but can irreversibly reduce the density of endothelial cells. 
+	Gold labels: reversible corneal edema
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 16001348.7.txt Score: 0.9942713210964346
+	Sentence: Collagenous colitis as a subtype of microscopic colitis is a rare cause of chronic diarrhea with unknown pathogenesis.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 16341621.3.txt Score: 0.9940622118890506
+	Sentence: The authors present a case report of a granulomatous reaction leading to urethral prolapse, 3 months after the transurethral injection of calcium hydroxylapatite.
+	Gold labels: granulomatous reaction	urethral prolapse
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 12439602.3.txt Score: 0.994048199151902
+	Sentence: Hypersensitivity to carboplatin is a rare but real complication of therapy and should be considered in patients presenting with hyperacute changes on ECG whilst receiving carboplatin therapy.
+	Gold labels: Hypersensitivity	hyperacute changes on ECG
+	Manual labels:
+	Comments:
+
+Error in 220:
+Comments:
+
+	Similar sentence 0: 8742573.2.txt Score: 0.9982954713193022
+	Sentence: OBJECTIVE: To evaluate the efficacy of the administration of insulin by a jet-injector device in stopping and reversing severe human insulin-induced lipoatrophy.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 9651465.7.txt Score: 0.9981977236900237
+	Sentence: She was treated with Pancrease MT 16, but had consistent vomiting 1 to 2 hours after administration of enzymes.
+	Gold labels: vomiting
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 16284443.4.txt Score: 0.9981163841693083
+	Sentence: Based on the history and clinical features, a diagnosis of insulin-induced lipohypertrophy was made.
+	Gold labels: lipohypertrophy
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 4036917.6.txt Score: 0.9981039325358158
+	Sentence: These findings support previous studies that showed that the use of aspirin during the antecedent illness may be a risk factor for the development of RS.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 10099659.13.txt Score: 0.9980897782788144
+	Sentence: We also discuss whether screening for DPD deficiency is warranted to identify patients at risk for severe toxicities from 5-FU treatment.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 8164831.1.txt Score: 0.9980419057672255
+	Sentence: We evaluated fluoxetine in six patients with poorly controlled cataplexy by beginning patients on a single 20 mg dose without any change in their current medications.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 11147747.5.txt Score: 0.9979952756526425
+	Sentence: In 2 of the 3 cases the patients were also taking lithium carbonate and beta-blockers, both of which could have contributed to the incontinence.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 6851259.4.txt Score: 0.9979766384777314
+	Sentence: This misleading laboratory result and alternative methods of testing for proteinuria in tolmetin-treated patients are discussed.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 10779995.1.txt Score: 0.9979721959044223
+	Sentence: To date little has been reported about the risk of therapy-related leukaemia (t-AML) in children receiving oral etoposide therapy.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 12042592.6.txt Score: 0.9979499432146102
+	Sentence: After identification of the index patient, additional inquiry revealed that the patient's mother was hospitalized previously for overwhelming sepsis associated with metamizole use.
+	Gold labels: sepsis
+	Manual labels:
+	Comments:
+
+Error in 163:Hypocalcemia after therapeutic use of magnesium sulfate .
+Prediction: Hypocalcemia#B
+Comments:
+
+	Similar sentence 0: 18425523.0.txt Score: 0.9964363548697663
+	Sentence: Persisent ocular hypertension following intravitreal ranibizumab.
+	Gold labels: Persisent ocular hypertension
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 14522628.0.txt Score: 0.9962981367659197
+	Sentence: Skin rash and splinter hemorrhages from ganciclovir.
+	Gold labels: Skin rash	splinter hemorrhages
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 6873616.0.txt Score: 0.9961407536791445
+	Sentence: Intrahepatic cholestasis and sicca complex after thiabendazole.
+	Gold labels: Intrahepatic cholestasis	sicca complex
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 18751717.0.txt Score: 0.9945055204862335
+	Sentence: Acute syphilitic posterior placoid chorioretinitis following intravitreal triamcinolone acetonide injection.
+	Gold labels: Acute syphilitic posterior placoid chorioretinitis
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 10465148.0.txt Score: 0.9943168415220369
+	Sentence: Anterior lumbosacral radiculopathy after intrathecal methotrexate treatment.
+	Gold labels: Anterior lumbosacral radiculopathy
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 1951476.0.txt Score: 0.9938384081292788
+	Sentence: Flurbiprofen-associated acute tubulointerstitial nephritis.
+	Gold labels: acute tubulointerstitial nephritis
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 3604756.0.txt Score: 0.9938153176786051
+	Sentence: Progressive pulmonary fibrosis complicating cyclophosphamide therapy.
+	Gold labels: Progressive pulmonary fibrosis
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 9337441.0.txt Score: 0.993655624493955
+	Sentence: Phenolphthalein-induced toxic epidermal necrolysis.
+	Gold labels: toxic epidermal necrolysis
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 15533031.0.txt Score: 0.9935513588670035
+	Sentence: Paradoxical cerebral cortical hyperexcitability following flupirtine overdose.
+	Gold labels: Paradoxical cerebral cortical hyperexcitability
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 6597713.0.txt Score: 0.9932978613405536
+	Sentence: Cholestyramine induced hyperchloremic metabolic acidosis.
+	Gold labels: hyperchloremic metabolic acidosis
+	Manual labels:
+	Comments:
+
+Error in 89:
+Comments:
+
+	Similar sentence 0: 17090724.8.txt Score: 0.9980090171019613
+	Sentence: Use of the Naranjo probability scale indicated a highly probable relationship between the observed cardiac toxicity and amphotericin B deoxycholate therapy in this patient.
+	Gold labels: cardiac toxicity
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 2234880.4.txt Score: 0.9979771451032763
+	Sentence: Nitrendipine is an experimental calcium channel blocking agent that also appears to cause the side effect of drug-induced gingival hyperplasia.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 9754850.10.txt Score: 0.9978434907642391
+	Sentence: One should therefore be aware of possible extrapyramidal side effects with olanzapine that are reduced compared to classical neuroleptic drugs but not completely eliminated.
+	Gold labels: extrapyramidal side effects
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 6245286.2.txt Score: 0.9978106588549912
+	Sentence: In three of these patients the infection was clinically unsuspected; in the fourth, cutaneous herpes zoster developed after administration of 300 mg of cytarabine daily for the preceding five days.
+	Gold labels: cutaneous herpes zoster
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 8864370.3.txt Score: 0.9978089529555934
+	Sentence: Studies performed 10 years ago on 25 patients with MTX-induced liver cirrhosis indicated that this type of cirrhosis was not of an aggressive nature.
+	Gold labels: cirrhosis	liver cirrhosis
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 1445134.5.txt Score: 0.9977472900011255
+	Sentence: Norethisterone in these 69 pregnancies accounted for 33.3% (5 of 15) cases of clitoral hypertrophy diagnosed in 100,756 consecutive births.
+	Gold labels: clitoral hypertrophy
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 16352777.9.txt Score: 0.9977165706647664
+	Sentence: In addition, while cases of loop diuretic-induced pancreatitis, including furosemide, have been published, the allergic manifestations with both sulfonamide antibiotics and non-antibiotics in our patient suggest possible cross-reactivity between these 2 drug classes.
+	Gold labels: pancreatitis
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 8651254.9.txt Score: 0.9976444076029731
+	Sentence: The possibility can be raised that M-CSF accelerated the underlying renal disease in this case through enhancing macrophage accumulation into the glomerulus, leading to the development of nephrotic syndrome.
+	Gold labels: renal disease
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 17026827.2.txt Score: 0.9976441159304225
+	Sentence: Subsequent use of pamidronate was associated with milder inflammation in the same eye that eventually resolved with continued monthly infusions, indicating the possibility of immunologic tolerance.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 7067510.6.txt Score: 0.9975836692236055
+	Sentence: Although the existence of an acute pericarditis or an acute myocarditis as possible causes of the ST elevation cannot be fully ruled out, the sudden onset, prominent magnitude, and brief duration of the ST elevation are perhaps more indicative of an acute ischemic event, possibly related to a transient coronary vasoconstriction induced by the dopamine infusion.
+	Gold labels: coronary vasoconstriction
+	Manual labels:
+	Comments:
+
+Error in 175:
+Comments:
+
+	Similar sentence 0: 12042592.1.txt Score: 0.9988798020868722
+	Sentence: A 4-year-old boy presented with fever, septic arthritis, and persistent neutropenia.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 11180704.1.txt Score: 0.9986071343674773
+	Sentence: A 69-year-old type 2 diabetic man was admitted due to diabetic gangrane.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 11302479.1.txt Score: 0.9983823114552253
+	Sentence: We report a patient who presented with a left proximal deep vein thrombosis at 25 + 5 weeks gestation.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 9647315.1.txt Score: 0.9983392464410263
+	Sentence: A 37 year woman developed neuroleptic induced parkinsonism that persisted long after the drug had been discontinued.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 9058350.2.txt Score: 0.9982483557017047
+	Sentence: BACKGROUND: Diverse complications have been reported in association with the growth and medical treatment of uterine leiomyomata.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 961329.2.txt Score: 0.9981867095707249
+	Sentence: The patient appeared to be homozygous for the dibucaine resistant gene, having only 15% of normal activity in his serum.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 19904536.13.txt Score: 0.9981810349159688
+	Sentence: Physicians should suspect pulmonary toxicity in patients with respiratory distress after gemcitabine chemotherapy, mainly in elderly patients.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 18094347.11.txt Score: 0.9981493468282484
+	Sentence: In our patient, histology showed aspects of drug-induced skin reaction without vasculitis.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 515777.3.txt Score: 0.9981279969519139
+	Sentence: These reports suggest the possibility that the risk of developing hyperglycemia and diabetic coma with this combination may be greater than when taking diuretics alone.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 11476690.3.txt Score: 0.9981238012984253
+	Sentence: RESULTS: A 9-year-old male who underwent orthokeratology treatment for 6 months suffered from a corneal ulcer.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 31:
+Comments:
+
+	Similar sentence 0: 3804181.2.txt Score: 0.9973573658494711
+	Sentence: The main clinical features of this 58-year-old female patient were laboratory evidence of leucopenia and cholestasis, and biopsy features of fatty liver parenchyma degeneration with granulocytic portal infiltration and bile stasis, demonstrated 20 days after the initiation of antithyroid therapy with 20 mg methimazole daily.
+	Gold labels: bile stasis	cholestasis	fatty liver parenchyma degeneration	granulocytic portal infiltration	leucopenia
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 17188061.7.txt Score: 0.9967075487616139
+	Sentence: CONCLUSIONS: We report a typical symptoms of Charles-Bonnet syndrome (CBS) in patients with severe AMD after intravitreal Avastin-injections.
+	Gold labels: CBS	Charles-Bonnet syndrome
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 10099659.8.txt Score: 0.9966274358267849
+	Sentence: We describe the side effects of 5-FU in a colon cancer patient who suffered severe mucositis, desquamating dermatitis, prolonged myelosuppression, and neurologic toxicity that required admission to the intensive care unit.
+	Gold labels: neurologic toxicity	prolonged myelosuppression	severe mucositis
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 12086549.7.txt Score: 0.9965884512631765
+	Sentence: After 5 days of treatment with IL-2, the patient developed a hemorrhagic lesion that progressed to toxic epidermal necrolysis, as well as grade 4 pancytopenia.
+	Gold labels: hemorrhagic lesion	toxic epidermal necrolysis
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 6873616.3.txt Score: 0.9965270156659064
+	Sentence: A 55-yr-old man developed prolonged jaundice and sicca complex after a course of thiabendazole therapy.
+	Gold labels: prolonged jaundice	sicca complex
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 11518127.1.txt Score: 0.996403504675576
+	Sentence: A 62-year-old woman treated with pranlukast for 2 months developed interstitial pneumonitis with a high fever.
+	Gold labels: interstitial pneumonitis
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 17522786.1.txt Score: 0.9957023982370392
+	Sentence: INTRODUCTION: We describe the neurointensive care (NIC) management of a patient with severe cerebral swelling and raised intracranial pressure (ICP) after severe sodium valproic acid (VPA) intoxication.
+	Gold labels: raised intracranial pressure	severe cerebral swelling
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 20120657.5.txt Score: 0.9955400816720004
+	Sentence: We report a case of Zidovudine induced anaemia and bone marrow aplasia in a patient infected with HIV.
+	Gold labels: anaemia	bone marrow aplasia
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 7295427.2.txt Score: 0.9954968729377338
+	Sentence: He was started on digoxin, 0.25 mg daily, because of echocardiographically demonstrated left ventricular dilatation and functional impairment; he died of ventricular fibrillation 15 days later.
+	Gold labels: functional impairment	left ventricular dilatation	ventricular fibrillation
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 11207969.1.txt Score: 0.9953708772063817
+	Sentence: We report a fatal case of toxic epidermal necrolysis (TEN) resulting from a high dose of cytosine arabinoside (ARA-C).
+	Gold labels: TEN	toxic epidermal necrolysis
+	Manual labels:
+	Comments:
+
+Error in 35:The association of venlafaxine treatment with ischaemic events could be explained by its unique pharmacological and haemodynamic properties .
+Prediction: ischaemic#O events#O
+Comments:
+
+	Similar sentence 0: 7139589.4.txt Score: 0.9977335898206074
+	Sentence: An adolescent male developed acute pancreatitis and pseudocyst of the pancreas 16 weeks after cessation of intramuscular L-asparaginase.
+	Gold labels: acute pancreatitis	pseudocyst of the pancreas
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 9725786.3.txt Score: 0.9965355172988114
+	Sentence: We describe a renal transplant recipient maintained on cyclosporine and prednisone developing Nocardia Asteroides brain abscess.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 18504683.0.txt Score: 0.9963180743700722
+	Sentence: L-asparaginase-induced posterior reversible encephalopathy syndrome during acute lymphoblastic leukemia treatment in children.
+	Gold labels: posterior reversible encephalopathy
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 14971874.0.txt Score: 0.9962259694067346
+	Sentence: Worsening of obstructive sleep apnoeas in a patient with rheumatoid arthritis treated with anti-tumor necrosis factor.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 6329575.2.txt Score: 0.9961962402503833
+	Sentence: k bipolar manic-depressive patient, developed while on lithium prophylaxis, akathisia at therapeutic serum lithium levels and subsequently bucco-linguo-masticatory dyskinesia.
+	Gold labels: akathisia
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 7351000.1.txt Score: 0.9960617038780067
+	Sentence: Acute non-lymphocytic leukemia occurred in eight women following long-term treatment with Treosulfan (= dihydroxybusulfan) for ovarian carcinoma.
+	Gold labels: Acute non-lymphocytic leukemia
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 1359782.1.txt Score: 0.9957576066850917
+	Sentence: A patient with ulcerative colitis developed skin pigmentation and diffuse pulmonary shadowing without respiratory symptomatology, while taking sulfasalazine.
+	Gold labels: diffuse pulmonary shadowing	skin pigmentation
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 20110001.0.txt Score: 0.9957292019953567
+	Sentence: Kaposi's sarcoma in a patient treated with imatinib mesylate for chronic myeloid leukemia.
+	Gold labels: Kaposi's sarcoma
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 3128415.1.txt Score: 0.995640448075929
+	Sentence: A young woman with epilepsy had tonic-clonic seizures during antineoplastic therapy with adriamycin and cisplatin.
+	Gold labels: tonic-clonic seizures
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 11688826.0.txt Score: 0.9955211210026303
+	Sentence: Syndrome of inappropriate secretion of ADH (SIADH) following cisplatin administration in a pulmonary adenocarcinoma patient with a malignant pleural effusion.
+	Gold labels: SIADH	Syndrome of inappropriate secretion of ADH
+	Manual labels:
+	Comments:
+
+Error in 11:
+Comments:
+
+	Similar sentence 0: 3405528.1.txt Score: 0.9984469450315326
+	Sentence: A case of halothane induced hepatitis is reported in a middle aged woman who underwent gastric surgery for morbid obesity.
+	Gold labels: hepatitis
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 15866658.4.txt Score: 0.9980885099356593
+	Sentence: Herein we report four patients who underwent liver transplantation and developed neutropenia while receiving MMF.
+	Gold labels: neutropenia
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 16432996.0.txt Score: 0.9980181564349884
+	Sentence: Development of sarcoidosis during interferon alpha 2b and ribavirin combination therapy for chronic hepatitis C--a case report and review of the literature.
+	Gold labels: sarcoidosis
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 9681211.1.txt Score: 0.9978906066244896
+	Sentence: We describe a patient with M4 AML treated with standard chemotherapy followed by G-CSF who developed marked monocytosis on day 8 of G-CSF therapy.
+	Gold labels: monocytosis
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 9704170.1.txt Score: 0.9978256167772478
+	Sentence: A 21-year-old patient developed rhabdomyolysis during his nineteenth week of treatment with clozapine for drug-resistant schizophrenia.
+	Gold labels: rhabdomyolysis
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 17968817.0.txt Score: 0.9978178011863631
+	Sentence: Psychosis in a 12-year-old HIV-positive girl with an increased serum concentration of efavirenz.
+	Gold labels: Psychosis
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 10885900.4.txt Score: 0.9978164336367915
+	Sentence: We present a case of HUS in an advanced ovarian cancer patient treated with carboplatin and gemcitabine, and described its favorable outcome after chemotherapy interruption and supportive care with a 1 year follow-up.
+	Gold labels: HUS
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 1849334.1.txt Score: 0.9977875597222229
+	Sentence: We report on 7 patients (2 women, 5 men) with chronic renal failure, who developed under a high dosage of the new diuretic muzolimine (range 240 to 1440 mg per day) fatal neuromyeloencephalopathy.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 20020238.1.txt Score: 0.9977372216260831
+	Sentence: BACKGROUND: To assess the nature, incidence, and risk factors of retinopathy associated with pegylated interferon and ribavirin combination therapy in chronic hepatitis C patients.
+	Gold labels: retinopathy
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 10579985.2.txt Score: 0.997689559627299
+	Sentence: We describe the clinical course of 2 patients with Crohn's disease (CD) in whom lymphoma was diagnosed after treatment with infliximab.
+	Gold labels: lymphoma
+	Manual labels:
+	Comments:
+
+Error in 208:
+Comments:
+
+	Similar sentence 0: 3804181.1.txt Score: 0.9977284040297792
+	Sentence: The authors report a further case of methimazole-associated liver damage and present a brief review of eleven previous cases found in the literature.
+	Gold labels: liver damage
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 110153.1.txt Score: 0.9976707622823817
+	Sentence: There have been many reports of probable lithium-induced organic brain syndromes occurring when serum lithium levels are within or close to the therapeutic range.
+	Gold labels: organic brain syndromes
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 17319250.3.txt Score: 0.997465498434953
+	Sentence: We present a case report of a patient who developed a prolonged QT while being treated with oral methadone for a chronic pain syndrome.
+	Gold labels: prolonged QT
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 3171334.6.txt Score: 0.9972167630707756
+	Sentence: Although differential diagnostic alternatives can be considered in all described cases it is very likely that vincristine does cause severe visual loss in a small number of patients.
+	Gold labels: severe visual loss
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 16092915.1.txt Score: 0.9971419366458142
+	Sentence: OBJECTIVE: To our knowledge, this is the first published case report of an adolescent girl with a mitochondrial disorder and depression who displayed both new-onset psychotic and increased mood symptoms during treatment with risperidone.
+	Gold labels: increased mood symptoms
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 17260498.4.txt Score: 0.9971193866266955
+	Sentence: Even though only a few cases of this adverse event have been reported in the literature, severe docetaxel-induced pulmonary toxicity needs to be considered in the differential diagnosis when such patients present with respiratory symptoms.
+	Gold labels: pulmonary toxicity
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 10473079.3.txt Score: 0.9970990565457467
+	Sentence: We now report the first known cancer patient who developed life-threatening complications after treatment with topical 5-FU and was shown subsequently to have profound DPD deficiency.
+	Gold labels: life-threatening complications
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 11804071.3.txt Score: 0.9970794884731692
+	Sentence: INH, which is a leading cause of drug eruptions in the above group of drugs was withdrawn.
+	Gold labels: drug eruptions
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 16044093.2.txt Score: 0.9968218716144681
+	Sentence: The case reported here is of a child given a large dose of intravenous iron sucrose (16 mg/kg) over 3 hours, who subsequently developed features of systemic iron toxicity.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 8864370.13.txt Score: 0.9968103396766328
+	Sentence: However, continued low-dose MTX led, in spite of normal liver tests, 8 years after the last biopsy to liver failure and death in 1 of our patients.
+	Gold labels: death	liver failure
+	Manual labels:
+	Comments:
+
+Error in 93:
+Comments:
+
+	Similar sentence 0: 16160485.0.txt Score: 0.9930038334724148
+	Sentence: CD20-negative T-cell-rich B-cell lymphoma as a progression of a nodular lymphocyte-predominant Hodgkin's lymphoma treated with rituximab: a molecular analysis using laser capture microdissection.
+	Gold labels: CD20-negative T-cell-rich B-cell lymphoma
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 16393774.5.txt Score: 0.9927470866730498
+	Sentence: The second patient developed both autoimmune thyroid disease and a refractory pre-patellar bursitis after 50 months of IFN-beta therapy.
+	Gold labels: autoimmune thyroid disease	refractory pre-patellar bursitis
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 4051280.2.txt Score: 0.992693090269209
+	Sentence: IV propranolol was used as the initial treatment for his hyperadrenergic state, resulting in a decrease in heart rate but a paroxsymal increase in blood pressure.
+	Gold labels: decrease in heart rate
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 7962394.1.txt Score: 0.9918653158074339
+	Sentence: Hypo-oestrogenic and anabolic/androgenic side-effects of danazol are well known by the gynaecologist and some of them are present in > 50% of patients being treated for endometriosis.
+	Gold labels: Hypo-oestrogenic and anabolic/androgenic side-effects
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 12923827.0.txt Score: 0.9917109047112833
+	Sentence: Schneiderian first-rank symptoms associated with fluvoxamine treatment: a case report.
+	Gold labels: Schneiderian first-rank symptoms
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 7369302.3.txt Score: 0.9914672276055183
+	Sentence: A transient tonic pupillary response, denervation supersensitivity, and abnormal visual-evoked potentials in quinine toxicity, to our knowledge, have not been previously reported.
+	Gold labels: abnormal visual-evoked potentials	denervation supersensitivity	transient tonic pupillary response
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 20020238.7.txt Score: 0.9911520112653255
+	Sentence: CONCLUSION: Significant ocular complications such as an irreversible decrease of visual acuity may develop in patients treated with pegylated interferon.
+	Gold labels: irreversible decrease of visual acuity	ocular complications
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 7019786.1.txt Score: 0.9911352862715267
+	Sentence: Two elderly women suffered an acute deterioration of renal function after treatment with cefoxitin sodium.
+	Gold labels: acute deterioration of renal function
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 10656221.9.txt Score: 0.9909089910974803
+	Sentence: In conclusion, this case strongly suggests that gliclazide can induce acute icteric liver necro-inflammation which may be misdiagnosed clinically as acute viral hepatitis.
+	Gold labels: acute icteric liver necro-inflammation
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 8244201.2.txt Score: 0.9906448504218015
+	Sentence: A high dose of cotrimoxazole induced hyperkalaemia with the elevation of serum creatinine and blood urea, and increased urinary N-acetyl glucosaminase after several days of the drug administration in these patients; one patient became unconscious.
+	Gold labels: elevation of serum creatinine and blood urea	hyperkalaemia	increased urinary N-acetyl glucosaminase
+	Manual labels:
+	Comments:
+
+Error in 29:An acute ischaemic event associated with the use of venlafaxine : a case report and proposed pathophysiological mechanisms .
+Prediction: acute#O ischaemic#O event#O
+Comments:
+
+	Similar sentence 0: 2347102.1.txt Score: 0.9984321433986199
+	Sentence: The pseudolymphoma syndrome is a reversible reactive condition consisting of fever, lymphadenopathy and generalized rash.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 18344734.4.txt Score: 0.9983925902531124
+	Sentence: The possible mechanisms of photo-onycholysis development by modern atypical antipsychotics, modulating dopamine receptors, are discussed.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 3365032.8.txt Score: 0.9982503305969149
+	Sentence: A brief discussion of thyroid myopathy, thionamide drug reactions, and polymyositis is included.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 18252776.2.txt Score: 0.9981879628186549
+	Sentence: Using an illustrative case this article examines the prognostic significance of gastrointestinal haemorrhage and the risk of stopping anti-platelet therapy.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 16411025.2.txt Score: 0.998173219967324
+	Sentence: Diffusion-weighted MRI (DWI) may help to distinguish between ischemic stroke and chemotherapy-related leukoencephalopathy.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 2147700.2.txt Score: 0.9981184863048284
+	Sentence: Griseofulvin may be associated with an increased incidence of adverse cutaneous reactions in patients with systemic lupus erythematosus.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 18034202.5.txt Score: 0.998094033173949
+	Sentence: Recurrent prosthetic hip infections, particularly in immunosuppressive patients, should alert the physician to consider the possibility of both tuberculous and atypical mycobacterial infections.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 11147747.6.txt Score: 0.9980923221832018
+	Sentence: Animal studies suggest that incontinence secondary to serotonergic antidepressants could be mediated by the 5HT4 receptors found on the bladder.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 11576059.3.txt Score: 0.9980170600813785
+	Sentence: Peritonsillar bupivacaine infiltration, a relatively safe method of pain control, is in some centers frequently used by otolaryngologists for pain relief.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 3465489.7.txt Score: 0.9980146294241401
+	Sentence: Our results indicate that pharmacokinetic variability may contribute to either severe myelotoxicity or therapeutic failures.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 114:
+Comments:
+
+	Similar sentence 0: 1433432.1.txt Score: 0.9982878378540595
+	Sentence: We report a case of hyponatremia associated with a grand mal seizure in a 28 month-old child after intra-nasal desmopressin administration for high fluid intake with nocturnal enuresis.
+	Gold labels: grand mal seizure	hyponatremia
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 16132305.1.txt Score: 0.9980899468534536
+	Sentence: We report a case of an infant with complex congenital heart disease who was placed on captopril for afterload reduction following cardiac surgery and subsequently developed pulmonary infiltrates with eosinophilia.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 11022272.4.txt Score: 0.9979330034511885
+	Sentence: We introduce a case of a sixty years old woman with several previous episodes of rhinitis, conjunctivitis and perspiration immediately after the administration of salmon calcitonin with nasal spray or intramuscular administration (Calsynar).
+	Gold labels: conjunctivitis	perspiration	rhinitis
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 15961942.0.txt Score: 0.9978989689942118
+	Sentence: Late development of diabetes mellitus after interferon-alfa and ribavirin therapy for chronic hepatitis C: a case report.
+	Gold labels: diabetes mellitus
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 18523232.1.txt Score: 0.997873540342599
+	Sentence: OBJECTIVE: To report the occurrence of acute cytolytic hepatitis in a patient exposed to pulse itraconazole therapy for 24 weeks and provide a concise review of the literature on cases of itraconazole-induced hepatitis.
+	Gold labels: acute cytolytic hepatitis	hepatitis
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 11489400.3.txt Score: 0.9977850894399648
+	Sentence: We present the case of a patient who had undergone cholecystectomy previously, but in whom morphine given in the Emergency Department precipitated pain consistent with biliary colic; the pain resolved promptly after administration of naloxone.
+	Gold labels: biliary colic	pain
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 15543388.1.txt Score: 0.9976902335469424
+	Sentence: AIM: Report of a case of a woman patient who developed celiac disease after pegylated interferon alpha-2a and ribavirin use for chronic hepatitis C.
+	Gold labels: celiac disease
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 15663666.2.txt Score: 0.9975576599513049
+	Sentence: We report the development of scrotal ulcer in a patient with acute promyleocytic leukemia (APL) within 10 days of treatment with ATRA at a dose of 40 mg orally twice daily.
+	Gold labels: scrotal ulcer
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 3195622.3.txt Score: 0.997553670947819
+	Sentence: A case report of the hypersensitivity syndrome occurring in a patient being treated with dapsone for a brown recluse spider bite is presented.
+	Gold labels: hypersensitivity syndrome
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 12875956.1.txt Score: 0.9975127927930124
+	Sentence: A twelve year-old-girl with idiopathic partial epilepsy with secondary generalization, developed acute psychosis 10 days after the administration of levetiracetam.
+	Gold labels: acute psychosis
+	Manual labels:
+	Comments:
+
+Error in 199:Case report : lack of control of diabetes and weight gain in a patient on initiation and rechallenge of therapy with olanzapine .
+Prediction: diabetes#O
+Comments:
+
+	Similar sentence 0: 8175330.6.txt Score: 0.9993997308038636
+	Sentence: Early detection of these cases has practical importance since the identification and elimination of the causative drug is essential for therapy success.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 18751717.9.txt Score: 0.9992825356545945
+	Sentence: Clinical suspicion of ASPPC upon observation of these characteristic features is crucial for early diagnosis and treatment. 
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 16540070.13.txt Score: 0.9991743795352618
+	Sentence: Complete allergy study, including an oral challenge test, should be considered in these patients. 
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 17705565.3.txt Score: 0.999156508190614
+	Sentence: Pediatricians rarely use a systematic approach to establish the cause of drug reactions in the clinical setting.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 17937473.16.txt Score: 0.9991507963401389
+	Sentence: CONCLUSION: We believe this observed rate of serious infection is acceptable in the context of optimally treating active RA.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 7779233.7.txt Score: 0.9991392805161647
+	Sentence: If aggressive surgical therapy is not an option, the prevention of secondary complications such as infection becomes the goal of treatment until the necrotic process stops and healing begins.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 16156485.4.txt Score: 0.9991123327628639
+	Sentence: The safety of concurrent use has also to be balanced when lithium treatment is started within an ECT course.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 7937287.5.txt Score: 0.9991103485400983
+	Sentence: It is important to keep a high index of suspicion with regard to DIAN since it is usually rapidly reversible.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 18580694.2.txt Score: 0.9991092798651059
+	Sentence: However, it was rarely reported in ECT sessions for psychiatric patients who needed concurrent antibiotic treatments.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 20154441.2.txt Score: 0.9990970622681744
+	Sentence: Likewise, Chinese herbal drugs are considered to be effective and to have few side effects.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 226:
+Comments:
+
+	Similar sentence 0: 15479299.2.txt Score: 0.9984439966852263
+	Sentence: We report a case of severe anemia, which responded well to steroid therapy, in a patient receiving IL-2 plus IFN-alpha for metastatic renal cell carcinoma.
+	Gold labels: severe anemia
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 9840249.3.txt Score: 0.9983649369771675
+	Sentence: We report a case of severe respiratory failure due to gold salt toxicity in a patient suffering from rheumatoid arthritis requiring mechanical ventilation.
+	Gold labels: respiratory failure
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 16854757.3.txt Score: 0.9983248647595564
+	Sentence: We describe a case of a man treated with an EGFR-inhibitor (erlotinib) for a cell lung cancer who developed skin manifestations localized in an uncommon area and with an atypical evolution.
+	Gold labels: skin manifestations
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 1775411.1.txt Score: 0.9980167938355226
+	Sentence: A patient is described who developed a rapid onset of pulmonary fibrosis following treatment with a new non-steroidal anti-inflammatory drug, nabumetone.
+	Gold labels: pulmonary fibrosis
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 16939867.2.txt Score: 0.9979691021693069
+	Sentence: This report describes a 13-year-old female with a right frontal high-grade glioma and complex partial seizures who developed localized purpura after 23 months of lamotrigine monotherapy.
+	Gold labels: localized purpura
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 14700673.2.txt Score: 0.9979418683335413
+	Sentence: METHODS: In an institutional practice setting, two women, aged 25 and 45, developed acute myopia after starting topiramate for epilepsy.
+	Gold labels: acute myopia
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 8496127.2.txt Score: 0.9979414603454152
+	Sentence: This paper reports on a 6.9-year-old autistic male who developed repeated episodes of acute dystonic reactions associated with pimozide administration at the doses of 0.096 mg/kg/day and 0.032 mg/kg/day and 32 hours following pimozide withdrawal, as well as during subsequent thioridazine administration.
+	Gold labels: acute dystonic reactions
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 18556970.3.txt Score: 0.9979361798557651
+	Sentence: We report a 13 year-old male who developed life-threatening anaphylaxis early in the course of Increlex therapy.
+	Gold labels: anaphylaxis
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 12150593.3.txt Score: 0.9979186323731335
+	Sentence: We suggest adding this side effect to the list of untoward effects of lidocaine and to the differential diagnosis of fixed dilated pupils in neonates treated with lidocaine.
+	Gold labels: dilated pupils
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 11876387.4.txt Score: 0.9979159907961234
+	Sentence: We described a very atypical case of a high stage, high grade endometrial cancer associated with tamoxifen in a 64-year-old woman with a past history of breast cancer.
+	Gold labels: endometrial cancer
+	Manual labels:
+	Comments:
+
+Error in 58:
+Comments:
+
+	Similar sentence 0: 17438184.2.txt Score: 0.9982466558247766
+	Sentence: OBSERVATIONS: A 48-year-old woman presented with disfiguring facial edema 10 weeks after she began antiviral therapy with peginterferon alfa-2a and ribavirin for chronic hepatitis C infection.
+	Gold labels: disfiguring facial edema
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 9149614.6.txt Score: 0.9981715337201562
+	Sentence: The probable proarrhythmic action of amiodarone, although rare, is reviewed along with a discussion of the novel use of intravenous magnesium sulfate therapy.
+	Gold labels: proarrhythmic
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 12546343.16.txt Score: 0.9978105286293394
+	Sentence: For patients who suffer from osteogenic sarcoma and have anaphylactic reactions to MTX, this desensitization protocol will allow these patients to continue with needed therapeutic or palliative chemotherapy. 
+	Gold labels: anaphylactic reactions
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 1868481.4.txt Score: 0.9977825081273913
+	Sentence: Careful clinical and biochemical monitoring seems necessary in children with primary glomerulonephritis, other than those transplanted, after IVPMP, and factors predisposing to neurologic sequelae should be further defined.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 15965422.7.txt Score: 0.9977420285851533
+	Sentence: We review the literature on previously reported cases of cutaneous necrosis after injection of standard interferon alfa or pegylated interferon alfa-2b and discuss the different pathophysiologic mechanisms that might be involved.
+	Gold labels: cutaneous necrosis
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 8610807.1.txt Score: 0.9976991133954259
+	Sentence: PURPOSE: To determine the cause of spontaneous choroidal hemorrhage in a 67-year-old man after a myocardial infarction and administration of tissue plasminogen activator.
+	Gold labels: spontaneous choroidal hemorrhage
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 15543388.5.txt Score: 0.9976616492411101
+	Sentence: CONCLUSION: Celiac disease must be ruled out in patients with malabsorption complaints in or after interferon (or pegylated interferon) therapy.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 17381671.7.txt Score: 0.997657687857541
+	Sentence: CONCLUSION: Healthcare professionals should be aware of the possible development of serotonin syndrome as a complication of initiation of fentanyl and other phenylpiperidine opioids in patients treated with SSRIs. 
+	Gold labels: serotonin syndrome
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 11506739.7.txt Score: 0.9976534111096687
+	Sentence: Between March and May 1996, the patient was admitted several times to a neurology clinic, where myasthenia gravis was diagnosed and treatment with pyridostigmine and cyclosporine was initiated.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 16421117.6.txt Score: 0.9976494545616794
+	Sentence: RESULTS: Both patients treated with bilateral subthalamotomy developed unilateral choreoballistic movements immediately after surgery, despite not taking levodopa (L-dopa).
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 15:
+Comments:
+
+	Similar sentence 0: 9886213.3.txt Score: 0.9932269204080516
+	Sentence: We describe a case of disseminated muscular cysticercosis followed by myositis (fever, diffuse myalgia, weakness of the lower limbs, and inflammatory reaction around dying cysticerci) induced by praziquantel therapy, an event not described previously.
+	Gold labels: diffuse myalgia	fever	inflammatory reaction around dying cysticerci	myositis	weakness of the lower limbs
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 20397038.0.txt Score: 0.9927059489121652
+	Sentence: Normalization of generalized retinal function and progression of maculopathy after cessation of therapy in a case of severe hydroxychloroquine retinopathy with 19 years follow-up.
+	Gold labels: retinopathy
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 8222875.0.txt Score: 0.9926991632869928
+	Sentence: Pulmonary hemorrhage as a clinical manifestation of hemolytic-uremic syndrome associated with mitomycin C therapy.
+	Gold labels: Pulmonary hemorrhage	hemolytic-uremic syndrome
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 9403220.0.txt Score: 0.9914546669828402
+	Sentence: Acute renal failure with severe tubulointerstitial changes in a patient with minimal change nephrotic syndrome treated with enalapril.
+	Gold labels: Acute renal failure	severe tubulointerstitial changes
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 8053440.2.txt Score: 0.990615195573364
+	Sentence: One patient who received clindamycin had liver biopsy findings of marked cholestasis, portal inflammation, bile duct injury and bile duct paucity (ductopenia).
+	Gold labels: bile duct injury	bile duct paucity	marked cholestasis	portal inflammation
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 9892272.3.txt Score: 0.990597600799517
+	Sentence: The development of cutaneous ecchymosis associated with a sudden fall in hemoglobin after the administration of alteplase should strongly suggest the possibility of diffuse subfascial hematoma.
+	Gold labels: cutaneous ecchymosis	sudden fall in hemoglobin
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 7538828.0.txt Score: 0.990529291472977
+	Sentence: Bone marrow aplasia and severe skin rash after a single low dose of methotrexate.
+	Gold labels: Bone marrow aplasia	severe skin rash
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 15623719.3.txt Score: 0.990507705821905
+	Sentence: Vision declined after treatment with methylprednisolone, after which fundus examination became consistent with progressive outer retinal necrosis.
+	Gold labels: Vision declined
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 1635565.9.txt Score: 0.989312132458282
+	Sentence: CONCLUSIONS: The administration of prostaglandin E1 to neonates can cause gastric-outlet obstruction due to antral hyperplasia.
+	Gold labels: gastric-outlet obstruction
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 8244201.2.txt Score: 0.9891540020378959
+	Sentence: A high dose of cotrimoxazole induced hyperkalaemia with the elevation of serum creatinine and blood urea, and increased urinary N-acetyl glucosaminase after several days of the drug administration in these patients; one patient became unconscious.
+	Gold labels: elevation of serum creatinine and blood urea	hyperkalaemia	increased urinary N-acetyl glucosaminase
+	Manual labels:
+	Comments:
+
+Error in 211:
+Comments:
+
+	Similar sentence 0: 11225532.5.txt Score: 0.9981702327851892
+	Sentence: Three days later, he presented with evidence of massive deep haemorrhage to the point of airway compromise.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 11122162.2.txt Score: 0.9981566077481587
+	Sentence: Myocardial infarction (MI), associated with the use of these concentrates, is a well-recognized, but uncommon, complication.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 12880504.7.txt Score: 0.9981172440482583
+	Sentence: CONCLUSION: Although the mechanism is not clear, these cases add to several other reports concerning the sudden emergence of obsessive-compulsive symptoms and anxiety symptoms in children treated with atypical antipsychotics.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 18648015.11.txt Score: 0.9981159523203049
+	Sentence: DISCUSSION: beta-Lactam-induced leukopenia is a rare but well-described adverse drug reaction.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 14760958.11.txt Score: 0.9980718795322479
+	Sentence: Evidence regarding the remyelinating nature of human monoclonal antibodies raises interest in the potential therapeutic role these antibodies may have. 
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 15304176.3.txt Score: 0.998017946760645
+	Sentence: Thirty days after the 2nd booster dose, several pruritic, polygonal, purple, papules appeared on the volar aspect of the patient's wrists.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 17188061.6.txt Score: 0.9979968270379206
+	Sentence: RESULTS: One day and three days after an uneventful intravitreal injection both patients experienced structured hallucinations including trees, faces, and water for approximately 15 to 30 minutes.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 19363904.3.txt Score: 0.9979808612226572
+	Sentence: Within minutes, he experienced an adverse reaction consisting of bilateral pruritus of the feet, which quickly progressed to his head; diaphoresis; nausea; vomiting; facial pallor; and hives.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 2887555.1.txt Score: 0.9979662211933561
+	Sentence: A historical review of the adverse reactions to neuroleptic agents--extrapyramidal side effects--is presented.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 9517515.4.txt Score: 0.997959857150434
+	Sentence: Six years after treatment he had a progressive increase in the platelet count and was diagnosed as essential thrombocythemia.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 153:
+Comments:
+
+	Similar sentence 0: 9403220.5.txt Score: 0.999302578468021
+	Sentence: Steroids also contributed to the improvement of the nephrotic syndrome and proteinuria decreased from maximal ranges of 27 g/l to 2.2 g/l after six months of the follow-up.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 12656748.2.txt Score: 0.9991909214470912
+	Sentence: G-banding analyses of bone marrow cells had repeatedly demonstrated normal male karyotype before this event, but t(9;22)(q34;q11) was demonstrated after the event.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 15823103.3.txt Score: 0.9991788967676631
+	Sentence: The range of previously administered total CBDCA was 2582-9589 mg, and the CBDCA area under the concentration curve of the first treatment exhibited appropriate intensity (mean, 1.92 +/- 0.10; range, 1.76-2.10) in all patients.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 14684937.5.txt Score: 0.9991733273909265
+	Sentence: On day 28 of the treatment, his serum calcium levels had reached 3.55 mmol/l, and his urinary calcium excretion had also increased from 0.008 g/day to 0.475 g/day.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 12086549.9.txt Score: 0.9991534812599128
+	Sentence: At the time of death, leukocytes were 0.3 x 10(3)/mm(3), platelets 10 x 10(3)/mm(3), and hemoglobin 6.8 mg/dL.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 6344831.3.txt Score: 0.9991426077499995
+	Sentence: Urine volume ranged from 1,640 to 2,260 mL/24 hr, and serum creatinine level rose from 2.3 to 8.3 mg/dL.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 1316047.1.txt Score: 0.9991118399895322
+	Sentence: On the 3rd day after a cesarean section, because of pre-eclampsia, blood pressure was still high, oral labetalol 100 mg with an 8-hour interval was given, followed by 50 mg i.v. administered over 10 min, twice with a 5-hour interval.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 7067510.5.txt Score: 0.9990945383410635
+	Sentence: In each instance the ST segment returned to the isoelectric line within 24 hours, and subsequent development of Q waves or changes in the QRS was not observed.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 16968538.5.txt Score: 0.9990759796500569
+	Sentence: Three cycles of chemotherapy had been administered without complications when, at the beginning of the fourth cycle, the patient developed clinical and laboratory abnormalities consistent with the development of the hemolytic-uremic syndrome.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 20397038.10.txt Score: 0.9990630822889498
+	Sentence: After more than 18 years after cessation of the drug, most tests showed a further deterioration, including best-corrected visual acuity (RE: 0.1; LE: 0.7).
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 101:
+Comments:
+
+	Similar sentence 0: 17763133.6.txt Score: 0.997659574751317
+	Sentence: Cyclosporine is a potent inhibitor of simvastatin metabolism, and may therefore facilitate simvastatin-induced rhabdomyolysis.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 8007037.3.txt Score: 0.996988327933033
+	Sentence: Although other nitrites induce methemoglobinemia, exposure to methyl nitrite during phenylpropanolamine production appears to be a new cause of occupational methemoglobinemia.
+	Gold labels: methemoglobinemia
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 573779.2.txt Score: 0.9968964209518038
+	Sentence: A young woman developed galactorrhea during treatment with a new dibenzoxazepine antidepressant, amoxapine.
+	Gold labels: galactorrhea
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 12494253.3.txt Score: 0.9968744372380902
+	Sentence: After nine previous uncomplicated cycles she developed severe anaphylaxis to cisplatin.
+	Gold labels: anaphylaxis
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 17624096.0.txt Score: 0.9967199513774997
+	Sentence: 5-Fluorouracil cardiotoxicity complicating treatment of stage IIB cervical cancer--case report.
+	Gold labels: cardiotoxicity
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 1174301.2.txt Score: 0.9967103774208023
+	Sentence: There is a putative role of liothyronine administration in precipitating or activating hyperthyroidism.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 9220046.5.txt Score: 0.9965508067727865
+	Sentence: Erythromycin is a macrolide antibiotic that may increase the risk of lovastatin-induced rhabdomyolysis.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 12114387.6.txt Score: 0.9965090969787577
+	Sentence: Epoprostenol may be associated rarely with severe erythroderma.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 12944250.7.txt Score: 0.9964217582214518
+	Sentence: It is concluded that simultaneous administration of ciprofloxacin and tazobactam/piperacillin may cause marked thrombocytosis.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 8430717.0.txt Score: 0.9963498619454386
+	Sentence: Acyclovir-induced neurotoxicity: concentration-side effect relationship in acyclovir overdose.
+	Gold labels: neurotoxicity
+	Manual labels:
+	Comments:
+
+Error in 73:For the second patient , hypophosphatemia was corrected , during hemodiafiltration , with the use of a phosphorus - enriched dialysate .
+Prediction: hypophosphatemia#O
+Comments:
+
+	Similar sentence 0: 14641354.2.txt Score: 0.9970330096252421
+	Sentence: We report a 43-year-old woman who developed sore throat, swelling of the lips and oral cavity and dysphagia, 2 weeks after the use of budesonide spray (Budefat) for treatment of bronchial asthma.
+	Gold labels: dysphagia	sore throat	swelling of the lips and oral cavity
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 18607107.0.txt Score: 0.9954799899439201
+	Sentence: Development of Crohn's disease in a patient with multiple sclerosis treated with copaxone.
+	Gold labels: Crohn's disease
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 9876812.1.txt Score: 0.995134247076991
+	Sentence: OBJECTIVE: To describe onset of syndrome of inappropriate antidiuretic hormone (SIADH) associated with vinorelbine therapy for advanced breast cancer.
+	Gold labels: SIADH	syndrome of inappropriate antidiuretic hormone
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 8461228.5.txt Score: 0.9950815526145985
+	Sentence: A 12 year old patient with atrial flutter is presented, in whom intravenous adenosine was followed by acceleration of the heart rate to a potentially dangerous arrhythmia.
+	Gold labels: acceleration of the heart rate
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 12854039.3.txt Score: 0.9950340417762448
+	Sentence: Case 1, a 62-year-old woman, developed bilateral optic neuritis with decreased sensation of vibration and increased deep tendon reflex in the lower extremities after a seven-month use of recombinant interferon alpha-2a for chronic active hepatitis C.
+	Gold labels: bilateral optic neuritis	decreased sensation of vibration	increased deep tendon reflex
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 19733945.7.txt Score: 0.9949897523782405
+	Sentence: This case of linezolid-associated acute interstitial nephritis within the context of a drug rash with eosinophilia and systemic symptoms (DRESS) syndrome in a patient treated with linezolid raises concerns about the presumed renal safety of this drug.
+	Gold labels: DRESS	acute interstitial nephritis	drug rash with eosinophilia and systemic symptoms
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 15580406.1.txt Score: 0.9947745844618351
+	Sentence: Retinal abnormalities, including retinal hemorrhage and "cotton-wool" spots, often occur within the first 8 weeks in the course of interferon therapy in patients with chronic hepatitis C.
+	Gold labels: Retinal abnormalities	retinal hemorrhage
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 15061230.3.txt Score: 0.9947455345713084
+	Sentence: We describe three testicular cancer patients who were cured with chemotherapy but developed bilateral osteonecrosis of the femoral head 17, 22 and 55 months after chemotherapy.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 19296063.6.txt Score: 0.9945395538120276
+	Sentence: We report the case of a 17-year-old male who developed chest pain, elevated cardiac biomarkers, and acute left ventricular dysfunction following a single dose of methylphenidate.
+	Gold labels: acute left ventricular dysfunction	chest pain	elevated cardiac biomarkers
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 19499966.4.txt Score: 0.9943513819321298
+	Sentence: At the end of his fifth cycle of sunitinib therapy, the patient complained of the development of abnormally large mammary glands associated with pain and peri-areolar erythema.
+	Gold labels: development of abnormally large mammary glands	pain
+	Manual labels:
+	Comments:
+
+Error in 76:
+Comments:
+
+	Similar sentence 0: 9545161.7.txt Score: 0.9985074892504794
+	Sentence: The patient had also been taking concomitant allopurinol and captopril for more than 4 years with no complications, and valproic acid 3 months before the cutaneous event.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 19336028.4.txt Score: 0.9984564796247909
+	Sentence: Namely, that recalcitrant psoriatic skin lesions may have good clearing on one biologic, such as efalizumab, and arthritic symptoms can be well-controlled with etanercept, leading patients to be on two different biologics concurrently to control symptoms.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 6597713.6.txt Score: 0.9983931276686853
+	Sentence: She received 600 mEq of sodium bicarbonate intravenously over 36 hours by which time her mentation, electrolytes and pH were normal.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 16935446.6.txt Score: 0.9983811463065977
+	Sentence: At 8 years 8 months of age, desensitization was attempted because of refractoriness of seizures to drugs other than phenytoin.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 433855.2.txt Score: 0.9983002832843582
+	Sentence: The conditions of three children with dermatomyositis and one child with polymyositis were treated for nine to 31 months with combined prednisone and intravenous methotrexate (1 mg/kg/wk) when prednisone alone was ineffective in controlling the disease or when there were substantial steroid-related toxic effects.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 1918672.2.txt Score: 0.9982775055855323
+	Sentence: In this case, discontinuing piroxicam, a nonsteroidal anti-inflammatory drug, and starting a palliative treatment plan helped resolve a patient's ulcers.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 1569260.3.txt Score: 0.9982686616096521
+	Sentence: Unique to this case, however, was the substitution of another angiotensin-converting enzyme inhibitor, enalapril, without exacerbation of the pemphigus.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 10650865.9.txt Score: 0.998248896486769
+	Sentence: F VIII dosage was gradually reduced with advanced resorption of the haematoma and thereafter switched to prophylaxis (40 IU/kg bw 3 times weekly).
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 14641354.10.txt Score: 0.9982275928337434
+	Sentence: Repeated open application tests with amcinonide and triamcinolone acetonide cream on the ventral aspect of the upper arm were negative.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 19904536.11.txt Score: 0.9982154520772378
+	Sentence: He died 1 month later in spite of methylprednisolone pulse therapy, large spectrum antimicrobial therapy, and full support of respiratory, hemodynamic and renal systems.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 62:A patient with adenocarcinoma of the prostate with bone metastases experienced dyspnea possibly related to the ingestion of these tablets .
+Prediction: dyspnea#B
+Comments:
+
+	Similar sentence 0: 16637972.3.txt Score: 0.9937491696374894
+	Sentence: The sub-conjunctival haematoma in a patient receiving warfarin can pose a significant management challenge.
+	Gold labels: sub-conjunctival haematoma
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 10891991.6.txt Score: 0.9935617120969482
+	Sentence: RESULTS: Replacing valproate with lamotrigine resulted in a decrease in serum testosterone concentrations in all 3 women.
+	Gold labels: serum testosterone
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 3379435.0.txt Score: 0.9932448470562886
+	Sentence: Reye-like syndrome following treatment with the pantothenic acid antagonist, calcium hopantenate.
+	Gold labels: Reye-like syndrome
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 15388215.12.txt Score: 0.9929516919734432
+	Sentence: Tiagabine overdose causes an unusual array of neurological symptoms, many similar to reported adverse effects during therapeutic use.
+	Gold labels: unusual array of neurological symptoms
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 15061230.3.txt Score: 0.9929256969332839
+	Sentence: We describe three testicular cancer patients who were cured with chemotherapy but developed bilateral osteonecrosis of the femoral head 17, 22 and 55 months after chemotherapy.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 19733945.7.txt Score: 0.9926203804234145
+	Sentence: This case of linezolid-associated acute interstitial nephritis within the context of a drug rash with eosinophilia and systemic symptoms (DRESS) syndrome in a patient treated with linezolid raises concerns about the presumed renal safety of this drug.
+	Gold labels: DRESS	acute interstitial nephritis	drug rash with eosinophilia and systemic symptoms
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 9723127.0.txt Score: 0.9925976096015495
+	Sentence: Decreased plasma cortisol level during alprazolam treatment of panic disorder: a case report.
+	Gold labels: Decreased plasma cortisol level
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 2309833.1.txt Score: 0.9923803276874383
+	Sentence: Insulin-dependent diabetes mellitus developed in a young woman 8 weeks after the initiation of danazol for treatment of pelvic endometriosis.
+	Gold labels: Insulin-dependent diabetes mellitus
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 18607107.0.txt Score: 0.9923642698832219
+	Sentence: Development of Crohn's disease in a patient with multiple sclerosis treated with copaxone.
+	Gold labels: Crohn's disease
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 10467499.0.txt Score: 0.992022506145263
+	Sentence: An infectious mononucleosis-like syndrome induced by minocycline: a third pattern of adverse drug reaction.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 67:Clinical symptoms and leukopenia normalized after discontinuation of CBZ and administration of prednisolone at 40 mg .
+Prediction: symptoms#I leukopenia#B
+Comments:
+

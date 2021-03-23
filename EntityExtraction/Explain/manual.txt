@@ -1,0 +1,704 @@
+Error in 35:The association of venlafaxine treatment with ischaemic events could be explained by its unique pharmacological and haemodynamic properties .
+Prediction: ischaemic#O events#O
+Comments: generic AE
+
+	Similar sentence 0: 9403220.6.txt Score: 0.323 Matches: [['described', 'explained'], ['were', 'be'], ['associated', 'association'], ['treatment', 'treatment'], ['cases', 'events']]
+	Sentence: Similar cases were previously described associated with captopril treatment, but not with enalapril.
+	Gold labels: 
+	Manual labels:
+	Comments: generic AE (similar cases)
+
+	Similar sentence 1: 16393774.2.txt Score: 0.312 Matches: [['associated', 'association'], ['Therapy', 'treatment'], ['development', 'events'], ['with', 'with'], ['with', 'with']]
+	Sentence: Therapy with IFN-beta has rarely been associated with the development of autoimmune disorders.
+	Gold labels: 
+	Manual labels: autoimmune disorders
+	Comments: "rarely", generic AE
+
+	Similar sentence 2: 15529178.3.txt Score: 0.303 Matches: [['The', 'The'], ['association', 'association'], ['discussed', 'explained'], ['is', 'be'], ['therapy', 'treatment']]
+	Sentence: The association with etanercept therapy and granulomatous reactions is discussed along with the differential diagnosis.
+	Gold labels: 
+	Manual labels: granulomatous reactions
+	Comments: generic AE
+
+	Similar sentence 3: 6833205.3.txt Score: 0.303 Matches: [['described', 'explained'], ['is', 'be'], ['associated', 'association'], ['treatment', 'treatment'], ['case', 'events']]
+	Sentence: A case of SIADH associated with desipramine treatment in an elderly depressed woman is described.
+	Gold labels: SIADH
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 6725214.1.txt Score: 0.296 Matches: [['described', 'explained'], ['is', 'be'], ['associated', 'association'], ['case', 'events']]
+	Sentence: A case of priapism associated with trazodone is described.
+	Gold labels: priapism
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 9149614.3.txt Score: 0.293 Matches: [['noted', 'explained'], ['was', 'be'], ['therapy', 'treatment'], ['episodes', 'events'], ['of', 'of'], ['with', 'with']]
+	Sentence: Eleven days after initiation of therapy with amiodarone, the patient experienced syncope and was noted to have recurrent episodes of polymorphous ventricular tachycardia.
+	Gold labels: syncope
+	Manual labels: polymorphous ventricular tachycardia
+	Comments: multiple annotations
+
+	Similar sentence 6: 10579985.6.txt Score: 0.293 Matches: [['describe', 'explained'], ['association', 'association'], ['the', 'The'], ['cases', 'events'], ['therapy', 'treatment'], ['of', 'of']]
+	Sentence: We describe the implications of these cases for the use of immunomodulatory therapy in CD and the questionable association between CD and lymphoma.
+	Gold labels: 
+	Manual labels:
+	Comments: related diseases
+
+	Similar sentence 7: 10728450.2.txt Score: 0.286 Matches: [['The', 'The'], ['association', 'association'], ['of', 'of'], ['manifestations', 'events'], ['well', 'properties']]
+	Sentence: The association of hepatitis B virus infection and vasculitis or other immune-mediated manifestations is well documented.
+	Gold labels: 
+	Manual labels:
+	Comments: related diseases
+
+	Similar sentence 8: 16609346.1.txt Score: 0.279 Matches: [['described', 'explained'], ['association', 'association'], ['is', 'be'], ['treatment', 'treatment'], ['case', 'events'], ['well', 'properties']]
+	Sentence: A few recent individual case reports have suggested that a myasthenic syndrome may be associated with statin treatment, but this association is not well described.
+	Gold labels: myasthenic syndrome
+	Manual labels:
+	Comments: "may be associated"
+
+	Similar sentence 9: 12625995.3.txt Score: 0.278 Matches: [['described', 'explained'], ['are', 'be'], ['associated', 'association'], ['treatment', 'treatment'], ['cases', 'events']]
+	Sentence: Two cases of childhood-onset schizophrenia associated with clozapine-induced akathisia responsive to beta-blocker treatment are described.
+	Gold labels: akathisia
+	Manual labels:
+	Comments:
+
+Error in 39:We describe a patient with androgen - independent prostate cancer in whom PSA continued to decrease for a period of 15 months after flutamide withdrawal .
+Prediction: PSA#O continued#O to#O decrease#O
+Comments: measurement
+
+	Similar sentence 0: 6998294.2.txt Score: 0.368 Matches: [['We', 'We'], ['describe', 'describe'], ['a', 'a'], ['patient', 'patient'], ['in', 'in'], ['whom', 'whom'], ['following', 'continued']]
+	Sentence: We describe a patient in whom impressive hypoglycemia developed following treatment with this agent.
+	Gold labels: 
+	Manual labels: hypoglycemia
+	Comments: drug not mentioned
+
+	Similar sentence 1: 9256906.2.txt Score: 0.341 Matches: [['We', 'We'], ['describe', 'describe'], ['a', 'a'], ['patient', 'patient'], ['with', 'with'], ['prostate', 'prostate'], ['cancer', 'cancer']]
+	Sentence: We describe a patient with metastatic prostate cancer who developed nonoliguric renal failure during treatment with suramin.
+	Gold labels: nonoliguric renal failure
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 7448830.3.txt Score: 0.340 Matches: [['patients', 'patient'], ['cancer', 'cancer'], ['lower', 'decrease'], ['resulted', 'continued'], ['phase', 'period'], ['with', 'with'], ['in', 'in'], ['which', 'whom'], ['a', 'a']]
+	Sentence: In a phase II study of hycanthone in patients with breast cancer we have recently observed severe hepatotoxicity, even at lower doses, which resulted in two drug-related deaths.
+	Gold labels: severe hepatotoxicity
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 18661248.3.txt Score: 0.340 Matches: [['We', 'We'], ['describe', 'describe'], ['a', 'a'], ['patient', 'patient'], ['with', 'with'], ['withdrawal', 'withdrawal'], ['CSA', 'PSA'], ['after', 'after']]
+	Sentence: We describe a case of PRES in a patient with collapsing focal glomeruloesclerosis (collapsing FGS) with complete recovery after withdrawal of cyclosporine (CSA).
+	Gold labels: PRES
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 10530201.2.txt Score: 0.333 Matches: [['patient', 'patient'], ['with', 'with'], ['presented', 'describe'], ['15', '15'], ['Year', 'period'], ['A', 'a']]
+	Sentence: A 15 Year old female patient with Sturge Weber Syndrome is presented.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 8038468.6.txt Score: 0.318 Matches: [['for', 'for'], ['a', 'a'], ['period', 'period'], ['resulted', 'continued'], ['falling', 'decrease'], ['in', 'in'], ['to', 'to']]
+	Sentence: Discontinuation of levamisole and 5-FU for a five-week period resulted in the INR falling to a subtherapeutic level.
+	Gold labels: 
+	Manual labels: INR falling to a subtherapeutic level
+	Comments: measurement
+
+	Similar sentence 6: 1888256.2.txt Score: 0.316 Matches: [['We', 'We'], ['describe', 'describe'], ['a', 'a'], ['patient', 'patient'], ['in', 'in'], ['whom', 'whom']]
+	Sentence: We describe a patient in whom this was the primary manifestation of drug hypersensitivity.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 8461228.5.txt Score: 0.314 Matches: [['patient', 'patient'], ['with', 'with'], ['in', 'in'], ['whom', 'whom'], ['presented', 'describe'], ['year', 'period'], ['followed', 'continued'], ['A', 'a']]
+	Sentence: A 12 year old patient with atrial flutter is presented, in whom intravenous adenosine was followed by acceleration of the heart rate to a potentially dangerous arrhythmia.
+	Gold labels: acceleration of the heart rate
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 15685264.4.txt Score: 0.308 Matches: [['A', 'a'], ['patient', 'patient'], ['with', 'with'], ['sustained', 'continued'], ['presented', 'describe'], ['who', 'whom']]
+	Sentence: METHODS: A patient with C6D tetraplegia who sustained intoxication because of drug interaction is presented.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 3720318.2.txt Score: 0.308 Matches: [['We', 'We'], ['describe', 'describe'], ['a', 'a'], ['patient', 'patient'], ['in', 'in'], ['whom', 'whom']]
+	Sentence: We describe a patient in whom noncardiogenic pulmonary edema developed during intrabiliary infusion of monooctanoin.
+	Gold labels: noncardiogenic pulmonary edema
+	Manual labels:
+	Comments:
+
+Error in 36:Prolonged prostate - specific antigen response in flutamide withdrawal syndrome despite disease progression .
+Prediction: Prolonged#O prostate#O -#O specific#O antigen#O response#O flutamide#O withdrawal#O syndrome#O
+Comments: multiple, GT error
+
+	Similar sentence 0: 736591.0.txt Score: 0.300 Matches: [['Progressive', 'progression'], ['disease', 'disease'], ['prolonged', 'Prolonged']]
+	Sentence: Progressive interstitial lung disease from prolonged methotrexate therapy.
+	Gold labels: Progressive interstitial lung disease
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 6427463.0.txt Score: 0.273 Matches: [['syndrome', 'syndrome'], ['Stroke', 'disease'], ['reaction', 'response']]
+	Sentence: Stroke-like syndrome after gold sodium thiomalate induced vasomotor reaction.
+	Gold labels: Stroke-like syndrome	vasomotor reaction
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 7545251.0.txt Score: 0.250 Matches: [['withdrawal', 'withdrawal'], ['syndrome', 'syndrome'], ['prostate', 'prostate']]
+	Sentence: Chlormadinone acetate withdrawal syndrome under combined androgen blockade for advanced prostate cancer.
+	Gold labels: withdrawal syndrome
+	Manual labels: Chlormadinone acetate withdrawal syndrome
+	Comments: annotation error
+
+	Similar sentence 3: 7545251.3.txt Score: 0.250 Matches: [['prostate', 'prostate'], ['specific', 'specific'], ['antigen', 'antigen'], ['response', 'response']]
+	Sentence: We report three representative cases of sequential prostate specific antigen (PSA) elevation following initial response to this combined androgen blockade.
+	Gold labels: 
+	Manual labels: sequential prostate specific antigen (PSA) elevation
+	Comments: annotation error
+
+	Similar sentence 4: 9550246.0.txt Score: 0.240 Matches: [['syndrome', 'syndrome'], ['increased', 'progression'], ['response', 'response']]
+	Sentence: A syndrome of increased affect in response to risperidone among patients with schizophrenia.
+	Gold labels: syndrome of increased affect
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 2863342.3.txt Score: 0.231 Matches: [['disease', 'disease'], ['progressed', 'progression'], ['despite', 'despite']]
+	Sentence: The restrictive lung disease progressed despite cessation of sulfasalazine and initiation of corticosteroid therapy.
+	Gold labels: 
+	Manual labels: restrictive lung disease
+	Comments: annotation error
+
+	Similar sentence 6: 12847760.0.txt Score: 0.222 Matches: [['disease', 'disease'], ['reaction', 'response']]
+	Sentence: Reversal reaction to Hansen's disease.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 7900744.9.txt Score: 0.222 Matches: [['increased', 'progression'], ['morbidity', 'disease'], ['prolongation', 'Prolonged']]
+	Sentence: Patients not treated with hemodialysis have increased morbidity and significant prolongation of their hospital course.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 15494638.12.txt Score: 0.211 Matches: [['progression', 'progression'], ['disease', 'disease']]
+	Sentence: There was no evidence of disease progression.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 15239684.0.txt Score: 0.211 Matches: [['syndrome', 'syndrome'], ['in', 'in']]
+	Sentence: Early histopathologic changes in purple glove syndrome.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 41:This case illustrates the potential decoupling of PSA response from disease status in flutamide withdrawal .
+Prediction: decoupling#O of#O PSA#O response#O
+Comments:
+
+	Similar sentence 0: 18991509.2.txt Score: 0.333 Matches: [['This', 'This'], ['case', 'case'], ['the', 'the'], ['potential', 'potential'], ['highlights', 'illustrates']]
+	Sentence: This case highlights the potential of ritonavir interactions even with local injections of a corticosteroid.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 3470173.3.txt Score: 0.333 Matches: [['This', 'This'], ['case', 'case'], ['illustrates', 'illustrates'], ['the', 'the']]
+	Sentence: This case report illustrates the neurotoxicity unique to HDARAC.
+	Gold labels: neurotoxicity
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 1467295.6.txt Score: 0.324 Matches: [['This', 'This'], ['case', 'case'], ['illustrates', 'illustrates'], ['the', 'the'], ['potential', 'potential'], ['response', 'response']]
+	Sentence: This case illustrates the potential diversity of clinical lesions in a single patient with NEH, and its response to systemically administered corticosteroids.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 12751276.2.txt Score: 0.323 Matches: [['illustrates', 'illustrates'], ['case', 'case'], ['potentially', 'potential'], ['reaction', 'response'], ['of', 'of']]
+	Sentence: The case reported here illustrates that clinicians should be aware of this potentially fatal drug reaction.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 7081289.2.txt Score: 0.320 Matches: [['incidence', 'case'], ['reaction', 'response'], ['of', 'of'], ['Such', 'This']]
+	Sentence: Such a low incidence suggests a hypersensitivity type of reaction.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 16697705.3.txt Score: 0.312 Matches: [['This', 'This'], ['case', 'case'], ['highlights', 'illustrates'], ['possible', 'potential'], ['the', 'the']]
+	Sentence: This case highlights the possible development of acute coronary syndrome as a side effect of Capecitabine therapy.
+	Gold labels: acute coronary syndrome
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 17873198.5.txt Score: 0.312 Matches: [['This', 'This'], ['case', 'case'], ['evidence', 'illustrates'], ['possibility', 'potential'], ['the', 'the']]
+	Sentence: This case and other published evidence should alert physicians to the possibility of fatal erlotinib-induced ILD.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 9494448.10.txt Score: 0.308 Matches: [['revealed', 'illustrates'], ['cases', 'case'], ['reaction', 'response'], ['of', 'of']]
+	Sentence: The literature search revealed 22 cases of hypersensitivity reaction to cyclosporine.
+	Gold labels: hypersensitivity reaction
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 11642488.2.txt Score: 0.303 Matches: [['the', 'the'], ['potential', 'potential'], ['highlight', 'illustrates'], ['action', 'response'], ['of', 'of']]
+	Sentence: To discuss the possible mechanisms of action and highlight the potential detrimental effects of dipivefrin on palpebral conjunctiva.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 7282702.8.txt Score: 0.296 Matches: [['This', 'This'], ['case', 'case'], ['demonstrated', 'illustrates'], ['the', 'the']]
+	Sentence: This case demonstrated the importance of obtaining complete drug histories from patients.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 17:Association of zomepirac administration with renal cortical necrosis is not known to have been previously demonstrated .
+Prediction: renal#B cortical#I necrosis#I
+Comments:
+
+	Similar sentence 0: 3797173.2.txt Score: 0.333 Matches: [['recognized', 'known'], ['not', 'not'], ['be', 'is'], ['management', 'administration']]
+	Sentence: Optimal medical management may not be widely recognized.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 11722307.5.txt Score: 0.324 Matches: [['proven', 'demonstrated'], ['has', 'have'], ['been', 'been'], ['association', 'Association'], ['aware', 'known'], ['be', 'is']]
+	Sentence: CONCLUSION: Although a definite association has not been proven, clinicians should be aware of the possibility of agranulocytosis while using quetiapine.
+	Gold labels: agranulocytosis
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 18665833.4.txt Score: 0.308 Matches: [['is', 'is'], ['not', 'not'], ['understood', 'known'], ['association', 'Association']]
+	Sentence: However, the pathogenesis of this association is not fully understood.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 15727358.10.txt Score: 0.296 Matches: [['to', 'to'], ['have', 'have'], ['managed', 'administration'], ['with', 'with']]
+	Sentence: He has elected to have future SBCCs managed with C&C.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 17275666.2.txt Score: 0.294 Matches: [['known', 'known'], ['to', 'to'], ['associated', 'Association'], ['been', 'is'], ['only', 'not']]
+	Sentence: Although several adverse effects are associated with this drug, it has only rarely been known to exacerbate seizures.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 12365708.6.txt Score: 0.286 Matches: [['known', 'known'], ['to', 'to'], ['defects', 'necrosis'], ['is', 'is']]
+	Sentence: It is known to cause dyschromatopsia, visual disturbances, and visual-field defects.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 18515982.7.txt Score: 0.286 Matches: [['with', 'with'], ['renal', 'renal'], ['is', 'is'], ['not', 'not']]
+	Sentence: Dosing adjustment in patients with renal dysfunction is not necessary for anastrozole.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 8645078.3.txt Score: 0.276 Matches: [['known', 'known'], ['to', 'to'], ['associated', 'Association'], ['is', 'is']]
+	Sentence: Captopril is known to be associated with dermatologic, hematologic, and pulmonary adverse effects.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 2669373.5.txt Score: 0.276 Matches: [['established', 'demonstrated'], ['has', 'have'], ['been', 'been'], ['associated', 'Association']]
+	Sentence: The pathogenesis of chemotherapy-associated thrombotic microangiopathy (C-TMA) has not been established.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 12452753.8.txt Score: 0.273 Matches: [['experience', 'known'], ['not', 'not'], ['did', 'is']]
+	Sentence: She did not experience any reactions.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 2:Minor electrocardiographical changes were noted in five out of six patients who were not receiving a cardiac glycoside and four out of six who were receiving ouabain , and none of the 16 who were receiving digoxin .
+Prediction: Minor#O electrocardiographical#O changes#O
+Comments:
+
+	Similar sentence 0: 937377.6.txt Score: 0.340 Matches: [['six', 'six'], ['patients', 'patients'], ['reported', 'noted'], ['were', 'were'], ['six', 'six'], ['in', 'in'], ['and', 'and'], ['in', 'in']]
+	Sentence: Gastrointestinal disturbances were reported in six patients, and hypotension in six.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 8329789.5.txt Score: 0.328 Matches: [['in', 'in'], ['five', 'five'], ['patients', 'patients'], ['who', 'who'], ['received', 'receiving'], ['observed', 'noted'], ['were', 'were'], ['6', 'six'], ['Cardiac', 'cardiac'], ['4', 'four']]
+	Sentence: INTERVENTIONS AND RESULTS: Cardiac complications were observed in five pediatric patients who received between 4.6 and 40.8 mg/kg/d of amphotericin B.
+	Gold labels: Cardiac complications
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 2327115.3.txt Score: 0.308 Matches: [['of', 'of'], ['the', 'the'], ['reported', 'noted'], ['been', 'were'], ['patients', 'patients'], ['receiving', 'receiving'], ['less', 'Minor'], ['in', 'in']]
+	Sentence: Renal toxicities have been reported in less than one percent of the patients receiving ciprofloxacin therapy.
+	Gold labels: Renal toxicities
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 8329789.7.txt Score: 0.276 Matches: [['of', 'of'], ['the', 'the'], ['a', 'a'], ['cardiac', 'cardiac'], ['provided', 'receiving'], ['patient', 'patients'], ['is', 'were'], ['who', 'who']]
+	Sentence: A detailed description of the cardiac event is provided for one patient who was on a cardiac monitor during the adverse reaction.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 11077455.3.txt Score: 0.267 Matches: [['of', 'of'], ['the', 'the'], ['receiving', 'receiving'], ['were', 'were'], ['Six', 'six'], ['patients', 'patients']]
+	Sentence: Six of the patients were no longer receiving vigabatrin.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 8024670.1.txt Score: 0.259 Matches: [['patients', 'patients'], ['who', 'who'], ['of', 'of'], ['the', 'the'], ['reported', 'noted'], ['are', 'were'], ['Four', 'four']]
+	Sentence: Four patients who manifested symptoms of the antiepileptic drug (AED) hypersensitivity syndrome during therapy with carbamazepine are reported.
+	Gold labels: hypersensitivity syndrome
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 9184269.4.txt Score: 0.254 Matches: [['patients', 'patients'], ['receiving', 'receiving'], ['four', 'four'], ['identified', 'noted'], ['giving', 'receiving'], ['0', 'none'], ['of', 'of'], ['and', 'and'], ['and', 'and']]
+	Sentence: Our review of 194 RA patients and 38 PsA patients receiving MTX has identified four RA patients and one PsA patient with MTX-induced pneumonitis, giving a prevalence of 2.1% and 0.03%, respectively.
+	Gold labels: pneumonitis
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 6958210.3.txt Score: 0.250 Matches: [['of', 'of'], ['six', 'six'], ['patients', 'patients'], ['in', 'in'], ['five', 'five'], ['of', 'of'], ['the', 'the'], ['found', 'noted'], ['were', 'were'], ['six', 'six'], ['low', 'Minor']]
+	Sentence: Manifestations included pleurisy in five of six patients, rashes in three, nephritis in two, and neurologic disturbances in two; lupus erythematosus cells were found in five patients, antinuclear antibodies in all six, antideoxyribonucleic acid in three, positive Coombs' test results for three patients, and low C4 complement in five of the six.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 20020238.5.txt Score: 0.246 Matches: [['six', 'six'], ['patients', 'patients'], ['found', 'noted'], ['were', 'were'], ['four', 'four'], ['in', 'in'], ['in', 'in']]
+	Sentence: Cotton-wool spots were found in six patients, retinal hemorrhages in four, and branch retinal vein occlusion in one (one eye).
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 6245286.1.txt Score: 0.246 Matches: [['patients', 'patients'], ['who', 'who'], ['received', 'receiving'], ['found', 'noted'], ['was', 'were'], ['four', 'four'], ['in', 'in'], ['of', 'of']]
+	Sentence: Autopsy evidence of herpesvirus infection was found in visceral organs of four leukemic patients who had received large doses of cytarabine (cytosine arabinoside; Ara-C) shortly before their death.
+	Gold labels: herpesvirus infection
+	Manual labels:
+	Comments:
+
+Error in 8:We report a fatal case of acute interstitial pneumonitis in a patient treated with carmustine ( BCNU ) for a brain tumor .
+Prediction: case#O of#O acute#B
+Comments:
+
+	Similar sentence 0: 10348150.2.txt Score: 0.667 Matches: [['case', 'case'], ['of', 'of'], ['acute', 'acute'], ['interstitial', 'interstitial'], ['pneumonitis', 'pneumonitis'], ['in', 'in'], ['a', 'a'], ['patient', 'patient'], ['treated', 'treated'], ['with', 'with'], ['present', 'report'], ['We', 'We'], ['a', 'a']]
+	Sentence: We present a case of acute interstitial pneumonitis in a patient who was treated with hydroxyurea for essential thrombocythemia.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 19039026.3.txt Score: 0.605 Matches: [['of', 'of'], ['acute', 'acute'], ['interstitial', 'interstitial'], ['in', 'in'], ['a', 'a'], ['patient', 'patient'], ['We', 'We'], ['report', 'report'], ['occurrence', 'case'], ['treatment', 'treated'], ['cancer', 'tumor'], ['for', 'for'], ['with', 'with']]
+	Sentence: We report the first biopsy confirmed occurrence of acute interstitial nephritis in a patient receiving treatment with Sunitinib for metastatic renal cell cancer.
+	Gold labels: acute interstitial nephritis
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 20110001.5.txt Score: 0.526 Matches: [['We', 'We'], ['report', 'report'], ['a', 'a'], ['in', 'in'], ['a', 'a'], ['patient', 'patient'], ['case', 'case'], ['of', 'of'], ['treated', 'treated'], ['with', 'with']]
+	Sentence: OBJECTIVE: We report a case of cutaneous KS lesions in a patient affected by CML treated with imatinib.
+	Gold labels: cutaneous KS lesions
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 15661067.2.txt Score: 0.513 Matches: [['We', 'We'], ['report', 'report'], ['a', 'a'], ['case', 'case'], ['of', 'of'], ['patient', 'patient'], ['a', 'a'], ['treatment', 'treated'], ['with', 'with'], ['during', 'in']]
+	Sentence: We report a case of a male infertility patient with asthenozoospermia during long-term treatment with anti-epileptic drugs.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 7835785.1.txt Score: 0.512 Matches: [['case', 'case'], ['of', 'of'], ['in', 'in'], ['a', 'a'], ['treated', 'treated'], ['with', 'with'], ['present', 'report'], ['We', 'We'], ['patient', 'patient'], ['cancer', 'tumor'], ['for', 'for']]
+	Sentence: We present the first case of ovarian endometrioid carcinoma and endometriosis in a postmenopausal patient who was treated with tamoxifen for breast cancer.
+	Gold labels: endometriosis	ovarian endometrioid carcinoma
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 12927328.2.txt Score: 0.500 Matches: [['patient', 'patient'], ['treated', 'treated'], ['with', 'with'], ['case', 'case'], ['of', 'of'], ['present', 'report'], ['We', 'We'], ['a', 'a'], ['a', 'a']]
+	Sentence: We present a surprising case of a woman schizophrenic patient treated with clozapine suffering from EPS.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 12153007.3.txt Score: 0.500 Matches: [['We', 'We'], ['report', 'report'], ['a', 'a'], ['case', 'case'], ['of', 'of'], ['in', 'in'], ['a', 'a'], ['treated', 'treated'], ['with', 'with']]
+	Sentence: We report a case of HCL in a 66-year-old male treated with 2-deoxycoformycin.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 12773807.6.txt Score: 0.488 Matches: [['in', 'in'], ['a', 'a'], ['patient', 'patient'], ['case', 'case'], ['of', 'of'], ['treated', 'treated'], ['with', 'with'], ['present', 'report'], ['We', 'We'], ['a', 'a']]
+	Sentence: We present a case of disseminated cryptococcal infection in a patient with pemphigus vulgaris treated with high dose corticosteroids as monotherapy.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 17873198.3.txt Score: 0.488 Matches: [['We', 'We'], ['report', 'report'], ['a', 'a'], ['in', 'in'], ['a', 'a'], ['patient', 'patient'], ['case', 'case'], ['of', 'of'], ['fatal', 'fatal'], ['cancer', 'tumor']]
+	Sentence: We report a case of fatal pulmonary toxicity in a patient with advanced non-small cell lung cancer who received erlotinib.
+	Gold labels: fatal pulmonary toxicity
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 12086549.4.txt Score: 0.486 Matches: [['in', 'in'], ['a', 'a'], ['patient', 'patient'], ['treated', 'treated'], ['with', 'with'], ['report', 'report'], ['a', 'a'], ['case', 'case'], ['of', 'of']]
+	Sentence: OBJECTIVE: To report a case of cutaneous and hematologic toxicity in a patient treated with IL-2.
+	Gold labels: cutaneous and hematologic toxicity
+	Manual labels:
+	Comments:
+
+Error in 34:This is the first report of a possible association between an acute cardiovascular event and venlafaxine .
+Prediction: acute#O cardiovascular#O event#O
+Comments:
+
+	Similar sentence 0: 2316232.2.txt Score: 0.552 Matches: [['is', 'is'], ['the', 'the'], ['first', 'first'], ['a', 'a'], ['possible', 'possible'], ['report', 'report'], ['case', 'event'], ['This', 'This']]
+	Sentence: This case report is the first to describe a possible interaction with glipizide.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 19499966.8.txt Score: 0.529 Matches: [['this', 'This'], ['is', 'is'], ['the', 'the'], ['first', 'first'], ['report', 'report'], ['of', 'of'], ['association', 'association'], ['between', 'between'], ['an', 'a']]
+	Sentence: To the best of our knowledge, this is the first report of an association between sunitinib and gynaecomastia.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 18628507.7.txt Score: 0.516 Matches: [['this', 'This'], ['is', 'is'], ['the', 'the'], ['first', 'first'], ['report', 'report'], ['of', 'of'], ['associated', 'association'], ['an', 'a']]
+	Sentence: To our knowledge, this is the first report of an angio-oedema associated with VRC.
+	Gold labels: angio-oedema
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 9352164.13.txt Score: 0.514 Matches: [['this', 'This'], ['is', 'is'], ['the', 'the'], ['first', 'first'], ['report', 'report'], ['of', 'of'], ['acute', 'acute'], ['associated', 'association'], ['case', 'event']]
+	Sentence: As far as we know, this is the first case report of acute hemorrhagic gastritis associated with AZ intoxication.
+	Gold labels: acute hemorrhagic gastritis
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 6324592.5.txt Score: 0.500 Matches: [['This', 'This'], ['is', 'is'], ['the', 'the'], ['first', 'first'], ['report', 'report'], ['of', 'of'], ['a', 'a']]
+	Sentence: This is the first report of a disulfiram-like reaction with cefmenoxime.
+	Gold labels: disulfiram-like reaction
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 3159106.5.txt Score: 0.467 Matches: [['the', 'the'], ['first', 'first'], ['case', 'event'], ['A', 'an'], ['possibly', 'possible'], ['reported', 'report'], ['is', 'is']]
+	Sentence: A case of allopurinol hypersensitivity, possibly the first in a black African, is reported.
+	Gold labels: hypersensitivity
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 20190474.5.txt Score: 0.452 Matches: [['This', 'This'], ['is', 'is'], ['the', 'the'], ['first', 'first'], ['report', 'report'], ['of', 'of'], ['acute', 'acute']]
+	Sentence: This is the first report of acute kidney injury due to zonisamide-induced DRESS/DIHS.
+	Gold labels: DRESS	acute kidney injury
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 10348150.4.txt Score: 0.452 Matches: [['This', 'This'], ['is', 'is'], ['the', 'the'], ['first', 'first'], ['acute', 'acute'], ['reported', 'report'], ['case', 'event']]
+	Sentence: This is the first case of hydroxyurea-induced acute interstitial pneumonitis reported in the literature.
+	Gold labels: acute interstitial pneumonitis
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 14760958.8.txt Score: 0.452 Matches: [['This', 'This'], ['is', 'is'], ['the', 'the'], ['first', 'first'], ['report', 'report'], ['of', 'of'], ['occurrence', 'event']]
+	Sentence: CONCLUSIONS: This is the first report of occurrence of scleromyxedema in a patient with MS.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 10688731.5.txt Score: 0.444 Matches: [['This', 'This'], ['is', 'is'], ['the', 'the'], ['first', 'first'], ['report', 'report'], ['of', 'of']]
+	Sentence: This is the first report of UFT-induced scleroderma-like reaction.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 37:Flutamide withdrawal syndrome is characterized by a decrease in prostate - specific antigen ( PSA ) after flutamide withdrawal in a subset of patients with progressing metastatic carcinoma of the prostate .
+Prediction: Flutamide#O withdrawal#O syndrome#O
+Comments:
+
+	Similar sentence 0: 11903249.8.txt Score: 0.320 Matches: [['by', 'by'], ['a', 'a'], ['of', 'of'], ['the', 'the'], ['marked', 'characterized'], ['is', 'is'], ['reduction', 'decrease'], ['evolution', 'progressing']]
+	Sentence: The evolution is fairly stereotypical and is marked by a regression of the lesions following a dose reduction or curtailment of interferon.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 20349794.1.txt Score: 0.316 Matches: [['carcinoma', 'carcinoma'], ['of', 'of'], ['the', 'the'], ['in', 'in'], ['a', 'a'], ['patient', 'patients'], ['advanced', 'progressing'], ['syndrome', 'syndrome'], ['with', 'with']]
+	Sentence: We present a case of the syndrome of inappropriate antidiuretic hormone (SIADH) secondary to cisplatin therapy in a patient with advanced-stage large cell neuroendocrine carcinoma of the cervix.
+	Gold labels: SIADH	syndrome of inappropriate antidiuretic hormone
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 16317298.0.txt Score: 0.316 Matches: [['in', 'in'], ['a', 'a'], ['patient', 'patients'], ['recall', 'withdrawal'], ['cancer', 'carcinoma'], ['with', 'with']]
+	Sentence: Gemcitabine-related radiation recall in a patient with pancreatic cancer.
+	Gold labels: radiation recall
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 18661248.3.txt Score: 0.314 Matches: [['in', 'in'], ['a', 'a'], ['describe', 'characterized'], ['withdrawal', 'withdrawal'], ['CSA', 'PSA'], ['patient', 'patients'], ['with', 'with'], ['after', 'after']]
+	Sentence: We describe a case of PRES in a patient with collapsing focal glomeruloesclerosis (collapsing FGS) with complete recovery after withdrawal of cyclosporine (CSA).
+	Gold labels: PRES
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 15479299.0.txt Score: 0.298 Matches: [['in', 'in'], ['a', 'a'], ['carcinoma', 'carcinoma'], ['metastatic', 'metastatic'], ['patient', 'patients'], ['Progressive', 'progressing'], ['with', 'with']]
+	Sentence: Progressive anemia following combination therapy with interferon-alpha and interleukin-2 in a patient with metastatic renal cell carcinoma.
+	Gold labels: Progressive anemia
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 15779196.0.txt Score: 0.279 Matches: [['in', 'in'], ['a', 'a'], ['prostate', 'prostate'], ['cancer', 'carcinoma'], ['patient', 'patients'], ['with', 'with']]
+	Sentence: Zoledronic acid-induced severe hypocalcaemia in a prostate cancer patient with extensive osteoblastic bone metastases.
+	Gold labels: severe hypocalcaemia
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 17260498.0.txt Score: 0.279 Matches: [['in', 'in'], ['a', 'a'], ['prostate', 'prostate'], ['cancer', 'carcinoma'], ['patient', 'patients'], ['with', 'with']]
+	Sentence: Fatal interstitial pneumonitis associated with docetaxel administration in a patient with hormone-refractory prostate cancer.
+	Gold labels: Fatal interstitial pneumonitis
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 16268429.8.txt Score: 0.279 Matches: [['in', 'in'], ['a', 'a'], ['reduction', 'decrease'], ['withdrawal', 'withdrawal'], ['progressive', 'progressing'], ['in', 'in']]
+	Sentence: Drug withdrawal resulted in a slow and progressive reduction in bilirubin levels and liver enzymes.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 18585545.4.txt Score: 0.279 Matches: [['of', 'of'], ['the', 'the'], ['Withdrawal', 'withdrawal'], ['patient', 'patients'], ['of', 'of'], ['s', 'with']]
+	Sentence: Withdrawal of the medication was associated with return of the patient's normal mental status.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 19745701.0.txt Score: 0.279 Matches: [['in', 'in'], ['a', 'a'], ['advanced', 'progressing'], ['cancer', 'carcinoma'], ['patient', 'patients'], ['with', 'with']]
+	Sentence: Reversible methotrexate-associated lymphoproliferative disorder resembling advanced gastric cancer in a patient with rheumatoid arthritis.
+	Gold labels: lymphoproliferative disorder
+	Manual labels:
+	Comments:
+
+Error in 24:Nine delirious patients suffering from lithium intoxication were examined with the Mini - Mental State Exam ( MMS ) to describe the clinical course of the disorder .
+Prediction: delirious#O
+Comments:
+
+	Similar sentence 0: 10755579.5.txt Score: 0.400 Matches: [['examiner', 'examined'], ['medical', 'clinical'], ['report', 'State'], ['indicated', 'describe'], ['toxicity', 'intoxication'], ['The', 'the'], ['s', 'with']]
+	Sentence: The medical examiner's report indicated death caused by fluoxetine toxicity.
+	Gold labels: death
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 11352235.3.txt Score: 0.343 Matches: [['clinical', 'clinical'], ['course', 'course'], ['reviewed', 'examined'], ['was', 'were'], ['identified', 'describe'], ['patients', 'patients']]
+	Sentence: Five such patients were identified and their clinical course was reviewed.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 17310853.4.txt Score: 0.341 Matches: [['course', 'course'], ['of', 'of'], ['the', 'the'], ['with', 'with'], ['the', 'the'], ['pain', 'suffering'], ['the', 'the']]
+	Sentence: Abdominal pain deteriorated early in the course of the therapy along with the enlargement of the tumors.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 897744.3.txt Score: 0.326 Matches: [['The', 'the'], ['clinical', 'clinical'], ['course', 'course'], ['of', 'of'], ['the', 'the'], ['patient', 'patients'], ['studies', 'examined']]
+	Sentence: The clinical course and results of renal biopsy studies suggest multiple causes of the renal lesions in this patient.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 85289.4.txt Score: 0.321 Matches: [['the', 'the'], ['clinical', 'clinical'], ['course', 'course'], ['of', 'of'], ['the', 'the'], ['describes', 'describe'], ['patient', 'patients'], ['report', 'State'], ['review', 'examined']]
+	Sentence: This report describes the clinical course of the patient over a period of 4 months after the nerve block and the post-mortem findings along with a brief review of the literature.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 1621023.1.txt Score: 0.314 Matches: [['The', 'the'], ['clinical', 'clinical'], ['reviewed', 'examined'], ['were', 'were'], ['identify', 'describe'], ['patients', 'patients'], ['reports', 'State'], ['to', 'to']]
+	Sentence: The clinical polysomnographic (PSG) reports of 2,650 consecutive adults studied during 41 months were reviewed retrospectively to identify all patients treated with fluoxetine or tricyclic antidepressants.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 15482394.6.txt Score: 0.311 Matches: [['the', 'the'], ['clinical', 'clinical'], ['of', 'of'], ['the', 'the'], ['patient', 'patients'], ['status', 'State'], ['conditions', 'disorder']]
+	Sentence: Based on the clinical status of the patient, it was suspected that several conditions contributed to the abnormal hypersensitivity to warfarin.
+	Gold labels: abnormal hypersensitivity
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 3365032.5.txt Score: 0.308 Matches: [['course', 'course'], ['of', 'of'], ['the', 'the'], ['patient', 'patients'], ['illness', 'disorder'], ['the', 'the']]
+	Sentence: Electromyography, muscle biopsy, and the course of the patient's illness were consistent with polymyositis.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 11554897.6.txt Score: 0.308 Matches: [['considered', 'examined'], ['be', 'were'], ['mental', 'Mental'], ['status', 'State'], ['toxicity', 'intoxication'], ['patients', 'patients']]
+	Sentence: LTG toxicity should be considered in patients taking this drug who have depressed mental status. 
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 8840640.2.txt Score: 0.308 Matches: [['progress', 'course'], ['described', 'describe'], ['The', 'the'], ['patient', 'patients'], ['reported', 'State'], ['of', 'of']]
+	Sentence: The progress and management of this complication are described in the patient is being reported.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+Error in 29:An acute ischaemic event associated with the use of venlafaxine : a case report and proposed pathophysiological mechanisms .
+Prediction: acute#O ischaemic#O event#O
+Comments:
+
+	Similar sentence 0: 1378497.0.txt Score: 0.533 Matches: [['with', 'with'], ['the', 'the'], ['use', 'use'], ['of', 'of'], ['report', 'report'], ['a', 'a'], ['cases', 'case'], ['association', 'associated']]
+	Sentence: Scleroderma in association with the use of bleomycin: a report of 3 cases.
+	Gold labels: Scleroderma
+	Manual labels:
+	Comments:
+
+	Similar sentence 1: 4004433.3.txt Score: 0.514 Matches: [['the', 'the'], ['use', 'use'], ['of', 'of'], ['associated', 'associated'], ['with', 'with'], ['cases', 'event'], ['present', 'report'], ['pathophysiology', 'pathophysiological'], ['and', 'and']]
+	Sentence: We present four cases in which the use of heparin was associated with hyperkalemia and discuss the pathophysiology.
+	Gold labels: hyperkalemia
+	Manual labels:
+	Comments:
+
+	Similar sentence 2: 16615675.3.txt Score: 0.452 Matches: [['a', 'a'], ['case', 'case'], ['use', 'use'], ['of', 'of'], ['associated', 'associated'], ['with', 'with'], ['report', 'report']]
+	Sentence: We report a case of chronic use of HCQ associated with torsade de pointes.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 3: 7485371.1.txt Score: 0.424 Matches: [['associated', 'associated'], ['with', 'with'], ['the', 'the'], ['use', 'use'], ['of', 'of'], ['a', 'a'], ['case', 'case']]
+	Sentence: PURPOSE: We studied a case of vortex keratopathy that was associated with the use of atovaquone.
+	Gold labels: vortex keratopathy
+	Manual labels:
+	Comments:
+
+	Similar sentence 4: 18533420.0.txt Score: 0.414 Matches: [['associated', 'associated'], ['with', 'with'], ['report', 'report'], ['a', 'a'], ['cases', 'case'], ['use', 'use']]
+	Sentence: Sexual dysfunction associated with intrathecal baclofen use: a report of two cases.
+	Gold labels: Sexual dysfunction
+	Manual labels:
+	Comments:
+
+	Similar sentence 5: 2347102.3.txt Score: 0.400 Matches: [['a', 'a'], ['case', 'case'], ['associated', 'associated'], ['with', 'with'], ['report', 'report']]
+	Sentence: We report on a case associated with atenolol.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 6: 2690546.2.txt Score: 0.387 Matches: [['associated', 'associated'], ['with', 'with'], ['the', 'the'], ['use', 'use'], ['of', 'of'], ['occurrence', 'event']]
+	Sentence: The occurrence of torsades de pointe is often associated with the use of drugs.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 7: 17519584.3.txt Score: 0.387 Matches: [['a', 'a'], ['case', 'case'], ['associated', 'associated'], ['with', 'with'], ['report', 'report'], ['CASE', 'event']]
+	Sentence: CASE SUMMARY: We report a case of scleroderma with DIHS associated with paramyxovirus infection.
+	Gold labels: 
+	Manual labels:
+	Comments:
+
+	Similar sentence 8: 15307435.2.txt Score: 0.385 Matches: [['the', 'the'], ['use', 'use'], ['of', 'of'], ['associated', 'associated'], ['with', 'with'], ['a', 'a'], ['case', 'case'], ['present', 'proposed'], ['report', 'report'], ['and', 'and']]
+	Sentence: In this report, we present a case of hypoglycaemic coma associated with SP, an adverse reaction that is likely to be underreported and expected to occur with greater frequency as the use of SP increases.
+	Gold labels: hypoglycaemic coma
+	Manual labels:
+	Comments:
+
+	Similar sentence 9: 12439602.0.txt Score: 0.385 Matches: [['a', 'a'], ['case', 'case'], ['report', 'report'], ['coronary', 'ischaemic'], ['presenting', 'proposed']]
+	Sentence: Carboplatin hypersensitivity presenting as coronary vasospasm - a case report.
+	Gold labels: coronary vasospasm
+	Manual labels:
+	Comments:
+

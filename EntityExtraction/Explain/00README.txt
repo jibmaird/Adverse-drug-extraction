@@ -1,0 +1,5 @@
+- Test: testing tools
+- Lime: Lime (BOW) for explanability
+- SentEmbed: use external pre-trained sentence embeddings
+- SentEmbed2: use BERT sentence embeddings from our task
+- experiment.pl: full pipeline
